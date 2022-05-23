@@ -6,6 +6,11 @@ cover-img: /assets/img/people_blank.png
 
 
 ***
+## Invited Speakers
+* Dr. Fiona Fidler
+* Dr. Steve Fiore
+
+***
 
 ## Co-Organizers
 * [Heidi A. Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, [ManyBabies](https://manybabies.github.io)*
