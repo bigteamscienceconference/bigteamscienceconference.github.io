@@ -13,18 +13,14 @@ The **2022 Big Team Science Conference**
 
 
 ***
-## [People]({{site.baseurl}}/people/)
+## [Schedule]({{site.baseurl}}/schedule/) 
 
 
 ***
-## [Events]({{site.baseurl}}/events/)
-
-
-***
-## [News]({{site.baseurl}}/news/)
+## [People]({{site.baseurl}}/people/) 
 
  
 ***
-## [Contact]({{site.baseurl}}/contact/)
+## [Contact]({{site.baseurl}}/contact/) 
 
 
