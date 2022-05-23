@@ -9,7 +9,7 @@ Notes
 	- logo and project placeholders follow it.
 --->
 
-The Stanford **Big Team Science (BiTS)** Lab was established in 2021 to facilitate conversations between members of large-scale collaborations (both at Stanford and beyond) and to advance the work done by these groups.
+The **2022 Big Team Science Conference** 
 
 
 ***
@@ -25,6 +25,6 @@ The Stanford **Big Team Science (BiTS)** Lab was established in 2021 to facilita
 
  
 ***
-## [Get involved!]({{site.baseurl}}/get_involved/)
+## [Contact]({{site.baseurl}}/contact/)
 
 
