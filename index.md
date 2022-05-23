@@ -1,6 +1,6 @@
 ---
 layout: page
-cover-img: /assets/img/BTSCon2022_header.png
+cover-img: /assets/img/BTSCon2022_header2.png
 ---
 
 <!---
