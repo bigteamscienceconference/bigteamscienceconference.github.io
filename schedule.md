@@ -15,6 +15,6 @@ Details TBA
 
 
 ### Contact us
-If you have any questions about the 2022 BTScon [contact us]({{site.baseurl}}/contact/).
+If you have any questions about the 2022 BTSCon [contact us]({{site.baseurl}}/contact/).
 
 
