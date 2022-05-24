@@ -14,6 +14,7 @@ author: Heidi Baumgartner (adapted from bigteamsciencelab.github.io)
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "index"
   Schedule: "schedule"
   People: "people"
   Contact: "contact"
@@ -105,14 +106,14 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#BFBFBF"
 navbar-text-col: "#203664"
 navbar-border-col: "#203664"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#00b0F0"
 hover-col: "#B72573"
-footer-col: "#F5F5F5"
+footer-col: "#BFBFBF"
 footer-text-col: "#777777"
 footer-link-col: "203664"
 footer-hover-col: "#B72573"

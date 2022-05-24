@@ -6,7 +6,7 @@ cover-img: /assets/img/people_blank.png
 
 
 ***
-## Invited Speakers
+## Invited Keynote Speakers
 * Dr. Fiona Fidler
 * Dr. Steve Fiore
 
