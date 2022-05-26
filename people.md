@@ -11,7 +11,12 @@ cover-img: /assets/img/people_blank.png
 * Dr. Steve Fiore
 
 ***
+## Sponsors
+* [ManyBabies](https://manybabies.github.io)
+* [ManyPrimates](https://manyprimates.github.io)
+* [Psychological Science Accelerator](https://psysciacc.org)
 
+***
 ## Co-Organizers
 * [Heidi A. Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, [ManyBabies](https://manybabies.github.io)*
 * [Manuel Bohn](https://manuelbohn.github.io), *Max Planck Institute for Evolutionary Anthropology, [ManyPrimates](https://manyprimates.github.io)*
