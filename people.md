@@ -11,7 +11,7 @@ cover-img: /assets/img/people_blank.png
 * Dr. Steve Fiore
 
 ***
-## Sponsors
+## Sponsor Organizations
 * [ManyBabies](https://manybabies.github.io)
 * [ManyPrimates](https://manyprimates.github.io)
 * [Psychological Science Accelerator](https://psysciacc.org)
