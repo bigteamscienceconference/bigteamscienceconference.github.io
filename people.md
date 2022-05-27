@@ -29,15 +29,15 @@ cover-img: /assets/img/people_blank.png
 		<div class="row justify-content-around">
 		  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
 		    <a href="https://manybabies.github.io" class="image"><img src="/assets/img/MB_logo.png" alt="" /></a>
-			   <h3>ManyBabies</h3>
+			   <h4>ManyBabies</h4>
 		  </div>
       <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-			  <a href="https://manyprimates.github.io" class="image"><img src="/assets/img/mp_logo_notext.png" alt="" /></a>
-			  <h3>ManyPrimates</h3>
+			  <a href="https://manyprimates.github.io" class="image"><img src="/assets/img/mp_logo_notext2.jpg" alt="" /></a>
+			  <h4>ManyPrimates</h4>
 		  </div>
 		  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
 			  <a href="https://https://psysciacc.org/" class="image"><img src="/assets/img/psa_logo.png" alt="" /></a>
-			  <h3>Psychological Science Accelerator</h3>
+			  <h4>Psychological Science Accelerator</h4>
 		  </div>
 	  </div>
 	</div>
