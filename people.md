@@ -24,11 +24,8 @@ cover-img: /assets/img/people_blank.png
 	</header>
 	<div class="posts">
 		<article>
-			<a href="{{ 'review' | absolute_url }}" class="image"><img src="assets/img/MB_logo.png" alt="" /></a>
+			<a href="https://manybabies.github.io" class="image"><img src="assets/img/MB_logo.png" alt="" /></a>
 			<h3>ManyBabies</h3>
-			<ul class="actions">
-				<li><a href="{{ 'review' | absolute_url }}" class="button">Learn more</a></li>
-			</ul>
 		</article>
 		<article>
 			<a href="{{ 'pilot' | absolute_url }}" class="image"><img src="assets/img/mp_logo_notext.png" alt="" /></a>
