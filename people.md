@@ -28,7 +28,7 @@ cover-img: /assets/img/people_blank.png
 			  <a href="https://manyprimates.github.io" class="image"><img src="/assets/img/mp_logo_notext2.png" alt="" /></a>
 			  <h4>ManyPrimates</h4>
 		  </div>
-		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3"> 
+		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
 			  <a href="https://psysciacc.org/" class="image"><img src="/assets/img/psa_logo.png" alt="" /></a>
 			  <h4>Psychological Science Accelerator</h4>
 		  </div>
