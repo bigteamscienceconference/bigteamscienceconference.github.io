@@ -24,15 +24,14 @@ cover-img: /assets/img/people_blank.png
 	</header>
 	<div class="posts">
 		<article>
-			<a href="{{ 'review' | absolute_url }}" class="image"><img src="assets/images/pic10.jpg" alt="" /></a>
+			<a href="{{ 'review' | absolute_url }}" class="image"><img src="assets/img/MB_logo.png" alt="" /></a>
 			<h3>ManyBabies</h3>
-			<p>MB placeholder text</p>
 			<ul class="actions">
 				<li><a href="{{ 'review' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
 		</article>
 		<article>
-			<a href="{{ 'pilot' | absolute_url }}" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
+			<a href="{{ 'pilot' | absolute_url }}" class="image"><img src="assets/img/mp_logo_notext.png" alt="" /></a>
 			<h3>ManyPrimates</h3>
 			<p>MP placeholder text </p>
 			<ul class="actions">
@@ -40,7 +39,7 @@ cover-img: /assets/img/people_blank.png
 			</ul>
 		</article>
 		<article>
-			<a href="{{ 'mp1' | absolute_url }}" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+			<a href="{{ 'mp1' | absolute_url }}" class="image"><img src="assets/img/psa_logo.png" alt="" /></a>
 			<h3>Psychological Science Accelerator</h3>
 			<p>PSA placeholder text</p>
 			<ul class="actions">
