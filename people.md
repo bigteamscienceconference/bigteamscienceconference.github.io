@@ -17,7 +17,7 @@ cover-img: /assets/img/people_blank.png
 * [Psychological Science Accelerator](https://psysciacc.org)
 
 ***
-<!-- Section 
+
 <section>
 	<header class="major">
 		<h2>Sponsor Organizations</h2>
@@ -25,36 +25,20 @@ cover-img: /assets/img/people_blank.png
 	<div class="container">
 		<div class="row justify-content-around">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-			<a href="https://manybabies.github.io" class="image"><img src="assets/img/MB_logo.png" alt="" /></a>
+			<a href="https://manybabies.github.io" class="image"><img src="/assets/img/MB_logo.png" alt="" /></a>
 			<h3>ManyBabies</h3>
-		</div>
-		<article>
-			<a href="{{ 'pilot' | absolute_url }}" class="image"><img src="assets/img/mp_logo_notext.png" alt="" /></a>
-			<h3>ManyPrimates</h3>
-			<p>MP placeholder text </p>
-			<ul class="actions">
-				<li><a href="{{ 'pilot' | absolute_url }}" class="button">Learn more</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="{{ 'mp1' | absolute_url }}" class="image"><img src="assets/img/psa_logo.png" alt="" /></a>
-			<h3>Psychological Science Accelerator</h3>
-			<p>PSA placeholder text</p>
-			<ul class="actions">
-				<li><a href="{{ 'mp1' | absolute_url }}" class="button">Learn more</a></li>
-			</ul>
 		</div>
 	</div>
 </section>
--->
 
 
+<!--
 <a href="https://manybabies.github.io" class="image">
   <img src="/assets/img/MB_logo.jpg" />
 </a>
 <h4>ManyBabies</h4>
 
-<!--        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+       <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
           <a href="https://manyprimates.github.io" class="image">
             <img src="/assets/img/MB_logo.jpg" />
           </a>
