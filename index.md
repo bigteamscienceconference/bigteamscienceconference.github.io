@@ -7,6 +7,8 @@ layout: page
 
 The goal of this two-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to large-scale collaborations in science.
 
+Stay tuned for more information regarding submissions, registrations, and program details!
+
 ***
 <!--## [Speakers]({{site.baseurl}}/people/) 
 -->
