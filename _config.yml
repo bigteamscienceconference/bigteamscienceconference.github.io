@@ -15,8 +15,7 @@ author: Heidi Baumgartner (adapted from bigteamsciencelab.github.io)
 
 navbar-links:
   Home: "index"
-  Schedule: "schedule"
-  People: "people"
+  Program: "program"
   Contact: "contact"
   
 #  About Me: "aboutme"
