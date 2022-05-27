@@ -52,7 +52,7 @@ cover-img: /assets/img/people_blank.png
 	<header class="major">
 		<h2>Sponsor Organizations</h2>
 	</header>
-<div class="container">
+  <div class="container">
 		<div class="row justify-content-around">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
         <a href="https://manybabies.github.io" class="image">
@@ -61,14 +61,16 @@ cover-img: /assets/img/people_blank.png
         <h4>ManyBabies</h4>
     		</div>
 
-			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-			<a href="https://manyprimates.github.io" class="image">
-				<img src="assets/img/mp_logo_notext.png" />
-			</a>
-			<h4>ManyPrimates</h4>
-			</div>
+			  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+			  <a href="https://manyprimates.github.io" class="image">
+				  <img src="assets/img/mp_logo_notext.png" />
+			  </a>
+			  <h4>ManyPrimates</h4>
+			  </div>
+		</div>
 	</div>
 </section>
+
 
 ***
 ## Co-Organizers
