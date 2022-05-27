@@ -1,17 +1,9 @@
 ---
 layout: page
-cover-img: /assets/img/BTSCon2022_header.png
 ---
 
-<!---
-Notes
-- When using colors, use the color-blind palette from Wong (https://www.nature.com/articles/nmeth.1618.pdf?origin=ppub)
-	- logo and project placeholders follow it.
---->
 
-The **2022 Big Team Science Conference** 
-
-
+<img src="/assets/img/BTSCon2022_logo.png" alt="" />
 
 ***
 <!--## [Speakers]({{site.baseurl}}/people/) 
@@ -26,10 +18,30 @@ The **2022 Big Team Science Conference**
 -->
 
 ***
-## Sponsor Organizations
-* [ManyBabies](https://manybabies.github.io)
-* [ManyPrimates](https://manyprimates.github.io)
-* [Psychological Science Accelerator](https://psysciacc.org)
+<section>
+	<header class="major">
+		<h2>Sponsor Organizations</h2>
+	</header>
+	
+	<br>
+	
+	<div class="container">
+		<div class="row justify-content-around">
+		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+		    <a href="https://manybabies.github.io" class="image"><img src="/assets/img/MB_logo.png" alt="" /></a>
+			   <h4>ManyBabies</h4>
+		  </div>
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			  <a href="https://manyprimates.github.io" class="image"><img src="/assets/img/mp_logo_notext2.png" alt="" /></a>
+			  <h4>ManyPrimates</h4>
+		  </div>
+		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			  <a href="https://psysciacc.org/" class="image"><img src="/assets/img/psa_logo.png" alt="" /></a>
+			  <h4>Psychological Science Accelerator</h4>
+		  </div>
+	  </div>
+	</div>
+</section>
 
 ***
 ## Co-Organizers
