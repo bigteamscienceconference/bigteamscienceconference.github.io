@@ -16,7 +16,7 @@ cover-img: /assets/img/people_blank.png
 * [ManyPrimates](https://manyprimates.github.io)
 * [Psychological Science Accelerator](https://psysciacc.org)
 
-
+***
 <!-- Section 
 <section>
 	<header class="major">
@@ -52,16 +52,32 @@ cover-img: /assets/img/people_blank.png
 	<header class="major">
 		<h2>Sponsor Organizations</h2>
 	</header>
+
+<br>
+
   <div class="container">
-		<div class="row justify-content-around">
+    <div class="row justify-content-around">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-          <img src="assets/img/BTSCon2022_avatar.png" />
+          <a href="{{site.baseurl}}{% link contact.md %}" class="image">
+            <img src="assets/img/BTSCon2022.png" />
+          </a>
           <h4>ManyBabies</h4>
-    		</div>
-		</div>
+              <a href="{{site.baseurl}}{% link contact.md %}" class="button">Learn more</a>
+        </div>
+
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+          <a href="{{site.baseurl}}{% link contact.md %}" class="image">
+            <img src="assets/img/BTSCon2022_avatar.png" />
+          </a>
+          <h4>ManyPrimates</h4>
+              <a href="{{site.baseurl}}{% link MB2.md %}" class="button">Learn more</a>
+        </div>
+    </div>
+
+<br>
+    
 	</div>
 </section>
-
 
 ***
 ## Co-Organizers
