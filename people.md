@@ -59,7 +59,7 @@ cover-img: /assets/img/people_blank.png
     <div class="row justify-content-around">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
           <a href="{{site.baseurl}}{% link contact.md %}" class="image">
-            <img src="assets/img/BTSCon2022.png" />
+            <img src="assets/img/MB_logo.jpg" />
           </a>
           <h4>ManyBabies</h4>
               <a href="{{site.baseurl}}{% link contact.md %}" class="button">Learn more</a>
