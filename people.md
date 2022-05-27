@@ -36,14 +36,12 @@ cover-img: /assets/img/people_blank.png
 			  <h4>ManyPrimates</h4>
 		  </div>
 		  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-			  <a href="https://https://psysciacc.org/" class="image"><img src="/assets/img/psa_logo.png" alt="" /></a>
+			  <a href="https://psysciacc.org/" class="image"><img src="/assets/img/psa_logo.png" alt="" /></a>
 			  <h4>Psychological Science Accelerator</h4>
 		  </div>
 	  </div>
 	</div>
 </section>
-
-<br>
 
 ***
 ## Co-Organizers
