@@ -70,7 +70,7 @@ cover-img: /assets/img/people_blank.png
             <img src="assets/img/BTSCon2022_avatar.png" />
           </a>
           <h4>ManyPrimates</h4>
-              <a href="{{site.baseurl}}{% link MB2.md %}" class="button">Learn more</a>
+              <a href="{{site.baseurl}}{% link contact.md %}" class="button">Learn more</a>
         </div>
     </div>
 
