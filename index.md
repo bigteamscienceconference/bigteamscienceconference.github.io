@@ -17,6 +17,8 @@ The **2022 Big Team Science Conference**
 <!--## [Speakers]({{site.baseurl}}/people/) 
 -->
 ## Speakers
+* [Dr. Fiona Fidler](https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#)
+* [Dr. Steve Fiore](https://csl.ist.ucf.edu/People) 
 
 <!--
 ***
