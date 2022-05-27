@@ -48,29 +48,20 @@ cover-img: /assets/img/people_blank.png
 </section>
 -->
 
-<section>
-	<header class="major">
-		<h2>Sponsor Organizations</h2>
-	</header>
 
-<br>
+<a href="https://manybabies.github.io" class="image">
+  <img src="assets/img/MB_logo.jpg" />
+</a>
+<h4>ManyBabies</h4>
 
-  <div class="container">
-        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-          <a href="https://manybabies.github.io" class="image">
-            <img src="assets/img/MB_logo.jpg" />
-          </a>
-          <h4>ManyBabies</h4>
-        </div>
-
-        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+<!--        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
           <a href="https://manyprimates.github.io" class="image">
             <img src="assets/img/MB_logo.jpg" />
           </a>
           <h4>ManyPrimates</h4>
         </div>
-	</div>
-</section>
+-->
+
 
 ***
 ## Co-Organizers
