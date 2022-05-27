@@ -55,7 +55,7 @@ cover-img: /assets/img/people_blank.png
   <div class="container">
 		<div class="row justify-content-around">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-          <img src="assets/img/MB_logo.png" />
+          <img src="assets/img/BTSCon2022_avatar.png" />
           <h4>ManyBabies</h4>
     		</div>
 
