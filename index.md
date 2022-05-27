@@ -12,7 +12,7 @@ Stay tuned for more information regarding submissions, registrations, and progra
 ***
 <!--## [Speakers]({{site.baseurl}}/people/) 
 -->
-## Speakers
+## Keynote Speakers
 * [Dr. Fiona Fidler](https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#)
 * [Dr. Steve Fiore](https://csl.ist.ucf.edu/People) 
 
