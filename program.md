@@ -31,8 +31,8 @@ title: program
 ## Invited Talks
 
 <section>
-  <a href="http://decisionlab.elte.hu/members/balazs-aczel/"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150" style="float: left; margin-right: 15px;"></a>
-  <h3>Balazs Aczel</h3>
+  <a href="https://www.nature.com/articles/d41586-022-01332-8"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150" style="float: left; margin-right: 15px;"></a>
+  <a href="http://decisionlab.elte.hu/members/balazs-aczel/"><h3>Balazs Aczel</h3></a>
   <i>Vice-Dean for Science, Eötvös Loránd University, Budapest, Hungary</i>
   <h4>Multi-Analyst Projects</h4>
 </section>
@@ -48,7 +48,7 @@ title: program
 <br>
 <section>
   <a href=""><img src="/assets/img/tools.png" alt="tools" width="150" height="150" style="float: left; margin-right: 15px;"></a>
-  <h3>Erin Buchanan<sup>1</sup>, others TBA</h3>
+  <h3><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a><sup>1</sup>, others TBA</h3>
   <i><sup>1</sup>Harrisburg University of Science and Technology, USA; others TBA</i>
   <h4>Tools and Infrastructure of Big Team Science</h4>
 </section>
