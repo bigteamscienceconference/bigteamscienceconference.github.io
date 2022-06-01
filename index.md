@@ -18,6 +18,7 @@ Stay tuned for more information regarding submissions, registrations, and progra
 * [Steven M. Fiore, Ph.D.](https://csl.ist.ucf.edu/People), Professor, Cognitive Sciences, Department of Philosophy Director, Cognitive Sciences Laboratory, Institute for Simulation & Training, University of Central Florida, and President, International Network for the Science of Team Science 
   * *Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations*
 
+<img src="FidlerHeadshot.png" alt="Fiona Fidler, Ph.D." style="float: left; margin-right: 15px;">
 
 <section>
   <header class="major">
@@ -28,7 +29,7 @@ Stay tuned for more information regarding submissions, registrations, and progra
 		<div class="row justify-content-around">
 		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
 		    <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#" class="image">
-		      <img src="FidlerHeadshot.png" alt="Fiona Fidler, Ph.D." style="float: left; margin-right: 15px;"></a>
+		      <img src="/assets/img/FidlerHeadshot.png" alt="" /></a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
 			  <h3>Fiona Fidler, Ph.D.</h3>
