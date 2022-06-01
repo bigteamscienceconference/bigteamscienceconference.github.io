@@ -49,8 +49,8 @@ title: program
 <section>
   <a href=""><img src="/assets/img/tools.png" alt="tools" width="150" height="150" style="float: left; margin-right: 15px;"></a>
   <h3>Tools and Infrastructure of Big Team Science</h3>
-  <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a><sup>1</sup>, others TBA</h4>
-  <i><sup>1</sup>Harrisburg University of Science and Technology, USA; others TBA</i>
+  <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a></h4>, <i>Harrisburg University of Science and Technology, USA,</i><b>Canvas for BTS</b>
+  <h4>Others, TBA</h4>
 </section>
 <br>
 <br>
