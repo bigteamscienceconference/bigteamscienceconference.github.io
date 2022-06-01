@@ -37,7 +37,6 @@ Stay tuned for more information regarding submissions, registrations, and progra
 		  </div>
 		</div>
 	</div>
-	
 </section>
 
 <!--
