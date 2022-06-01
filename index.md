@@ -25,7 +25,7 @@ Stay tuned for more information regarding submissions, registrations, and progra
 <section>
   <a href="https://csl.ist.ucf.edu/People"><img src="/assets/img/FioreHeadshot.png" alt="Steven M. Fiore, Ph.D." width="250" height="250" style="float: left; margin-right: 15px;"></a>
   <h3>Steven M. Fiore, Ph.D.</h3>
-  <i>Professor, Cognitive Sciences, Department of Philosophy and Director, Cognitive Sciences Laboratory, Institute for Simulation & Training, University of Central Florida; President, International Network for the Science of Team Science</i>
+  <i>Professor, Cognitive Sciences, Department of Philosophy and Director, Cognitive Sciences Laboratory, Institute for Simulation & Training, University of Central Florida, USA; President, International Network for the Science of Team Science</i>
   <h4>Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations</h4>
 </section>
 <br>
