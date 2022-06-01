@@ -12,20 +12,24 @@ Stay tuned for more information regarding submissions, registrations, and progra
 ***
 <!--## [Speakers]({{site.baseurl}}/people/) 
 -->
-## Keynote Speakers
-* [Fiona Fidler, Ph.D.](https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#), Professor, History and Philosophy Science, University of Melbourne, Australia, and Australian Research Council Future Fellow  
-  * *Collaborative Assessments for Trustworthy Science: The repliCATS project*
-* [Steven M. Fiore, Ph.D.](https://csl.ist.ucf.edu/People), Professor, Cognitive Sciences, Department of Philosophy Director, Cognitive Sciences Laboratory, Institute for Simulation & Training, University of Central Florida, and President, International Network for the Science of Team Science 
-  * *Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations*
-
-<img src="/assets/img/FidlerHeadshot.png" alt="Fiona Fidler, Ph.D." width="300" height="300" style="float: left; margin-right: 15px;">
-### [Fiona Fidler, Ph.D.](https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#)
-*Professor, History and Philosophy Science, University of Melbourne, Australia, and Australian Research Council Future Fellow*
-
-#### Collaborative Assessments for Trustworthy Science: The repliCATS project
-
+<section>
+  <header class="major">
+		<h2>Keynote Speakers</h2>
+	</header>
+  <div>
+    <img src="/assets/img/FidlerHeadshot.png" alt="Fiona Fidler, Ph.D." width="300" height="300" style="float: left; margin-right: 15px;">
+    ### [Fiona Fidler, Ph.D.](https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#)
+    *Professor, History and Philosophy Science, University of Melbourne, Australia, and Australian Research Council Future Fellow*
+    #### Collaborative Assessments for Trustworthy Science: The repliCATS project
+  </div>
+  <div>
+    <img src="/assets/img/FioreHeadshot.png" alt="Steven M. Fiore, Ph.D." width="300" height="300" style="float: left; margin-right: 15px;">
+    ### [Steven M. Fiore, Ph.D.](https://csl.ist.ucf.edu/People)
+    *Professor, Cognitive Sciences, Department of Philosophy Director, Cognitive Sciences Laboratory, Institute for Simulation & Training, University of Central Florida, and President, International Network for the Science of Team Science*
+    #### Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations
+  </div>
 <br>
-
+</section>
 <!--
 ***
 ## [Program]({{site.baseurl}}/schedule/) 
