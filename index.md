@@ -26,7 +26,7 @@ Stay tuned for more information regarding submissions, registrations, and progra
 	<br>
 	<div class="container">
 		<div class="row justify-content-around">
-		  <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
 		    <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#" class="image">
 		      <img src="/assets/img/FidlerHeadshot.png" alt="" /></a>
       </div>
