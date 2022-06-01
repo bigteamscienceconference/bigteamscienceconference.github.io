@@ -7,7 +7,7 @@ layout: page
 
 The goal of this two-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to large-scale collaborations in science.
 
-Stay tuned for more information regarding submissions, registrations, and program details!
+Stay tuned for more information regarding submissions, registration, and program details!
 
 ***
 <!--## [Speakers]({{site.baseurl}}/people/) 
@@ -16,7 +16,7 @@ Stay tuned for more information regarding submissions, registrations, and progra
 
 <section>
   <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#"><img src="/assets/img/FidlerHeadshot.png" alt="Fiona Fidler, Ph.D." width="250" height="250" style="float: left; margin-right: 15px;"></a>
-  <h3>Fiona Fidler, Ph.D.</h3>
+  <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#"><h3>Fiona Fidler, Ph.D.</h3></a>
   <i>Professor, History and Philosophy Science, University of Melbourne, Australia; Australian Research Council Future Fellow</i>
   <h4>Collaborative Assessments for Trustworthy Science: The repliCATS project</h4>
 </section>
