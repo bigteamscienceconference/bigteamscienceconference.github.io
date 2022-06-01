@@ -81,7 +81,8 @@ Stay tuned for more information regarding submissions, registration, and program
 * Grace Zhou, *University of Manitoba, [ManyBabies](https://manybabies.github.io)*
 
 ***
-## [Contact Us]({{site.baseurl}}/contact/)
+## Contact Us
+If you have any questions about the 2022 BTSCon, contact us: [conference e-mail](mailto:bigteamscienceconference@gmail.com), [Nicholas Coles](mailto:ncoles@stanford.edu), [Heidi Baumgartner](mailto:heidib@stanford.edu), [Manuel Bohn](mailto:manuel0bohn@gmail.com), [Grace Zhou](mailto:grace.zhou@umanitoba.ca)
 
 
 
