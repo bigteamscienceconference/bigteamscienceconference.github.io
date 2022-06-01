@@ -30,8 +30,8 @@ Stay tuned for more information regarding submissions, registrations, and progra
 		    <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#" class="image">
 		      <img src="/assets/img/FidlerHeadshot.png" alt="" /></a>
       </div>
-      <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-			  <h3>Fiona Fidler, Ph.D.</h4>
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			  <h3>Fiona Fidler, Ph.D.</h3>
 			  *Professor, History and Philosophy Science, University of Melbourne, Australia, and Australian Research Council Future Fellow*
 			  <h4>Collaborative Assessments for Trustworthy Science: The repliCATS project</h4>
 		  </div>
