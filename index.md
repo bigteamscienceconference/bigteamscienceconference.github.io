@@ -13,8 +13,10 @@ Stay tuned for more information regarding submissions, registrations, and progra
 <!--## [Speakers]({{site.baseurl}}/people/) 
 -->
 ## Keynote Speakers
-* [Dr. Fiona Fidler](https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#)
-* [Dr. Steve Fiore](https://csl.ist.ucf.edu/People) 
+* [Fiona Fidler, Ph.D.](https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#), Professor, History and Philosophy Science, University of Melbourne, Australia, and Australian Research Council Future Fellow  
+  * *Collaborative Assessments for Trustworthy Science: The repliCATS project*
+* [Steven M. Fiore, Ph.D.](https://csl.ist.ucf.edu/People), Professor, Cognitive Sciences, Department of Philosophy Director, Cognitive Sciences Laboratory, Institute for Simulation & Training, University of Central Florida, and President, International Network for the Science of Team Science 
+  * *Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations*
 
 <!--
 ***
