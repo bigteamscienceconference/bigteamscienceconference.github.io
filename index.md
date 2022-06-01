@@ -13,6 +13,7 @@ Stay tuned for more information regarding submissions, registrations, and progra
 <!--## [Speakers]({{site.baseurl}}/people/) 
 -->
 ## Keynote Speakers
+<br>
 <section>
   <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#"><img src="/assets/img/FidlerHeadshot.png" alt="Fiona Fidler, Ph.D." width="300" height="300" style="float: left; margin-right: 15px;"></a>
   <h3>Fiona Fidler, Ph.D.</h3>
