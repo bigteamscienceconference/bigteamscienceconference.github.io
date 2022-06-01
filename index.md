@@ -28,20 +28,25 @@ Stay tuned for more information regarding submissions, registrations, and progra
   <i>Professor, Cognitive Sciences, Department of Philosophy and Director, Cognitive Sciences Laboratory, Institute for Simulation & Training, University of Central Florida, USA; President, International Network for the Science of Team Science</i>
   <h4>Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations</h4>
 </section>
-
+<br>
 
 <!--
 ***
 ## [Program]({{site.baseurl}}/schedule/) 
 -->
-<br>
+
+
 ***
 ## Important Dates
 
-**Submissions Open:** June 6, 2022
-**Submission Deadline:** July 22, 2022
+<p>**Submissions Open:** June 6, 2022</p>
+
+<p>**Submission Deadline:** July 22, 2022</p>
+
 **Submission Decisions:** August 5, 2022
+
 **Registration Open:** August 5, 2022
+
 
 ***
 ## Sponsor Organizations
