@@ -31,7 +31,7 @@ title: program
 ## Invited Talks
 
 <section>
-  <a href="http://decisionlab.elte.hu/members/balazs-aczel/"><img src="/assets/img/analysis.png" alt="analysis" width="250" height="250" style="float: left; margin-right: 15px;"></a>
+  <a href="http://decisionlab.elte.hu/members/balazs-aczel/"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150" style="float: left; margin-right: 15px;"></a>
   <h3>Balazs Aczel</h3>
   <i>Vice-Dean for Science, Eötvös Loránd University, Budapest, Hungary</i>
   <h4>Multi-Analyst Projects</h4>
@@ -40,7 +40,7 @@ title: program
 <br>
 <br>
 <section>
-  <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley" width="250" height="250" style="float: left; margin-right: 15px;"></a>
+  <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150" style="float: left; margin-right: 15px;"></a>
   <h3>name</h3>
   <i>affiliation</i>
   <h4>PSA 006: The Trolley Problem</h4>
@@ -49,7 +49,7 @@ title: program
 <br>
 <br>
 <section>
-  <a href=""><img src="/assets/img/tools.png" alt="tools" width="250" height="250" style="float: left; margin-right: 15px;"></a>
+  <a href=""><img src="/assets/img/tools.png" alt="tools" width="150" height="150" style="float: left; margin-right: 15px;"></a>
   <h3>Erin Buchanan<sup>1</sup>, others TBA</h3>
   <i><sup>1</sup>Harrisburg University of Science and Technology, USA; others TBA</i>
   <h4>Tools and Infrastructure of Big Team Science</h4>
