@@ -20,6 +20,7 @@ Stay tuned for more information regarding submissions, registrations, and progra
 
 <img src="FidlerHeadshot.png" alt="Fiona Fidler, Ph.D." style="float: left; margin-right: 15px;">
 
+<!--
 <section>
   <header class="major">
 		<h2>Keynote Speakers</h2>
@@ -39,6 +40,7 @@ Stay tuned for more information regarding submissions, registrations, and progra
 		</div>
 	</div>
 </section>
+-->
 
 <!--
 ***
