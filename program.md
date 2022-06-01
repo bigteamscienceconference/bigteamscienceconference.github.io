@@ -14,7 +14,7 @@ title: program
 
 <section>
   <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#"><img src="/assets/img/FidlerHeadshot.png" alt="Fiona Fidler, Ph.D." width="250" height="250" style="float: left; margin-right: 15px;"></a>
-  <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#"><h3>Fiona Fidler, Ph.D.</h3></a>
+  <h3><a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#">Fiona Fidler, Ph.D.</a></h3>
   <i>Professor, History and Philosophy Science, University of Melbourne, Australia; Australian Research Council Future Fellow</i>
   <h4>Collaborative Assessments for Trustworthy Science: The repliCATS project</h4>
 </section>

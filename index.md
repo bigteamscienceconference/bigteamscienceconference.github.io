@@ -16,7 +16,7 @@ Stay tuned for more information regarding submissions, registration, and program
 
 <section>
   <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#"><img src="/assets/img/FidlerHeadshot.png" alt="Fiona Fidler, Ph.D." width="250" height="250" style="float: left; margin-right: 15px;"></a>
-  <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#"><h3>Fiona Fidler, Ph.D.</h3></a>
+  <h3><a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#">Fiona Fidler, Ph.D.</a></h3>
   <i>Professor, History and Philosophy Science, University of Melbourne, Australia; Australian Research Council Future Fellow</i>
   <h4>Collaborative Assessments for Trustworthy Science: The repliCATS project</h4>
 </section>
@@ -24,7 +24,7 @@ Stay tuned for more information regarding submissions, registration, and program
 <br>
 <section>
   <a href="https://csl.ist.ucf.edu/People"><img src="/assets/img/FioreHeadshot.png" alt="Steven M. Fiore, Ph.D." width="250" height="250" style="float: left; margin-right: 15px;"></a>
-  <a href="https://csl.ist.ucf.edu/People"><h3>Steven M. Fiore, Ph.D.</h3></a>
+  <h3><a href="https://csl.ist.ucf.edu/People">Steven M. Fiore, Ph.D.</a></h3>
   <i>Professor, Cognitive Sciences, Department of Philosophy and Director, Cognitive Sciences Laboratory, Institute for Simulation & Training, University of Central Florida, USA; President, International Network for the Science of Team Science</i>
   <h4>Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations</h4>
 </section>
@@ -59,15 +59,15 @@ Stay tuned for more information regarding submissions, registration, and program
 		<div class="row justify-content-around">
 		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
 		    <a href="https://manybabies.github.io" class="image"><img src="/assets/img/MB_logo.png" alt="" /></a>
-			   <h4>ManyBabies</h4>
+			   <h4><a href="https://manybabies.github.io">ManyBabies</a></h4>
 		  </div>
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
 			  <a href="https://manyprimates.github.io" class="image"><img src="/assets/img/mp_logo_notext2.png" alt="" /></a>
-			  <h4>ManyPrimates</h4>
+			  <h4><a href="https://manyprimates.github.io">ManyPrimates</a></h4>
 		  </div>
 		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
 			  <a href="https://psysciacc.org/" class="image"><img src="/assets/img/psa_logo.png" alt="" /></a>
-			  <h4>Psychological Science Accelerator</h4>
+			  <h4><a href="https://psysciacc.org/">Psychological Science Accelerator</a></h4>
 		  </div>
 	  </div>
 	</div>
@@ -81,7 +81,7 @@ Stay tuned for more information regarding submissions, registration, and program
 * Grace Zhou, *University of Manitoba, [ManyBabies](https://manybabies.github.io)*
 
 ***
-## [Contact Us](mailto:bigteamscienceconference@gmail.com)
+## [Contact Us]({{site.baseurl}}/contact/)
 
 
 
