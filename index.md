@@ -47,6 +47,8 @@ Stay tuned for more information regarding submissions, registration, and program
 
 **Registration Open:** August 5, 2022
 
+> View the BTScon calendar on the [program]({{site.baseurl}}/program/) page
+
 
 ***
 ## Sponsor Organizations
