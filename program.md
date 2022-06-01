@@ -38,14 +38,12 @@ title: program
 </section>
 <br>
 <br>
-<br>
 <section>
   <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150" style="float: left; margin-right: 15px;"></a>
   <h3>name</h3>
   <i>affiliation</i>
   <h4>PSA 006: The Trolley Problem</h4>
 </section>
-<br>
 <br>
 <br>
 <section>
