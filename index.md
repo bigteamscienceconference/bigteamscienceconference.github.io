@@ -39,9 +39,9 @@ Stay tuned for more information regarding submissions, registrations, and progra
 ***
 ## Important Dates
 
-<p>**Submissions Open:** June 6, 2022</p>
+**Submissions Open:** June 6, 2022
 
-<p>**Submission Deadline:** July 22, 2022</p>
+**Submission Deadline:** July 22, 2022
 
 **Submission Decisions:** August 5, 2022
 
