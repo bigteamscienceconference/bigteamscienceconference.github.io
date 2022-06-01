@@ -70,3 +70,5 @@ title: program
 If you have any questions about the 2022 BTSCon, [contact us](mailto:bigteamscienceconference@gmail.com).
 
 
+
+*icons <a href="http://www.freepik.com">designed by macrovector / Freepik</a>*
