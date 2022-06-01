@@ -28,7 +28,7 @@ Stay tuned for more information regarding submissions, registrations, and progra
 		<div class="row justify-content-around">
 		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
 		    <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#" class="image">
-		      <img src="/assets/img/FidlerHeadshot.png" alt="" /></a>
+		      <img src="image.jpg" alt="Sunflower" style="float: left; margin-right: 15px;"></a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
 			  <h3>Fiona Fidler, Ph.D.</h3>
