@@ -19,28 +19,12 @@ Stay tuned for more information regarding submissions, registrations, and progra
   * *Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations*
 
 <img src="/assets/img/FidlerHeadshot.png" alt="Fiona Fidler, Ph.D." width="300" height="300" style="float: left; margin-right: 15px;">
+### [Fiona Fidler, Ph.D.](https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#)
+*Professor, History and Philosophy Science, University of Melbourne, Australia, and Australian Research Council Future Fellow*
 
-<!--
-<section>
-  <header class="major">
-		<h2>Keynote Speakers</h2>
-	</header>
-	<br>
-	<div class="container">
-		<div class="row justify-content-around">
-		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-		    <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#" class="image">
-		      <img src="/assets/img/FidlerHeadshot.png" alt="" /></a>
-      </div>
-      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-			  <h3>Fiona Fidler, Ph.D.</h3>
-			  *Professor, History and Philosophy Science, University of Melbourne, Australia, and Australian Research Council Future Fellow*
-			  <h4>Collaborative Assessments for Trustworthy Science: The repliCATS project</h4>
-		  </div>
-		</div>
-	</div>
-</section>
--->
+#### Collaborative Assessments for Trustworthy Science: The repliCATS project
+
+<br>
 
 <!--
 ***
