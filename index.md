@@ -50,10 +50,9 @@ Stay tuned for more information regarding submissions, registration, and program
 <br>
 <section>
   <a href=""><img src="/assets/img/tools.png" alt="tools" width="150" height="150" style="float: left; margin-right: 15px;"></a>
-  <h3>Big Team Science Infrastructure</h3>
-  <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a>: Canvas for BTS</h4>
-  <i>Harrisburg University of Science and Technology, United States</i>
-  <h4>Others, TBA</h4>
+  <h3>Panel: Big Team Science Infrastructure</h3>
+  <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a><sup>1</sup> and others (TBA)</h4>
+  <sup>1</sup><i>Harrisburg University of Science and Technology, United States</i>
 </section>
 <br>
 <br>
@@ -113,9 +112,10 @@ To ensure inclusivity, registration fees will be optional for attendees! However
 ***
 ## Contact Us
 
+If you have any questions about the 2022 BTSCon, you can contact the [conference email](mailto:bigteamscienceconference@gmail.com). Alternatively, you can reach out to any of the conference organizers:
+
 * [Heidi Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, [ManyBabies](https://manybabies.github.io)*, [[email]](mailto:heidib@stanford.edu)
 * [Manuel Bohn](https://manuelbohn.github.io), *Max Planck Institute for Evolutionary Anthropology, [ManyPrimates](https://manyprimates.github.io)*, [[email]](mailto:manuel0bohn@gmail.com)
 * [Nicholas Coles](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, [Psychological Science Accelerator](https://psysciacc.org)*, [[email]](mailto:ncoles@stanford.edu)
 * Grace Zhou, *University of Manitoba, [ManyBabies](https://manybabies.github.io)*, [[email]](mailto:grace.zhou@umanitoba.ca)
-> [*General Conference Email*](mailto:bigteamscienceconference@gmail.com)
 
