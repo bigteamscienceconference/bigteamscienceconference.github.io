@@ -46,9 +46,9 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
 <section>
   <a href=""><img src="/assets/img/tools.png" alt="tools" width="150" height="150" style="float: left; margin-right: 15px;"></a>
   <h3>Panel: Big Team Science Infrastructure</h3>
-  <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a><sup>1</sup>, <a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html">Alex O. Holcombe</a><sup>2</sup>, and others (TBA)</h4>
-  <sup>1</sup><i>Harrisburg University of Science and Technology, United States</i>
-  <sup>2</sup><i>University of Sydney, Australia</i>
+  <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a>, <i>Harrisburg University of Science and Technology, United States</i>
+  <h4><a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html">Alex O. Holcombe</a></h4>, <i>University of Sydney, Australia</i>
+  <h4>and others (TBA)</h4>
 </section>
 <br>
 <b><i>Full program will be released in August</i></b>
