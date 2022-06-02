@@ -28,7 +28,6 @@ Stay tuned for more information regarding submissions, registration, and program
   <i>Professor, Cognitive Sciences, Department of Philosophy, University of Central Florida; President, International Network for the Science of Team Science</i>
   <h4>Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations</h4>
 </section>
-<br>
 
 ***
 ## Featured Sessions
@@ -54,7 +53,6 @@ Stay tuned for more information regarding submissions, registration, and program
   <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a><sup>1</sup> and others (TBA)</h4>
   <sup>1</sup><i>Harrisburg University of Science and Technology, United States</i>
 </section>
-<br>
 <br>
 
 <!--
