@@ -7,8 +7,6 @@ layout: page
 
 The goal of this two-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science.
 
-Stay tuned for more information regarding submissions, registration, and program details!
-
 ***
 <!--## [Speakers]({{site.baseurl}}/people/) 
 -->
@@ -32,21 +30,21 @@ Stay tuned for more information regarding submissions, registration, and program
 ***
 ## Featured Sessions
 <section>
-  <a href="https://www.nature.com/articles/d41586-022-01332-8"><img src="/assets/img/analysis.png" alt="analysis" width="100" height="100" style="float: left; margin-right: 15px;"></a>
+  <a href="https://www.nature.com/articles/d41586-022-01332-8"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150" style="float: left; margin-right: 15px;"></a>
   <h3>Multi-Analyst Projects</h3>
   <h4><a href="http://decisionlab.elte.hu/members/balazs-aczel/">Balazs Aczel</a></h4>
   <i>Eötvös Loránd University, Hungary</i>
 </section>
 <br>
 <section>
-  <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley" width="100" height="100" style="float: left; margin-right: 15px;"></a>
+  <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150" style="float: left; margin-right: 15px;"></a>
   <h3>PSA 006: The Trolley Problem</h3>
   <h4><a href="https://www.iast.fr/people/bence-bago">Bence Bagó</a></h4>
   <i>Institute for Advanced Study in Toulouse, France</i>
 </section>
 <br>
 <section>
-  <a href=""><img src="/assets/img/tools.png" alt="tools" width="100" height="100" style="float: left; margin-right: 15px;"></a>
+  <a href=""><img src="/assets/img/tools.png" alt="tools" width="150" height="150" style="float: left; margin-right: 15px;"></a>
   <h3>Panel: Big Team Science Infrastructure</h3>
   <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a><sup>1</sup>, <a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html">Alex O. Holcombe</a><sup>2</sup>, and others (TBA)</h4>
   <sup>1</sup><i>Harrisburg University of Science and Technology, United States</i>
@@ -113,8 +111,8 @@ To ensure inclusivity, registration fees will be optional for attendees! However
 
 If you have any questions about the 2022 BTSCon, you can contact the [conference email](mailto:bigteamscienceconference@gmail.com). Alternatively, you can reach out to any of the conference organizers:
 
-* [Heidi Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, ManyBabies*, [[email]](mailto:heidib@stanford.edu)
-* [Manuel Bohn](https://manuelbohn.github.io), *Max Planck Institute for Evolutionary Anthropology, ManyPrimates*, [[email]](mailto:manuel0bohn@gmail.com)
-* [Nicholas Coles](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, Psychological Science Accelerator*, [[email]](mailto:ncoles@stanford.edu)
-* Grace Zhou, *University of Manitoba, ManyBabies*, [[email]](mailto:grace.zhou@umanitoba.ca)
+* [Heidi Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, ManyBabies* [[email]](mailto:heidib@stanford.edu)
+* [Manuel Bohn](https://manuelbohn.github.io) *Max Planck Institute for Evolutionary Anthropology, ManyPrimates*, [[email]](mailto:manuel0bohn@gmail.com)
+* [Nicholas Coles](https://hai.stanford.edu/people/nicholas-coles) *Stanford University, Psychological Science Accelerator*, [[email]](mailto:ncoles@stanford.edu)
+* Grace Zhou, *University of Manitoba, ManyBabies* [[email]](mailto:grace.zhou@umanitoba.ca)
 
