@@ -41,6 +41,7 @@ title: program
         <i>Eötvös Loránd University, Hungary</i>
       </div>
     </div>
+    <br>
     <div class="row justify-content-around">
       <div class="col=sm-3">
         <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150"></a>
@@ -51,6 +52,7 @@ title: program
         <i>Institute for Advanced Study in Toulouse, France</i>
       </div>
     </div>
+    <br>
     <div class="row justify-content-around">
       <div class="col=sm-3">
         <a href=""><img src="/assets/img/tools.png" alt="tools" width="150" height="150"></a>
