@@ -81,7 +81,7 @@ To ensure inclusivity, registration fees will be optional for attendees! However
 * **Registration Open:** August 5, 2022
 * **Conference:** October 27-28, 2022
 
-> View the BTScon calendar on the [program]({{site.baseurl}}/program/) page
+> View the [BTScon calendar](https://calendar.google.com/calendar/embed?src=bigteamscienceconference%40gmail.com&ctz=America%2FLos_Angeles)
 
 
 ***
