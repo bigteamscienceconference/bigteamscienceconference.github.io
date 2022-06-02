@@ -48,8 +48,9 @@ Stay tuned for more information regarding submissions, registration, and program
 <section>
   <a href=""><img src="/assets/img/tools.png" alt="tools" width="100" height="100" style="float: left; margin-right: 15px;"></a>
   <h3>Panel: Big Team Science Infrastructure</h3>
-  <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a><sup>1</sup> and others (TBA)</h4>
+  <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a><sup>1</sup>, <a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html">Alex O. Holcombe</a><sup>2</sup>, and others (TBA)</h4>
   <sup>1</sup><i>Harrisburg University of Science and Technology, United States</i>
+  <sup>2</sup><i>University of Sydney, Australia</i>
 </section>
 <br>
 
