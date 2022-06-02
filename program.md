@@ -29,16 +29,21 @@ title: program
 
 ***
 ## Featured Sessions
+
 <div class="container-fluid">
   <div class="row justify-content-around">
     <div class="col-sm-3">
       <a href="https://www.nature.com/articles/d41586-022-01332-8"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150" style="float: left; margin-right: 15px;"></a>
+    </div>
+    <div class="col-sm-9">
       <h3>Guidance for Multi-Analyst Projects</h3>
       <h4><a href="http://decisionlab.elte.hu/members/balazs-aczel/">Balazs Aczel</a></h4>
       <i>Eötvös Loránd University, Hungary</i>
     </div>
-    <div class="col=sm-9">
+    <div class="col=sm-3">
       <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150" style="float: left; margin-right: 15px;"></a>
+    </div>
+    <div class="col-sm-9">
       <h3>PSA 006: The Trolley Problem</h3>
       <h4><a href="https://www.iast.fr/people/bence-bago">Bence Bagó</a></h4>
       <i>Institute for Advanced Study in Toulouse, France</i>
@@ -62,7 +67,7 @@ title: program
 
 <br>
 
-
+<!--
 
 <div class="container">
     <div class="row justify-content-around">
@@ -85,6 +90,8 @@ title: program
         </div>
   	</div>
 </div>
+-->
+
 
 ***
 ### More Details TBA
