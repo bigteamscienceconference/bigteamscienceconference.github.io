@@ -28,7 +28,7 @@ title: program
 </section>
 <br>
 
-## Invited Talks
+## Featured Sessions
 
 <section>
   <a href="https://www.nature.com/articles/d41586-022-01332-8"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150" style="float: left; margin-right: 15px;"></a>
