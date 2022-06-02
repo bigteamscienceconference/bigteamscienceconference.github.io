@@ -64,14 +64,14 @@ Stay tuned for more information regarding submissions, registration, and program
 -->
 
 ***
-# Submissions
+## Submissions
 
 The conference will feature symposiums, panel sessions, hackathons, talks, and social hours–all dedicated to all things big team science.
 
 Use this [link]() to submit a proposal for one of these sessions. **The deadline to submit is July 22**, and decisions will be sent out August 5.
 
 ***
-# Registration
+## Registration
 
 To ensure inclusivity, registration fees will be optional for attendees! However, registration will be limited to 1,000 attendees. The link to register will open in late August.
 
