@@ -27,6 +27,7 @@ Stay tuned for more information regarding submissions, registration, and program
   <i>Professor, Cognitive Sciences, Department of Philosophy, University of Central Florida; President, International Network for the Science of Team Science</i>
   <h4>Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations</h4>
 </section>
+<br>
 
 ***
 ## Featured Sessions
@@ -36,14 +37,14 @@ Stay tuned for more information regarding submissions, registration, and program
   <h4><a href="http://decisionlab.elte.hu/members/balazs-aczel/">Balazs Aczel</a></h4>
   <i>Eötvös Loránd University, Hungary</i>
 </section>
-<br>
+
 <section>
   <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley" width="100" height="100" style="float: left; margin-right: 15px;"></a>
   <h3>PSA 006: The Trolley Problem</h3>
   <h4><a href="https://www.iast.fr/people/bence-bago">Bence Bagó</a></h4>
   <i>Institute for Advanced Study in Toulouse, France</i>
 </section>
-<br>
+
 <section>
   <a href=""><img src="/assets/img/tools.png" alt="tools" width="100" height="100" style="float: left; margin-right: 15px;"></a>
   <h3>Panel: Big Team Science Infrastructure</h3>
@@ -51,6 +52,8 @@ Stay tuned for more information regarding submissions, registration, and program
   <sup>1</sup><i>Harrisburg University of Science and Technology, United States</i>
 </section>
 
+***Full program will be released in August***
+<br>
 <!--
 ***
 ## [Program]({{site.baseurl}}/schedule/) 
