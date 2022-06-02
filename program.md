@@ -33,6 +33,7 @@ title: program
   <div class="container">
     <div class="row justify-content-around">
       <div class="col-sm-3">
+        <br>
         <a href="https://www.nature.com/articles/d41586-022-01332-8"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150"></a>
       </div>
       <div class="col-sm-9">
