@@ -29,36 +29,63 @@ title: program
 
 ***
 ## Featured Sessions
-<section>
-  <a href="https://www.nature.com/articles/d41586-022-01332-8"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150" style="float: left; margin-right: 15px;"></a>
-  <h3>Guidance for Multi-Analyst Projects</h3>
-  <h4><a href="http://decisionlab.elte.hu/members/balazs-aczel/">Balazs Aczel</a></h4>
-  <i>Eötvös Loránd University, Hungary</i>
-</section>
-<br>
-<section>
-  <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150" style="float: left; margin-right: 15px;"></a>
-  <h3>PSA 006: The Trolley Problem</h3>
-  <h4><a href="https://www.iast.fr/people/bence-bago">Bence Bagó</a></h4>
-  <i>Institute for Advanced Study in Toulouse, France</i>
-</section>
-<br>
-<section>
-  <a href=""><img src="/assets/img/tools.png" alt="tools" width="150" height="150" style="float: left; margin-right: 15px;"></a>
-  <h3>Panel: Big Team Science Infrastructure</h3>
-  <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a>: Canvas for BTS</h4>
-  <i>Harrisburg University of Science and Technology, United States</i>
-  <h4><a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html">Alex O. Holcombe</a>: co-creator of <i>tenzing</i></h4>
-  <i>University of Sydney, Australia</i>
-  <h4>and others (TBA)</h4>
-</section>
+<div class="container-fluid">
+  <div class="row justify-content-around">
+    <div class="col-sm-3">
+      <a href="https://www.nature.com/articles/d41586-022-01332-8"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150" style="float: left; margin-right: 15px;"></a>
+      <h3>Guidance for Multi-Analyst Projects</h3>
+      <h4><a href="http://decisionlab.elte.hu/members/balazs-aczel/">Balazs Aczel</a></h4>
+      <i>Eötvös Loránd University, Hungary</i>
+    </div>
+    <div class="col=sm-9">
+      <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150" style="float: left; margin-right: 15px;"></a>
+      <h3>PSA 006: The Trolley Problem</h3>
+      <h4><a href="https://www.iast.fr/people/bence-bago">Bence Bagó</a></h4>
+      <i>Institute for Advanced Study in Toulouse, France</i>
+    </div>
+  </div>
+</div>
+
+
+<!--
+      <a href=""><img src="/assets/img/tools.png" alt="tools" width="150" height="150" style="float: left; margin-right: 15px;"></a>
+      <h3>Panel: Big Team Science Infrastructure</h3>
+      <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a>: Canvas for BTS</h4>
+      <i>Harrisburg University of Science and Technology, United States</i>
+      <h4><a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html">Alex O. Holcombe</a>: co-creator of <i>tenzing</i></h4>
+      <i>University of Sydney, Australia</i>
+      <h4>and others (TBA)</h4>
+-->    
+
+
 <br>
 <b><i>Full program will be released in August</i></b>
 <br>
 
-<!-- reference for icons
-<a href='https://www.freepik.com/vectors/science'>Science vector created by macrovector - www.freepik.com</a>
---> 
+
+
+<div class="container">
+    <div class="row justify-content-around">
+        <div class="col-sm-3">
+          <a href="{{site.baseurl}}{% link MB1.md %}" class="image">
+            <img src="assets/img/feet-619399_cb1.jpg" />
+          </a>
+          <h4>MB1: Infant-Directed Speech Preference</h4>
+            Do infants prefer infant-directed speech? Do age, method, and native language background matter?
+              <a href="{{site.baseurl}}{% link MB1.md %}" class="button">Learn more</a>
+        </div>
+
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+          <a href="{{site.baseurl}}{% link MB2.md %}" class="image">
+            <img src="assets/img/feet-619399_cb5.jpg" />
+          </a>
+          <h4>MB2: Theory of Mind in Infancy</h4>
+            Do infants show anticipatory looking that reflects the false belief of another agent?
+                <a href="{{site.baseurl}}{% link MB2.md %}" class="button">Learn more</a>
+        </div>
+  	</div>
+</div>
+
 ***
 ### More Details TBA
 
