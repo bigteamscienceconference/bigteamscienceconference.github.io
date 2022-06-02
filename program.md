@@ -30,10 +30,10 @@ title: program
 ***
 ## Featured Sessions
 <section>
-  <div class="container-fluid">
+  <div class="container">
     <div class="row justify-content-around">
       <div class="col-sm-3">
-        <a href="https://www.nature.com/articles/d41586-022-01332-8"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150" style="float: left; margin-right: 15px;"></a>
+        <a href="https://www.nature.com/articles/d41586-022-01332-8"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150""></a>
       </div>
       <div class="col-sm-9">
         <h3>Guidance for Multi-Analyst Projects</h3>
@@ -43,12 +43,25 @@ title: program
     </div>
     <div class="row justify-content-around">
       <div class="col=sm-3">
-        <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150" style="float: left; margin-right: 15px;"></a>
+        <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150""></a>
       </div>
       <div class="col-sm-9">
         <h3>PSA 006: The Trolley Problem</h3>
         <h4><a href="https://www.iast.fr/people/bence-bago">Bence Bagó</a></h4>
         <i>Institute for Advanced Study in Toulouse, France</i>
+      </div>
+    </div>
+    <div class="row justify-content-around">
+      <div class="col=sm-3">
+        <a href=""><img src="/assets/img/tools.png" alt="tools" width="150" height="150""></a>
+      </div>
+      <div class="col-sm-9">
+        <h3>Panel: Big Team Science Infrastructure</h3>
+        <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a>: Canvas for BTS</h4>
+        <i>Harrisburg University of Science and Technology, United States</i>
+        <h4><a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html">Alex O. Holcombe</a>: co-creator of <i>tenzing</i></h4>
+        <i>University of Sydney, Australia</i>
+        <h4>and others (TBA)</h4>
       </div>
     </div>
   </div>
