@@ -41,8 +41,8 @@ title: program
 <section>
   <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150" style="float: left; margin-right: 15px;"></a>
   <h3>PSA 006: The Trolley Problem</h3>
-  <h4><a href="https://psysciacc.org/006-trolley-problem/">name</a></h4>
-  <i>affiliation</i>
+  <h4><a href="https://www.iast.fr/people/bence-bago">Bence Bagó</a></h4>
+  <i>Institute for Advanced Study in Toulouse</i>
 </section>
 <br>
 <br>
