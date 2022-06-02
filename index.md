@@ -5,7 +5,7 @@ layout: page
 
 <img src="/assets/img/BTSCon2022_logo.png" alt="" />
 
-The goal of this two-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to large-scale collaborations in science.
+The goal of this two-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science.
 
 Stay tuned for more information regarding submissions, registration, and program details!
 
@@ -28,6 +28,34 @@ Stay tuned for more information regarding submissions, registration, and program
   <i>Professor, Cognitive Sciences, Department of Philosophy and Director, Cognitive Sciences Laboratory, Institute for Simulation & Training, University of Central Florida, USA; President, International Network for the Science of Team Science</i>
   <h4>Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations</h4>
 </section>
+<br>
+
+***
+## Featured Sessions
+<section>
+  <a href="https://www.nature.com/articles/d41586-022-01332-8"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150" style="float: left; margin-right: 15px;"></a>
+  <h3>Multi-Analyst Projects</h3>
+  <h4><a href="http://decisionlab.elte.hu/members/balazs-aczel/">Balazs Aczel</a></h4>
+  <i>Eötvös Loránd University, Hungary</i>
+</section>
+<br>
+<br>
+<section>
+  <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150" style="float: left; margin-right: 15px;"></a>
+  <h3>PSA 006: The Trolley Problem</h3>
+  <h4><a href="https://www.iast.fr/people/bence-bago">Bence Bagó</a></h4>
+  <i>Institute for Advanced Study in Toulouse, France</i>
+</section>
+<br>
+<br>
+<section>
+  <a href=""><img src="/assets/img/tools.png" alt="tools" width="150" height="150" style="float: left; margin-right: 15px;"></a>
+  <h3>Big Team Science Infrastructure</h3>
+  <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a>: Canvas for BTS</h4>
+  <i>Harrisburg University of Science and Technology, United States</i>
+  <h4>Others, TBA</h4>
+</section>
+<br>
 <br>
 
 <!--
