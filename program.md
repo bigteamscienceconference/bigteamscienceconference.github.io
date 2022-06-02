@@ -40,6 +40,8 @@ title: program
       <h4><a href="http://decisionlab.elte.hu/members/balazs-aczel/">Balazs Aczel</a></h4>
       <i>Eötvös Loránd University, Hungary</i>
     </div>
+  </div
+  <div class="row justify-content-around">
     <div class="col=sm-3">
       <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150" style="float: left; margin-right: 15px;"></a>
     </div>
