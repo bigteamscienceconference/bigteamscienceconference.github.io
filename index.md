@@ -30,7 +30,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
 ***
 ## Featured Sessions
 <section>
-  <a href="https://www.nature.com/articles/d41586-022-01332-8"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150" style="float: left; margin-right: 15px;"></a>
+  <a href="https://www.nature.com/articles/d41586-022-01332-8"><img src="/assets/img/analysis.png" align="left" alt="analysis" width="150" height="150" style="margin-right: 15px;"></a>
   <h3>Guidance for Multi-Analyst Projects</h3>
   <h4><a href="http://decisionlab.elte.hu/members/balazs-aczel/">Balazs Aczel</a></h4>
   <i>Eötvös Loránd University, Hungary</i>
