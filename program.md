@@ -34,7 +34,7 @@ title: program
   <a href="https://www.nature.com/articles/d41586-022-01332-8"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150" style="float: left; margin-right: 15px;"></a>
   <h3>Multi-Analyst Projects</h3>
   <h4><a href="http://decisionlab.elte.hu/members/balazs-aczel/">Balazs Aczel</a></h4>
-  <i>Vice-Dean for Science, Eötvös Loránd University, Hungary</i>
+  <i>Eötvös Loránd University, Hungary</i>
 </section>
 <br>
 <br>
