@@ -52,8 +52,9 @@ Stay tuned for more information regarding submissions, registration, and program
   <sup>1</sup><i>Harrisburg University of Science and Technology, United States</i>
 </section>
 
-***Full program will be released in August***
-<br>
+> Full program will be released in August
+
+
 <!--
 ***
 ## [Program]({{site.baseurl}}/schedule/) 
