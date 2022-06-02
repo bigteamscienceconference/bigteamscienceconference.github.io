@@ -4,7 +4,6 @@ title: program
 <!--cover-img: /assets/img/events_blank.png-->
 ---
 
-
 ### October 27-28, 2022 
 ## 1st annual Big Team Science Conference
 
