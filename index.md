@@ -114,8 +114,8 @@ To ensure inclusivity, registration fees will be optional for attendees! However
 
 If you have any questions about the 2022 BTSCon, you can contact the [conference email](mailto:bigteamscienceconference@gmail.com). Alternatively, you can reach out to any of the conference organizers:
 
-* [Heidi Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, [ManyBabies](https://manybabies.github.io)*, [[email]](mailto:heidib@stanford.edu)
-* [Manuel Bohn](https://manuelbohn.github.io), *Max Planck Institute for Evolutionary Anthropology, [ManyPrimates](https://manyprimates.github.io)*, [[email]](mailto:manuel0bohn@gmail.com)
-* [Nicholas Coles](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, [Psychological Science Accelerator](https://psysciacc.org)*, [[email]](mailto:ncoles@stanford.edu)
-* Grace Zhou, *University of Manitoba, [ManyBabies](https://manybabies.github.io)*, [[email]](mailto:grace.zhou@umanitoba.ca)
+* [Heidi Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, ManyBabies*, [[email]](mailto:heidib@stanford.edu)
+* [Manuel Bohn](https://manuelbohn.github.io), *Max Planck Institute for Evolutionary Anthropology, ManyPrimates*, [[email]](mailto:manuel0bohn@gmail.com)
+* [Nicholas Coles](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, Psychological Science Accelerator*, [[email]](mailto:ncoles@stanford.edu)
+* Grace Zhou, *University of Manitoba, ManyBabies*, [[email]](mailto:grace.zhou@umanitoba.ca)
 
