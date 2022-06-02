@@ -78,11 +78,11 @@ To ensure inclusivity, registration fees will be optional for attendees! However
 ***
 ## Important Dates
 
-**Submissions Open:** June 6, 2022
-**Submission Deadline:** July 22, 2022
-**Submission Decisions:** August 5, 2022
-**Registration Open:** August 5, 2022
-**Conference:** October 27-28, 2022
+* **Submissions Open:** June 6, 2022
+* **Submission Deadline:** July 22, 2022
+* **Submission Decisions:** August 5, 2022
+* **Registration Open:** August 5, 2022
+* **Conference:** October 27-28, 2022
 
 > View the BTScon calendar on the [program]({{site.baseurl}}/program/) page
 
@@ -113,16 +113,9 @@ To ensure inclusivity, registration fees will be optional for attendees! However
 ***
 ## Contact Us
 
-* [Heidi Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, [ManyBabies](https://manybabies.github.io)*, [email](mailto:heidib@stanford.edu)
-* [Manuel Bohn](https://manuelbohn.github.io), *Max Planck Institute for Evolutionary Anthropology, [ManyPrimates](https://manyprimates.github.io)*, [email](mailto:manuel0bohn@gmail.com)
-* [Nicholas Coles](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, [Psychological Science Accelerator](https://psysciacc.org)*, [email](mailto:ncoles@stanford.edu)
-* Grace Zhou, *University of Manitoba, [ManyBabies](https://manybabies.github.io)*, [email](mailto:grace.zhou@umanitoba.ca)
-
-***
-## Contact Us
-If you have any questions about the 2022 BTSCon, contact us: [conference e-mail](mailto:bigteamscienceconference@gmail.com), [Nicholas Coles](mailto:ncoles@stanford.edu), [Heidi Baumgartner](mailto:heidib@stanford.edu), [Manuel Bohn](mailto:manuel0bohn@gmail.com), [Grace Zhou](mailto:grace.zhou@umanitoba.ca)
-
-
-
-
+* [Heidi Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, [ManyBabies](https://manybabies.github.io)*, [[email]](mailto:heidib@stanford.edu)
+* [Manuel Bohn](https://manuelbohn.github.io), *Max Planck Institute for Evolutionary Anthropology, [ManyPrimates](https://manyprimates.github.io)*, [[email]](mailto:manuel0bohn@gmail.com)
+* [Nicholas Coles](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, [Psychological Science Accelerator](https://psysciacc.org)*, [[email]](mailto:ncoles@stanford.edu)
+* Grace Zhou, *University of Manitoba, [ManyBabies](https://manybabies.github.io)*, [[email]](mailto:grace.zhou@umanitoba.ca)
+> [*General Conference Email*](mailto:bigteamscienceconference@gmail.com)
 
