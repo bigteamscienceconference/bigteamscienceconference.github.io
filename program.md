@@ -23,7 +23,7 @@ title: program
 <section>
   <a href="https://csl.ist.ucf.edu/People"><img src="/assets/img/FioreHeadshot.png" alt="Steven M. Fiore, Ph.D." width="250" height="250" style="float: left; margin-right: 15px;"></a>
   <h3><a href="https://csl.ist.ucf.edu/People">Steven M. Fiore, Ph.D.</a></h3>
-  <i>Professor, Cognitive Sciences, Department of Philosophy and Director, Cognitive Sciences Laboratory, Institute for Simulation & Training, University of Central Florida, USA; President, International Network for the Science of Team Science</i>
+  <i>Professor, Cognitive Sciences, Department of Philosophy and Director, Cognitive Sciences Laboratory, Institute for Simulation & Training, University of Central Florida, United States; President, International Network for the Science of Team Science</i>
   <h4>Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations</h4>
 </section>
 <br>
@@ -34,7 +34,7 @@ title: program
   <a href="https://www.nature.com/articles/d41586-022-01332-8"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150" style="float: left; margin-right: 15px;"></a>
   <h3>Multi-Analyst Projects</h3>
   <h4><a href="http://decisionlab.elte.hu/members/balazs-aczel/">Balazs Aczel</a></h4>
-  <i>Vice-Dean for Science, Eötvös Loránd University, Budapest, Hungary</i>
+  <i>Vice-Dean for Science, Eötvös Loránd University, Hungary</i>
 </section>
 <br>
 <br>
@@ -42,7 +42,7 @@ title: program
   <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150" style="float: left; margin-right: 15px;"></a>
   <h3>PSA 006: The Trolley Problem</h3>
   <h4><a href="https://www.iast.fr/people/bence-bago">Bence Bagó</a></h4>
-  <i>Institute for Advanced Study in Toulouse</i>
+  <i>Institute for Advanced Study in Toulouse, France</i>
 </section>
 <br>
 <br>
@@ -50,7 +50,7 @@ title: program
   <a href=""><img src="/assets/img/tools.png" alt="tools" width="150" height="150" style="float: left; margin-right: 15px;"></a>
   <h3>Big Team Science Infrastructure</h3>
   <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a>: Canvas for BTS</h4>
-  <i>Harrisburg University of Science and Technology, USA</i>
+  <i>Harrisburg University of Science and Technology, United States</i>
   <h4>Others, TBA</h4>
 </section>
 <br>
