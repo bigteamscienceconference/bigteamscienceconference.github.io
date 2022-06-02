@@ -52,7 +52,6 @@ Stay tuned for more information regarding submissions, registration, and program
   <sup>1</sup><i>Harrisburg University of Science and Technology, United States</i>
   <sup>2</sup><i>University of Sydney, Australia</i>
 </section>
-<br>
 
 <b><i>Full program will be released in August</i></b>
 <br>
