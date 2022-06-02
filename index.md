@@ -30,7 +30,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
 ***
 ## Featured Sessions
 <section>
-  <a href="https://www.nature.com/articles/d41586-022-01332-8"><img src="/assets/img/analysis.png" align="left" alt="analysis" width="150" height="150" style="margin-right: 15px;"></a>
+  <a href="https://www.nature.com/articles/d41586-022-01332-8"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150" style="float: left; margin-right: 15px;"></a>
   <h3>Guidance for Multi-Analyst Projects</h3>
   <h4><a href="http://decisionlab.elte.hu/members/balazs-aczel/">Balazs Aczel</a></h4>
   <i>Eötvös Loránd University, Hungary</i>
@@ -79,7 +79,7 @@ To ensure inclusivity, registration fees will be optional for attendees! However
 * **Submissions Open:** June 6, 2022
 * **Submission Deadline:** July 22, 2022
 * **Submission Decisions:** August 5, 2022
-* **Registration Open:** August 5, 2022
+* **Registration Open:** late August, 2022
 * **Conference:** October 27-28, 2022
 
 > View the [BTScon calendar](https://calendar.google.com/calendar/embed?src=bigteamscienceconference%40gmail.com&ctz=America%2FLos_Angeles)
