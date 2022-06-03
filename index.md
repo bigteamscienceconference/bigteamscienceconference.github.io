@@ -113,7 +113,9 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
 
 The conference will feature symposiums, panel sessions, hackathons, talks, and social hours–all dedicated to all things big team science.
 
-Use this [link (to come)]() to submit a proposal for one of these sessions. **The deadline to submit is July 22**, and decisions will be sent out August 5.
+#### Submit a proposal for one of these sessions [here](https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link). 
+
+**The deadline to submit is July 22**, and decisions will be sent out August 5.
 
 ***
 ## Registration
