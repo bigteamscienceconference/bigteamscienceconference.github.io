@@ -45,7 +45,6 @@ title: program
     <br>
     <div class="row justify-content-around">
       <div class="col=sm-3">
-        <br>
         <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150"></a>
       </div>
       <div class="col-sm-9">
