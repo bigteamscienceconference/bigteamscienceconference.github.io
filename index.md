@@ -13,7 +13,39 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
 ## Keynote Speakers
 
 <section>
-  <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#"><img src="/assets/img/FidlerHeadshot.png" alt="Fiona Fidler, Ph.D." width="200" height="200" style="float: left; margin-right: 15px;"></a>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <p>    </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-4 col-xs-6">
+        <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#"><img src="/assets/img/FidlerHeadshot.png" alt="Fiona Fidler, Ph.D."></a>
+      </div>
+      <div class="col-sm-8">
+        <h3><a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#">Fiona Fidler, Ph.D.</a></h3>
+        <i>Professor, History and Philosophy Science, University of Melbourne, Australia; Australian Research Council Future Fellow</i>
+        <h4>Collaborative Assessments for Trustworthy Science: The repliCATS project</h4>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-4 col-xs-6">
+        <a href="https://csl.ist.ucf.edu/People"><img src="/assets/img/FioreHeadshot.png" alt="Steven M. Fiore, Ph.D."></a>
+      </div>
+      <div class="col-sm-8">
+        <h3><a href="https://csl.ist.ucf.edu/People">Steven M. Fiore, Ph.D.</a></h3>
+        <i>Professor, Cognitive Sciences, Department of Philosophy, University of Central Florida; President, International Network for the Science of Team Science</i>
+        <h4>Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations</h4>
+      </div>
+    </div>
+  </div>
+</section>
+<br>
+
+<!--  
+<section>    
+  <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#"><img src="/assets/img/FidlerHeadshot.png" alt="Fiona Fidler, Ph.D."></a>
   <h3><a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#">Fiona Fidler, Ph.D.</a></h3>
   <i>Professor, History and Philosophy Science, University of Melbourne, Australia; Australian Research Council Future Fellow</i>
   <h4>Collaborative Assessments for Trustworthy Science: The repliCATS project</h4>
@@ -25,7 +57,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
   <i>Professor, Cognitive Sciences, Department of Philosophy, University of Central Florida; President, International Network for the Science of Team Science</i>
   <h4>Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations</h4>
 </section>
-<br>
+-->
 
 ***
 ## Featured Sessions
@@ -92,7 +124,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
 
 The conference will feature symposiums, panel sessions, hackathons, talks, and social hours–all dedicated to all things big team science.
 
-Use this [link]() to submit a proposal for one of these sessions. **The deadline to submit is July 22**, and decisions will be sent out August 5.
+Use this [link (to come)]() to submit a proposal for one of these sessions. **The deadline to submit is July 22**, and decisions will be sent out August 5.
 
 ***
 ## Registration
