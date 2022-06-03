@@ -75,20 +75,7 @@ title: program
     </div>
   </div>
 </section>
-
-<!--
-      <a href=""><img src="/assets/img/tools.png" alt="tools" width="150" height="150" style="float: left; margin-right: 15px;"></a>
-      <h3>Panel: Big Team Science Infrastructure</h3>
-      <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a>: Canvas for BTS</h4>
-      <i>Harrisburg University of Science and Technology, United States</i>
-      <h4><a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html">Alex O. Holcombe</a>: co-creator of <i>tenzing</i></h4>
-      <i>University of Sydney, Australia</i>
-      <h4>and others (TBA)</h4>
--->    
-
-
 <br>
-
 
 ***
 ### More Details TBA
