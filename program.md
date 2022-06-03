@@ -49,7 +49,7 @@ title: program
     </div>
     <br>
     <div class="row">
-      <div class="col=sm-3">
+      <div class="col-sm-3">
         <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley"></a>
       </div>
       <div class="col-sm-9">
@@ -60,7 +60,7 @@ title: program
     </div>
     <br>
     <div class="row">
-      <div class="col=sm-3">
+      <div class="col-sm-3">
         <a href=""><img src="/assets/img/tools.png" alt="tools"></a>
       </div>
       <div class="col-sm-9">
