@@ -39,7 +39,7 @@ title: program
     </div>
     <div class="row">
       <div class="col-sm-3">
-        <a href="https://www.nature.com/articles/d41586-022-01332-8/"><img src="/assets/img/analysis.png" alt="" width="150" height="150"></a>
+        <a href="https://www.nature.com/articles/d41586-022-01332-8/"><img src="/assets/img/analysis.png" alt="analysis"></a>
       </div>
       <div class="col-sm-9">
         <h3>Guidance for Multi-Analyst Projects</h3>
@@ -50,7 +50,7 @@ title: program
     <br>
     <div class="row">
       <div class="col=sm-3">
-        <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150"></a>
+        <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley"></a>
       </div>
       <div class="col-sm-9">
         <h3>PSA 006: The Trolley Problem</h3>
@@ -61,7 +61,7 @@ title: program
     <br>
     <div class="row">
       <div class="col=sm-3">
-        <a href=""><img src="/assets/img/tools.png" alt="tools" width="150" height="150"></a>
+        <a href=""><img src="/assets/img/tools.png" alt="tools"></a>
       </div>
       <div class="col-sm-9">
         <h3>Panel: Big Team Science Infrastructure</h3>
@@ -74,10 +74,6 @@ title: program
     </div>
   </div>
 </section>
-<br>
-
-***
-### More Details TBA
 
 ***
 <iframe src="https://calendar.google.com/calendar/embed?src=bigteamscienceconference%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
