@@ -139,16 +139,16 @@ To ensure inclusivity, registration fees will be optional for attendees! However
 	<br>
 	<div class="container">
 		<div class="row justify-content-around">
-		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-		    <a href="https://manybabies.github.io" class="image"><img src="/assets/img/MB_logo.png" alt="" /></a>
+		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3" align="center">
+		    <a href="https://manybabies.github.io" class="image"><img src="/assets/img/MB_logo.png" alt="ManyBabies" /></a>
 			   <h4><a href="https://manybabies.github.io">ManyBabies</a></h4>
 		  </div>
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-			  <a href="https://manyprimates.github.io" class="image"><img src="/assets/img/mp_logo_notext2.png" alt="" /></a>
+			  <a href="https://manyprimates.github.io" class="image"><img src="/assets/img/mp_logo_notext2.png" alt="ManyPrimates" /></a>
 			  <h4><a href="https://manyprimates.github.io">ManyPrimates</a></h4>
 		  </div>
 		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-			  <a href="https://psysciacc.org/" class="image"><img src="/assets/img/psa_logo.png" alt="" /></a>
+			  <a href="https://psysciacc.org/" class="image"><img src="/assets/img/psa_logo.png" alt="PSA" /></a>
 			  <h4><a href="https://psysciacc.org/">Psychological Science Accelerator</a></h4>
 		  </div>
 	  </div>
