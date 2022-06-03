@@ -76,7 +76,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
         <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley"></a>
       </div>
       <div class="col-sm-9">
-        <h3>PSA 006: The Trolley Problem</h3>
+        <h3>Situational Factors Shape Moral Judgements in the Trolley Dilemma in a Culturally Diverse Sample</h3>
         <h4><a href="https://www.iast.fr/people/bence-bago">Bence Bagó</a></h4>
         <i>Institute for Advanced Study in Toulouse, France</i>
       </div>
@@ -89,7 +89,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
         <a href=""><img src="/assets/img/tools.png" alt="tools"></a>
       </div>
       <div class="col-sm-9">
-        <h3>Panel: Big Team Science Infrastructure</h3>
+        <h3>Panel: Big team science infrastructure</h3>
         <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a>: creator of Canvas for BTS</h4>
         <i>Harrisburg University of Science and Technology, USA</i>
         <h4><a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html">Alex O. Holcombe</a>: co-creator of <i>tenzing</i></h4>
