@@ -29,28 +29,54 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
 
 ***
 ## Featured Sessions
+
 <section>
-  <a href="https://www.nature.com/articles/d41586-022-01332-8"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150" style="float: left; margin-right: 15px;"></a>
-  <h3>Guidance for Multi-Analyst Projects</h3>
-  <h4><a href="http://decisionlab.elte.hu/members/balazs-aczel/">Balazs Aczel</a></h4>
-  <i>Eötvös Loránd University, Hungary</i>
-</section>
-<br>
-<section>
-  <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150" style="float: left; margin-right: 15px;"></a>
-  <h3>PSA 006: The Trolley Problem</h3>
-  <h4><a href="https://www.iast.fr/people/bence-bago">Bence Bagó</a></h4>
-  <i>Institute for Advanced Study in Toulouse, France</i>
-</section>
-<br>
-<section>
-  <a href=""><img src="/assets/img/tools.png" alt="tools" width="150" height="150" style="float: left; margin-right: 15px;"></a>
-  <h3>Panel: Big Team Science Infrastructure</h3>
-  <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a>: Canvas for BTS</h4>
-  <i>Harrisburg University of Science and Technology, United States</i>
-  <h4><a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html">Alex O. Holcombe</a>: co-creator of <i>tenzing</i></h4>
-  <i>University of Sydney, Australia</i>
-  <h4>and others (TBA)</h4>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <p>    </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6">
+        <a href="https://www.nature.com/articles/d41586-022-01332-8/"><img src="/assets/img/analysis.png" alt="analysis"></a>
+      </div>
+      <div class="col-sm-9">
+        <h3>Guidance for Multi-Analyst Projects</h3>
+        <h4><a href="http://decisionlab.elte.hu/members/balazs-aczel/">Balazs Aczel</a></h4>
+        <i>Eötvös Loránd University, Hungary</i>
+      </div>
+    </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6">
+        <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley"></a>
+      </div>
+      <div class="col-sm-9">
+        <h3>PSA 006: The Trolley Problem</h3>
+        <h4><a href="https://www.iast.fr/people/bence-bago">Bence Bagó</a></h4>
+        <i>Institute for Advanced Study in Toulouse, France</i>
+      </div>
+    </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6">
+        <a href=""><img src="/assets/img/tools.png" alt="tools"></a>
+      </div>
+      <div class="col-sm-9">
+        <h3>Panel: Big Team Science Infrastructure</h3>
+        <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a>: Canvas for BTS</h4>
+        <i>Harrisburg University of Science and Technology, United States</i>
+        <h4><a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html">Alex O. Holcombe</a>: co-creator of <i>tenzing</i></h4>
+        <i>University of Sydney, Australia</i>
+        <h4>and others (TBA)</h4>
+      </div>
+    </div>
+  </div>
 </section>
 <br>
 <b><i>Full program will be released in August</i></b>
