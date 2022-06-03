@@ -30,6 +30,11 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
       </div>
     </div>
     <div class="row">
+      <div class="col-sm-12">
+        <p>    </p>
+      </div>
+    </div
+    <div class="row">
       <div class="col-sm-4 col-xs-6">
         <a href="https://csl.ist.ucf.edu/People"><img src="/assets/img/FioreHeadshot.png" alt="Steven M. Fiore, Ph.D."></a>
       </div>
