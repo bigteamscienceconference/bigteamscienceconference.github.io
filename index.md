@@ -33,7 +33,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
       <div class="col-sm-12">
         <p>    </p>
       </div>
-    </div
+    </div>
     <div class="row">
       <div class="col-sm-4 col-xs-6">
         <a href="https://csl.ist.ucf.edu/People"><img src="/assets/img/FioreHeadshot.png" alt="Steven M. Fiore, Ph.D."></a>
@@ -47,22 +47,6 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
   </div>
 </section>
 <br>
-
-<!--  
-<section>    
-  <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#"><img src="/assets/img/FidlerHeadshot.png" alt="Fiona Fidler, Ph.D."></a>
-  <h3><a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#">Fiona Fidler, Ph.D.</a></h3>
-  <i>Professor, History and Philosophy Science, University of Melbourne, Australia; Australian Research Council Future Fellow</i>
-  <h4>Collaborative Assessments for Trustworthy Science: The repliCATS project</h4>
-</section>
-<br>
-<section>
-  <a href="https://csl.ist.ucf.edu/People"><img src="/assets/img/FioreHeadshot.png" alt="Steven M. Fiore, Ph.D." width="200" height="200" style="float: left; margin-right: 15px;"></a>
-  <h3><a href="https://csl.ist.ucf.edu/People">Steven M. Fiore, Ph.D.</a></h3>
-  <i>Professor, Cognitive Sciences, Department of Philosophy, University of Central Florida; President, International Network for the Science of Team Science</i>
-  <h4>Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations</h4>
-</section>
--->
 
 ***
 ## Featured Sessions
