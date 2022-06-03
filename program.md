@@ -32,12 +32,12 @@ title: program
 
 <section>
   <div class="container">
-    <div class="row justify-content-around">
+    <div class="row">
       <div class="col-sm-12">
-        <p>filler</p>
+        <p>   </p>
       </div>
     </div>
-    <div class="row justify-content-around">
+    <div class="row">
       <div class="col-sm-3">
         <a href="https://www.nature.com/articles/d41586-022-01332-8/"><img src="/assets/img/analysis.png" alt="" width="150" height="150"></a>
       </div>
@@ -48,7 +48,7 @@ title: program
       </div>
     </div>
     <br>
-    <div class="row justify-content-around">
+    <div class="row">
       <div class="col=sm-3">
         <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150"></a>
       </div>
@@ -59,7 +59,7 @@ title: program
       </div>
     </div>
     <br>
-    <div class="row justify-content-around">
+    <div class="row">
       <div class="col=sm-3">
         <a href=""><img src="/assets/img/tools.png" alt="tools" width="150" height="150"></a>
       </div>
