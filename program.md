@@ -47,7 +47,9 @@ title: program
         <i>Eötvös Loránd University, Hungary</i>
       </div>
     </div>
-    <br>
+    <div class="col-sm-12">
+        <p>------------------------------------------------------------------------------------</p>
+      </div>
     <div class="row">
       <div class="col-sm-3">
         <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley"></a>
