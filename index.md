@@ -40,7 +40,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
       </div>
       <div class="col-sm-8">
         <h3><a href="https://csl.ist.ucf.edu/People">Steven M. Fiore, Ph.D.</a></h3>
-        <i>Professor, Cognitive Sciences, Department of Philosophy, University of Central Florida; President, International Network for the Science of Team Science</i>
+        <i>Professor, Cognitive Sciences and Department of Philosophy, University of Central Florida, USA; President, International Network for the Science of Team Science</i>
         <h4>Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations</h4>
       </div>
     </div>
@@ -91,7 +91,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
       <div class="col-sm-9">
         <h3>Panel: Big Team Science Infrastructure</h3>
         <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a>: Canvas for BTS</h4>
-        <i>Harrisburg University of Science and Technology, United States</i>
+        <i>Harrisburg University of Science and Technology, USA</i>
         <h4><a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html">Alex O. Holcombe</a>: co-creator of <i>tenzing</i></h4>
         <i>University of Sydney, Australia</i>
         <h4>and others (TBA)</h4>
@@ -160,8 +160,8 @@ To ensure inclusivity, registration fees will be optional for attendees! However
 
 If you have any questions about the 2022 BTSCon, you can contact the [conference email](mailto:bigteamscienceconference@gmail.com). Alternatively, you can reach out to any of the conference organizers:
 
-* [Heidi Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, ManyBabies* [[email]](mailto:heidib@stanford.edu)
-* [Manuel Bohn](https://manuelbohn.github.io), *Max Planck Institute for Evolutionary Anthropology, ManyPrimates* [[email]](mailto:manuel0bohn@gmail.com)
-* [Nicholas Coles](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, Psychological Science Accelerator* [[email]](mailto:ncoles@stanford.edu)
-* Grace Zhou, *University of Manitoba, ManyBabies* [[email]](mailto:grace.zhou@umanitoba.ca)
+* [**Heidi Baumgartner**](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, USA - ManyBabies* [[email]](mailto:heidib@stanford.edu)
+* [**Manuel Bohn**](https://manuelbohn.github.io), *Max Planck Institute for Evolutionary Anthropology, Germany - ManyPrimates* [[email]](mailto:manuel0bohn@gmail.com)
+* [**Nicholas Coles**](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, USA - Psychological Science Accelerator* [[email]](mailto:ncoles@stanford.edu)
+* **Grace Zhou**, *University of Manitoba, Canada - ManyBabies* [[email]](mailto:grace.zhou@umanitoba.ca)
 
