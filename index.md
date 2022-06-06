@@ -113,9 +113,9 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
 ***
 ## Submissions
 
-The conference will feature symposiums, panel sessions, hackathons, talks, and social hours–all dedicated to all things big team science.
+The conference will feature symposia, panel sessions, hackathons, talks, and social hours–all dedicated to all things big team science.
 
-#### Symposiums
+#### Symposia
 * Three or four talks with a connecting theme or topic
 * 60 minutes
 * Abstract max: 500 words
@@ -142,7 +142,7 @@ The conference will feature symposiums, panel sessions, hackathons, talks, and s
 ### <a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Submission link</a> 
 
 #### Submission deadline: July 22
-*Decisions will be sent out August 5*
+**Decisions will be sent out August 5**
 
 ***
 ## Registration
@@ -194,3 +194,11 @@ If you have any questions about the 2022 BTSCon, you can contact the [**conferen
 * [**Nicholas Coles**](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, USA - Psychological Science Accelerator* [[email]](mailto:ncoles@stanford.edu)
 * **Grace Zhou**, *University of Manitoba, Canada - ManyBabies* [[email]](mailto:grace.zhou@umanitoba.ca)
 
+
+
+*icon attribution: <a href="http://www.freepik.com">designed by macrovector / Freepik</a>*,
+<a href="https://www.flaticon.com/free-icons/thunder" title="thunder icons">Thunder icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/idea" title="idea icons">Idea icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/debate" title="debate icons">Debate icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/education" title="education icons">Education icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/interview" title="interview icons">Interview icons created by Freepik - Flaticon</a>
