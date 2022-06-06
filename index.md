@@ -94,7 +94,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
         <h3>Panel: Big Team Science Infrastructure</h3>
         <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a>: creator of Canvas for BTS</h4>
         <i>Harrisburg University of Science and Technology, USA</i>
-        <h4><a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html">Alex O. Holcombe</a>: co-creator of <i><a href="https://rollercoaster.shinyapps.io/tenzing/"</a>tenzing</i></h4>
+        <h4><a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html">Alex O. Holcombe</a>: co-creator of <i><a href="https://rollercoaster.shinyapps.io/tenzing/">tenzing</a></i></h4>
         <i>University of Sydney, Australia</i>
         <h4><a href="">Melissa Kline Struhl</a>: Executive Director of <a href="https://lookit.mit.edu">Lookit</a></h4>
         <i>Massachusetts Intitute of Technology, USA</i>
