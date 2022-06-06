@@ -49,7 +49,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
 <br>
 
 ***
-# Featured Sessions
+## Featured Sessions
 
 <b><i>Full program will be released in August</i></b>
 
