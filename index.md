@@ -170,7 +170,6 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
     </div>
   </div>
 </section> 
-<br>
 
 ### <a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Link to Submission Form</a> 
 
@@ -221,7 +220,8 @@ To ensure inclusivity, registration fees will be optional for attendees! However
 ***
 ## Contact Us
 
-If you have any questions about the 2022 BTSCon, you can contact the [**conference email**](mailto:bigteamscienceconference@gmail.com). Alternatively, you can reach out to any of the conference organizers:
+Questions about the 2022 BTSCon: [**Conference Email**](mailto:bigteamscienceconference@gmail.com). <br>
+Alternatively, you can reach out to any of the conference organizers:
 
 * [**Heidi Baumgartner**](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, USA - ManyBabies* [[email]](mailto:heidib@stanford.edu)
 * [**Manuel Bohn**](https://manuelbohn.github.io), *Max Planck Institute for Evolutionary Anthropology, Germany - ManyPrimates* [[email]](mailto:manuel0bohn@gmail.com)
