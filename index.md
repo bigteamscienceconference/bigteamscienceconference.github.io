@@ -179,7 +179,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
         <p>   </p>
     </div>
     <div class="row justify-content-around">
-      <div class="col-sm-3 col-xs-6" align="center">
+      <div class="col-sm-2 col-xs-6" align="center">
       </div>
       <div class="col-sm-3 col-xs-6" align="center">
         <img src="/assets/img/talk.png" alt="talk">
@@ -194,7 +194,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
         max of 3 slides<br> 
         abstract: max 250 words
       </div>
-      <div class="col-sm-3 col-xs-6" align="center">
+      <div class="col-sm-2 col-xs-6" align="center">
       </div>
     </div>
     <div class="col-sm-12">
