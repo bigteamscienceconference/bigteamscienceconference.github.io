@@ -181,7 +181,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
     <div class="row justify-content-around">
       <div class="col-sm-3 col-xs-6" align="center">
       </div>
-      </div><div class="col-sm-3 col-xs-6" align="center">
+      <div class="col-sm-3 col-xs-6" align="center">
         <img src="/assets/img/talk.png" alt="talk">
         <h4>Talks</h4>
         20 minutes<br> 
