@@ -156,14 +156,17 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <img src="/assets/img/symposium.png" alt="symposium">
+        <h4>Symposia</h4>
         60 minutes, 3-4 talks, abstract: max 500 words
       </div>
       <div class="col-sm-3 col-xs-6" align="center">
         <img src="/assets/img/panel.png" alt="panel">
+        <h4>Panels</h4>
         60 minutes, 3-4 panelists, abstract: max 500 words
       </div>
       <div class="col-sm-3 col-xs-6" align="center">
         <img src="/assets/img/hackathon.png" alt="hackathon">
+        <h4>Hackathons</h4>
         60 or 90 minutes, abstract: max 500 words
       </div>
     </div>
@@ -173,10 +176,12 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <img src="/assets/img/talk.png" alt="talk">
+        <h4>Talks</h4>
         20 minutes, abstract: max 250 words
       </div>
       <div class="col-sm-3 col-xs-6" align="center">
         <img src="/assets/img/lightning.png" alt="lightning talk">
+        <h4>Lightning Talks</h4>
         5 minutes, max of 3 slides, abstract: max 250 words
       </div>
     </div>
