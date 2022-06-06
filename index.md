@@ -113,7 +113,31 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
 
 The conference will feature symposiums, panel sessions, hackathons, talks, and social hours–all dedicated to all things big team science.
 
-**Submit a proposal for one of these sessions [here](https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link)**. 
+### Symposiums
+* Three or four talks with a connecting theme or topic
+* 60 minutes
+* Abstract max: 500 words
+
+### Panels
+* Three or four panelists, plus moderator (optional), discussing a topic relevant to big team science
+* 60 minutes
+* Abstract max: 500 words
+
+### Hackathons
+* 
+* 60 or 90 minutes
+* Abstract max: 500 words
+
+### Talks
+* 20 minutes
+* Abstract max: 250 words
+
+### Lightning Talks
+* Maximum of 3 slides
+* 5 minutes
+* Abstract max: 250 words
+
+**Submit a proposal for one of these sessions <a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">here</a>**. 
 
 **The deadline to submit is July 22**, and decisions will be sent out August 5.
 
