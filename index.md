@@ -116,11 +116,11 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
 
 <section>
   <div class="container">
-    <div class="row">
+<!--<div class="row">
       <div class="col-sm-12">
         <p>    </p>
       </div>
-    </div>
+    </div> -->
     <div class="row justify-content-around">
       <div class="col-sm-3 col-xs-6" align="center">
         <img src="/assets/img/symposium.png" alt="symposium">
