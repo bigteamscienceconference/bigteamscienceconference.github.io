@@ -21,10 +21,10 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
     </div>
     <div class="row">
       <div class="col-sm-4 col-xs-6">
-        <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#"><img src="/assets/img/FidlerHeadshot.png" alt="Fiona Fidler, Ph.D."></a>
+        <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#" target="_blank"><img src="/assets/img/FidlerHeadshot.png" alt="Fiona Fidler, Ph.D."></a>
       </div>
       <div class="col-sm-8">
-        <h3><a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#">Fiona Fidler, Ph.D.</a></h3>
+        <h3><a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#" target="_blank">Fiona Fidler, Ph.D.</a></h3>
         <i>Professor, History and Philosophy Science, University of Melbourne, Australia; Australian Research Council Future Fellow</i>
         <h4>Collaborative Assessments for Trustworthy Science: The repliCATS project</h4>
       </div>
@@ -36,10 +36,10 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
     </div>
     <div class="row">
       <div class="col-sm-4 col-xs-6">
-        <a href="https://csl.ist.ucf.edu/People"><img src="/assets/img/FioreHeadshot.png" alt="Steven M. Fiore, Ph.D."></a>
+        <a href="https://csl.ist.ucf.edu/People" target="_blank"><img src="/assets/img/FioreHeadshot.png" alt="Steven M. Fiore, Ph.D."></a>
       </div>
       <div class="col-sm-8">
-        <h3><a href="https://csl.ist.ucf.edu/People">Steven M. Fiore, Ph.D.</a></h3>
+        <h3><a href="https://csl.ist.ucf.edu/People" target="_blank">Steven M. Fiore, Ph.D.</a></h3>
         <i>Professor, Cognitive Sciences and Department of Philosophy, University of Central Florida, USA; President, International Network for the Science of Team Science</i>
         <h4>Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations</h4>
       </div>
@@ -62,11 +62,11 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6">
-        <a href="https://www.nature.com/articles/d41586-022-01332-8/"><img src="/assets/img/analysis.png" alt="analysis"></a>
+        <a href="https://www.nature.com/articles/d41586-022-01332-8/" target="_blank"><img src="/assets/img/analysis.png" alt="analysis"></a>
       </div>
       <div class="col-sm-9">
         <h3>Guidance for Multi-Analyst Projects</h3>
-        <h4><a href="http://decisionlab.elte.hu/members/balazs-aczel/">Balazs Aczel</a></h4>
+        <h4><a href="http://decisionlab.elte.hu/members/balazs-aczel/" target="_blank">Balazs Aczel</a></h4>
         <i>Eötvös Loránd University, Hungary</i>
       </div>
     </div>
@@ -75,11 +75,11 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6">
-        <a href="https://psysciacc.org/006-trolley-problem/"><img src="/assets/img/trolley.png" alt="trolley"></a>
+        <a href="https://psysciacc.org/006-trolley-problem/" target="_blank"><img src="/assets/img/trolley.png" alt="trolley"></a>
       </div>
       <div class="col-sm-9">
         <h3>Situational Factors Shape Moral Judgements in the Trolley Dilemma in a Culturally Diverse Sample</h3>
-        <h4><a href="https://www.iast.fr/people/bence-bago">Bence Bagó</a></h4>
+        <h4><a href="https://www.iast.fr/people/bence-bago" target="_blank">Bence Bagó</a></h4>
         <i>Institute for Advanced Study in Toulouse, France</i>
       </div>
     </div>
@@ -92,11 +92,11 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
       </div>
       <div class="col-sm-9">
         <h3>Panel: Big Team Science Infrastructure</h3>
-        <h4><a href="https://www.aggieerin.com/page/about/">Erin Buchanan</a>: creator of Canvas for BTS</h4>
+        <h4><a href="https://www.aggieerin.com/page/about/" target="_blank">Erin Buchanan</a>: creator of Canvas for BTS</h4>
         <i>Harrisburg University of Science and Technology, USA</i>
-        <h4><a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html">Alex O. Holcombe</a>: co-creator of <i><a href="https://rollercoaster.shinyapps.io/tenzing/">tenzing</a></i></h4>
+        <h4><a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html" target="_blank">Alex O. Holcombe</a>: co-creator of <i><a href="https://rollercoaster.shinyapps.io/tenzing/" target="_blank">tenzing</a></i></h4>
         <i>University of Sydney, Australia</i>
-        <h4><a href="">Melissa Kline Struhl</a>: Executive Director of <a href="https://lookit.mit.edu">Lookit</a></h4>
+        <h4><a href="http://www.melissaklinestruhl.com" target="_blank">Melissa Kline Struhl</a>: Executive Director of <a href="https://lookit.mit.edu" target="_blank">Lookit</a></h4>
         <i>Massachusetts Intitute of Technology, USA</i>
       </div>
     </div>
@@ -202,16 +202,16 @@ To ensure inclusivity, registration fees will be optional for attendees! However
 	<div class="container">
 		<div class="row justify-content-around">
 		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3" align="center">
-		    <a href="https://manybabies.github.io" class="image"><img src="/assets/img/MB_logo.png" alt="ManyBabies" /></a>
-			   <h4><a href="https://manybabies.github.io">ManyBabies</a></h4>
+		    <a href="https://manybabies.github.io" class="image" target="_blank"><img src="/assets/img/MB_logo.png" alt="ManyBabies" /></a>
+			   <h4><a href="https://manybabies.github.io" target="_blank">ManyBabies</a></h4>
 		  </div>
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3" align="center">
-			  <a href="https://manyprimates.github.io" class="image"><img src="/assets/img/mp_logo_notext2.png" alt="ManyPrimates" /></a>
-			  <h4><a href="https://manyprimates.github.io">ManyPrimates</a></h4>
+			  <a href="https://manyprimates.github.io" class="image" target="_blank"><img src="/assets/img/mp_logo_notext2.png" alt="ManyPrimates" /></a>
+			  <h4><a href="https://manyprimates.github.io" target="_blank">ManyPrimates</a></h4>
 		  </div>
 		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3" align="center">
-			  <a href="https://psysciacc.org/" class="image"><img src="/assets/img/psa_logo.png" alt="PSA" /></a>
-			  <h4><a href="https://psysciacc.org/">Psychological Science Accelerator</a></h4>
+			  <a href="https://psysciacc.org/" class="image" target="_blank"><img src="/assets/img/psa_logo.png" alt="PSA" /></a>
+			  <h4><a href="https://psysciacc.org/" target="_blank">Psychological Science Accelerator</a></h4>
 		  </div>
 	  </div>
 	</div>
@@ -230,9 +230,9 @@ If you have any questions about the 2022 BTSCon, you can contact the [**conferen
 ***
 <br>
 
-*icon attribution: <a href="http://www.freepik.com">Session</a> icons designed by macrovector / Freepik;
-<a href="https://www.flaticon.com/free-icons/thunder" title="thunder icons">Thunder</a>,
-<a href="https://www.flaticon.com/free-icons/idea" title="idea icons">Idea</a>,
-<a href="https://www.flaticon.com/free-icons/debate" title="debate icons">Debate</a>,
-<a href="https://www.flaticon.com/free-icons/education" title="education icons">Education</a>, 
-<a href="https://www.flaticon.com/free-icons/interview" title="interview icons">Interview</a> icons created by Freepik - Flaticon*
+*icon attribution: <a href="http://www.freepik.com" target="_blank">Session</a> icons designed by macrovector / Freepik;
+<a href="https://www.flaticon.com/free-icons/thunder" title="thunder icons" target="_blank">Thunder</a>,
+<a href="https://www.flaticon.com/free-icons/idea" title="idea icons" target="_blank">Idea</a>,
+<a href="https://www.flaticon.com/free-icons/debate" title="debate icons" target="_blank">Debate</a>,
+<a href="https://www.flaticon.com/free-icons/education" title="education icons" target="_blank">Education</a>, 
+<a href="https://www.flaticon.com/free-icons/interview" title="interview icons" target="_blank">Interview</a> icons created by Freepik - Flaticon*
