@@ -140,6 +140,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
         <h4>Hackathons</h4>
         <i>60 or 90 minutes</i><br>
         <img src="/assets/img/hackathon.png" alt="hackathon" width="100" height="100"><br>
+        <b>2 to 4 leaders</b><br>
         abstract: max 500 words
       </div>
     </div>
