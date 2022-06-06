@@ -160,7 +160,6 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
         <h3>Lightning Talks</h3>
         <i>5 minutes</i><br> 
         <img src="/assets/img/lightning.png" alt="lightning talk" width="100" height="100"><br>
-        max of 3 slides<br> 
         <i>max 250 words</i>
       </div>
       <div class="col-sm-1" align="center">
