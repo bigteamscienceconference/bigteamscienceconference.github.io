@@ -123,7 +123,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
     </div> -->
     <div class="row justify-content-around">
       <div class="col-sm-3 col-xs-6" align="center">
-        <img src="/assets/img/symposium.png" alt="symposium">
+        <img src="/assets/img/symposium.png" alt="symposium" width="100" height="100">
         <h4>Symposia</h4>
         <i>60 minutes</i> <br>
         <b>3 or 4 talks</b> <br>
