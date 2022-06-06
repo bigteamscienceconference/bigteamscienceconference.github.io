@@ -205,6 +205,8 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
 
 #### Decisions will be sent on August 5
 
+<br>
+
 ***
 ## Registration
 
