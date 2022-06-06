@@ -51,6 +51,8 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
 ***
 ## Featured Sessions
 
+<b><i>Full program will be released in August</i></b>
+
 <section>
   <div class="container">
     <div class="row">
@@ -102,8 +104,6 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
   </div>
 </section>
 <br>
-<b><i>Full program will be released in August</i></b>
-<br>
 
 <!--
 ***
@@ -114,32 +114,6 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
 ## Submissions
 
 The conference will feature symposia, panel sessions, hackathons, talks, and social hours–all dedicated to all things big team science.
-
-<!--
-#### Symposia
-* Three or four talks with a connecting theme or topic
-* 60 minutes
-* Abstract max: 500 words
-
-#### Panels
-* Three or four panelists, plus moderator (optional), discussing a topic relevant to big team science
-* 60 minutes
-* Abstract max: 500 words
-
-#### Hackathons
-* description TK
-* 60 or 90 minutes
-* Abstract max: 500 words
-
-#### Talks
-* 20 minutes
-* Abstract max: 250 words
-
-#### Lightning Talks
-* Maximum of 3 slides
-* 5 minutes
-* Abstract max: 250 words
--->
 
 ### <a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Submission link</a> 
 
