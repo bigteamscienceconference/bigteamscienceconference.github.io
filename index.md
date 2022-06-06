@@ -231,8 +231,4 @@ If you have any questions about the 2022 BTSCon, you can contact the [**conferen
 <br>
 
 *icon attribution: <a href="http://www.freepik.com" target="_blank">Session</a> icons designed by macrovector / Freepik;
-<a href="https://www.flaticon.com/free-icons/thunder" title="thunder icons" target="_blank">Thunder</a>,
-<a href="https://www.flaticon.com/free-icons/idea" title="idea icons" target="_blank">Idea</a>,
-<a href="https://www.flaticon.com/free-icons/debate" title="debate icons" target="_blank">Debate</a>,
-<a href="https://www.flaticon.com/free-icons/education" title="education icons" target="_blank">Education</a>, 
-<a href="https://www.flaticon.com/free-icons/interview" title="interview icons" target="_blank">Interview</a> icons created by Freepik - Flaticon*
+<a href="https://www.flaticon.com/" target="_blank">Submission</a> icons created by Freepik - Flaticon*
