@@ -123,22 +123,22 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
     </div> -->
     <div class="row justify-content-around">
       <div class="col-sm-4 col-xs-6" align="center">
-        <img src="/assets/img/symposium.png" alt="symposium" width="100" height="100">
         <h4>Symposia</h4>
+        <img src="/assets/img/symposium.png" alt="symposium" width="100" height="100">
         <i>60 minutes</i> <br>
         <b>3 or 4 talks</b> <br>
         <i>abstract:</i> max 500 words
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
-        <img src="/assets/img/panel.png" alt="panel" width="100" height="100">
         <h4>Panels</h4>
+        <img src="/assets/img/panel.png" alt="panel" width="100" height="100">
         60 minutes<br>
         3 or 4 panelists<br>
         abstract: max 500 words
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
-        <img src="/assets/img/hackathon.png" alt="hackathon" width="100" height="100">
         <h4>Hackathons</h4>
+        <img src="/assets/img/hackathon.png" alt="hackathon" width="100" height="100">
         60 or 90 minutes<br> 
         abstract: max 500 words
       </div>
@@ -150,14 +150,14 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
       <div class="col-sm-1" align="center">
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
-        <img src="/assets/img/talk.png" alt="talk" width="100" height="100">
         <h4>Talks</h4>
+        <img src="/assets/img/talk.png" alt="talk" width="100" height="100">
         20 minutes<br> 
         abstract: max 250 words
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
-        <img src="/assets/img/lightning.png" alt="lightning talk" width="100" height="100">
         <h4>Lightning Talks</h4>
+        <img src="/assets/img/lightning.png" alt="lightning talk" width="100" height="100">
         5 minutes<br> 
         max of 3 slides<br> 
         abstract: max 250 words
