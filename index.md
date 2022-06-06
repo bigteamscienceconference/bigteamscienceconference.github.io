@@ -117,8 +117,8 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
 
 ### <a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Link to Submission Form</a> 
 
-#### Submission deadline: July 22
-*Decisions will be sent on August 5*
+### Submission deadline: July 22
+#### Decisions will be sent on August 5
 
 <section>
   <div class="container">
