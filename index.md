@@ -179,7 +179,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
         <p>   </p>
     </div>
     <div class="row justify-content-around">
-      <div class="col-sm-2 col-xs-6" align="center">
+      <div class="col-sm-1" align="center">
       </div>
       <div class="col-sm-3 col-xs-6" align="center">
         <img src="/assets/img/talk.png" alt="talk">
@@ -194,7 +194,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
         max of 3 slides<br> 
         abstract: max 250 words
       </div>
-      <div class="col-sm-2 col-xs-6" align="center">
+      <div class="col-sm-1" align="center">
       </div>
     </div>
     <div class="col-sm-12">
@@ -257,7 +257,7 @@ If you have any questions about the 2022 BTSCon, you can contact the [**conferen
 
 ***
 
-*icon attribution: <a href="http://www.freepik.com">Session</a> icons designed by macrovector / Freepik,
+*icon attribution: <a href="http://www.freepik.com">Session</a> icons designed by macrovector / Freepik;
 <a href="https://www.flaticon.com/free-icons/thunder" title="thunder icons">Thunder</a>,
 <a href="https://www.flaticon.com/free-icons/idea" title="idea icons">Idea</a>,
 <a href="https://www.flaticon.com/free-icons/debate" title="debate icons">Debate</a>,
