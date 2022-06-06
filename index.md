@@ -180,6 +180,8 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
     </div>
     <div class="row justify-content-around">
       <div class="col-sm-3 col-xs-6" align="center">
+      </div>
+      </div><div class="col-sm-3 col-xs-6" align="center">
         <img src="/assets/img/talk.png" alt="talk">
         <h4>Talks</h4>
         20 minutes<br> 
@@ -191,6 +193,8 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
         5 minutes<br> 
         max of 3 slides<br> 
         abstract: max 250 words
+      </div>
+      <div class="col-sm-3 col-xs-6" align="center">
       </div>
     </div>
     <div class="col-sm-12">
@@ -253,9 +257,9 @@ If you have any questions about the 2022 BTSCon, you can contact the [**conferen
 
 
 
-*icon attribution: <a href="http://www.freepik.com">designed by macrovector / Freepik</a>*,
-<a href="https://www.flaticon.com/free-icons/thunder" title="thunder icons">Thunder icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/idea" title="idea icons">Idea icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/debate" title="debate icons">Debate icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/education" title="education icons">Education icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/interview" title="interview icons">Interview icons created by Freepik - Flaticon</a>
+*icon attribution: <a href="http://www.freepik.com">Session</a> icons designed by macrovector / Freepik,
+<a href="https://www.flaticon.com/free-icons/thunder" title="thunder icons">Thunder</a>,
+<a href="https://www.flaticon.com/free-icons/idea" title="idea icons">Idea</a>,
+<a href="https://www.flaticon.com/free-icons/debate" title="debate icons">Debate</a>,
+<a href="https://www.flaticon.com/free-icons/education" title="education icons">Education</a>, 
+<a href="https://www.flaticon.com/free-icons/interview" title="interview icons">Interview</a> icons created by Freepik - Flaticon*
