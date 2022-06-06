@@ -98,7 +98,6 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
         <i>University of Sydney, Australia</i>
         <h4><a href="">Melissa Kline Struhl</a>: Executive Director of <a href="https://lookit.mit.edu">Lookit</a></h4>
         <i>Massachusetts Intitute of Technology, USA</i>
-        <h4>and others (TBA)</h4>
       </div>
     </div>
   </div>
