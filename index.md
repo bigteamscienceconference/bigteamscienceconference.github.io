@@ -144,7 +144,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
 ### <a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Submission link</a> 
 
 #### Submission deadline: July 22
-#### Decisions sent: August 5
+
 
 <section>
   <div class="container">
@@ -164,15 +164,15 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
       <div class="col-sm-3 col-xs-6" align="center">
         <img src="/assets/img/panel.png" alt="panel">
         <h4>Panels</h4>
-        <p>60 minutes</p>
-        <p>3-4 panelists</p>
-        <p>abstract: max 500 words</p>
+        60 minutes<br>
+        3-4 panelists<br>
+        abstract: max 500 words
       </div>
       <div class="col-sm-3 col-xs-6" align="center">
         <img src="/assets/img/hackathon.png" alt="hackathon">
         <h4>Hackathons</h4>
-        <p>60 or 90 minutes</p> 
-        <p>abstract: max 500 words</p>
+        60 or 90 minutes<br> 
+        abstract: max 500 words
       </div>
     </div>
     <div class="col-sm-12">
@@ -182,15 +182,15 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
       <div class="col-sm-3 col-xs-6" align="center">
         <img src="/assets/img/talk.png" alt="talk">
         <h4>Talks</h4>
-        <p>20 minutes</p> 
-        <p>abstract: max 250 words</p>
+        20 minutes<br> 
+        abstract: max 250 words
       </div>
       <div class="col-sm-3 col-xs-6" align="center">
         <img src="/assets/img/lightning.png" alt="lightning talk">
         <h4>Lightning Talks</h4>
-        <p>5 minutes</p> 
-        <p>max of 3 slides</p> 
-        <p>abstract: max 250 words</p>
+        5 minutes<br> 
+        max of 3 slides<br> 
+        abstract: max 250 words
       </div>
     </div>
     <div class="col-sm-12">
@@ -199,6 +199,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
   </div>
 </section> 
 
+#### Decisions will be sent on August 5
 
 ***
 ## Registration
