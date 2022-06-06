@@ -229,6 +229,7 @@ If you have any questions about the 2022 BTSCon, you can contact the [**conferen
 * **Grace Zhou**, *University of Manitoba, Canada - ManyBabies* [[email]](mailto:grace.zhou@umanitoba.ca)
 
 ***
+<br>
 
 *icon attribution: <a href="http://www.freepik.com">Session</a> icons designed by macrovector / Freepik;
 <a href="https://www.flaticon.com/free-icons/thunder" title="thunder icons">Thunder</a>,
