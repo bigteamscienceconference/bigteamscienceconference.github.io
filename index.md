@@ -115,6 +115,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
 
 The conference will feature symposia, panel sessions, hackathons, talks, and social hours–all dedicated to all things big team science.
 
+<!--
 #### Symposia
 * Three or four talks with a connecting theme or topic
 * 60 minutes
@@ -138,6 +139,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
 * Maximum of 3 slides
 * 5 minutes
 * Abstract max: 250 words
+-->
 
 ### <a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Submission link</a> 
 
