@@ -114,11 +114,6 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
 
 The conference will feature symposia, panel sessions, hackathons, talks, and social hours–all dedicated to all things big team science.
 
-### <a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Link to Submission Form</a> 
-
-### Submission deadline: July 22
-#### Decisions will be sent on August 5
-
 <section>
   <div class="container">
     <div class="row">
@@ -175,6 +170,11 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
     </div>
   </div>
 </section> 
+
+### <a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Link to Submission Form</a> 
+
+### Submission deadline: July 22
+#### Decisions will be sent on August 5
 <br>
 
 ***
