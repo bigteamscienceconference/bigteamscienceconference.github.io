@@ -139,7 +139,7 @@ The conference will feature symposiums, panel sessions, hackathons, talks, and s
 * 5 minutes
 * Abstract max: 250 words
 
-### <a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Submission link</a>** 
+### <a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Submission link</a> 
 
 #### Submission deadline: July 22
 *Decisions will be sent out August 5*
