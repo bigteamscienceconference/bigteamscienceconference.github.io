@@ -127,21 +127,21 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
         <i>60 minutes</i><br>
         <img src="/assets/img/symposium.png" alt="symposium" width="100" height="100"><br>
         <b>3 or 4 talks</b> <br>
-        <i>abstract max: 500 words</i>
+        <i>abstract: 500 words</i>
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
         <h3>Panels</h3>
         <i>60 minutes</i><br>
         <img src="/assets/img/panel.png" alt="panel" width="100" height="100"><br>
         <b>3 or 4 panelists</b><br>
-        <i>abstract max: 500 words</i>
+        <i>abstract: 500 words</i>
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
         <h3>Hackathons</h3>
         <i>60 or 90 minutes</i><br>
         <img src="/assets/img/hackathon.png" alt="hackathon" width="100" height="100"><br>
         <b>2 to 4 leaders</b><br>
-        <i>abstract max: 500 words</i>
+        <i>abstract: 500 words</i>
       </div>
     </div>
     <div class="col-sm-12">
@@ -154,13 +154,13 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
         <h3>Talks</h3>
         <i>20 minutes</i><br> 
         <img src="/assets/img/talk.png" alt="talk" width="100" height="100"><br>
-        <i>abstract max: 250 words</i>
+        <i>abstract: 250 words</i>
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
         <h3>Lightning Talks</h3>
         <i>5 minutes</i><br> 
         <img src="/assets/img/lightning.png" alt="lightning talk" width="100" height="100"><br>
-        <i>abstract max: 250 words</i>
+        <i>abstract: 250 words</i>
       </div>
       <div class="col-sm-1" align="center">
       </div>
@@ -171,9 +171,8 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
   </div>
 </section> 
 
-### <a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Link to Submission Form</a> 
+<h3 align="center">Deadline to complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Link to Submission Form</a> is July 22</h3>
 
-### Submission deadline: July 22
 #### Decisions will be sent on August 5
 <br>
 
@@ -229,7 +228,5 @@ Alternatively, you can reach out to any of the conference organizers:
 * **Grace Zhou**, *University of Manitoba, Canada - ManyBabies* [[email]](mailto:grace.zhou@umanitoba.ca)
 
 ***
-<br>
-
 *icon attribution: <a href="http://www.freepik.com" target="_blank">Session</a> icons designed by macrovector / Freepik;
 <a href="https://www.flaticon.com/" target="_blank">Submission</a> icons created by Freepik - Flaticon*
