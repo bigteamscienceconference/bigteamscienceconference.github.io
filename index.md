@@ -94,6 +94,8 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
         <i>Harrisburg University of Science and Technology, USA</i>
         <h4><a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html">Alex O. Holcombe</a>: co-creator of <i>tenzing</i></h4>
         <i>University of Sydney, Australia</i>
+        <h4><a href="">Melissa Kline Struhl</a>: Executive Director of Lookit</h4>
+        <i>MIT, USA</i>
         <h4>and others (TBA)</h4>
       </div>
     </div>
@@ -124,7 +126,7 @@ The conference will feature symposiums, panel sessions, hackathons, talks, and s
 * Abstract max: 500 words
 
 ### Hackathons
-* 
+* description TK
 * 60 or 90 minutes
 * Abstract max: 500 words
 
