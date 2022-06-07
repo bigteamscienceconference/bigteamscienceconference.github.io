@@ -61,7 +61,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-3 col-xs-6">
+      <div class="col-sm-3 col-xs-6" align="center">
         <a href="https://www.nature.com/articles/d41586-022-01332-8/" target="_blank"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150"></a>
       </div>
       <div class="col-sm-9">
@@ -74,7 +74,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
         <p>   </p>
     </div>
     <div class="row">
-      <div class="col-sm-3 col-xs-6">
+      <div class="col-sm-3 col-xs-6" align="center">
         <a href="https://psysciacc.org/006-trolley-problem/" target="_blank"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150"></a>
       </div>
       <div class="col-sm-9">
@@ -87,7 +87,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
         <p>   </p>
     </div>
     <div class="row">
-      <div class="col-sm-3 col-xs-6">
+      <div class="col-sm-3 col-xs-6" align="center">
         <img src="/assets/img/tools.png" alt="tools" width="150" height="150">
       </div>
       <div class="col-sm-9">
