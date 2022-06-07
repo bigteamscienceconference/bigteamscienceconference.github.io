@@ -219,7 +219,7 @@ To ensure inclusivity, registration fees will be optional for attendees! However
 ***
 ## Contact Us
 
-Questions about the 2022 BTSCon: [**Conference Email**](mailto:bigteamscienceconference@gmail.com). <br>
+Send questions about the 2022 BTSCon to our [**Conference Email**](mailto:bigteamscienceconference@gmail.com). <br>
 Alternatively, you can reach out to any of the conference organizers:
 
 * [**Heidi Baumgartner**](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, USA - ManyBabies* [[email]](mailto:heidib@stanford.edu)
