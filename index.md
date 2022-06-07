@@ -112,7 +112,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
 ***
 ## Submissions
 
-The conference will feature symposia, panel sessions, hackathons, talks, and social hours. We welcome submissions from groups and individuals who are interested in sharing their work related to Big Team Science.
+The conference will feature symposia, panel sessions, hackathons, talks, and social hours. We welcome submissions from groups and individuals who are interested in sharing any work related to Big Team Science. This includes, but is not limited to: completed and/or new large-scale collaborations, crowdsourced efforts, and citizen science projects; science of team science [meta-science] work; re-analysis of data from large-scale collaborations; related infrastructure and policy projects; and more!
 
 <h2 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Submit Here!</a></h2>
 
