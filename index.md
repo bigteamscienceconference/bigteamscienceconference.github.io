@@ -62,7 +62,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6">
-        <a href="https://www.nature.com/articles/d41586-022-01332-8/" target="_blank"><img src="/assets/img/analysis.png" alt="analysis"></a>
+        <a href="https://www.nature.com/articles/d41586-022-01332-8/" target="_blank"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150"></a>
       </div>
       <div class="col-sm-9">
         <h3>Guidance for Multi-Analyst Projects</h3>
@@ -75,7 +75,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6">
-        <a href="https://psysciacc.org/006-trolley-problem/" target="_blank"><img src="/assets/img/trolley.png" alt="trolley"></a>
+        <a href="https://psysciacc.org/006-trolley-problem/" target="_blank"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150"></a>
       </div>
       <div class="col-sm-9">
         <h3>Situational Factors Shape Moral Judgements in the Trolley Dilemma in a Culturally Diverse Sample</h3>
@@ -88,7 +88,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6">
-        <img src="/assets/img/tools.png" alt="tools">
+        <img src="/assets/img/tools.png" alt="tools" width="150" height="150">
       </div>
       <div class="col-sm-9">
         <h3>Panel: Big Team Science Infrastructure</h3>
@@ -205,11 +205,11 @@ To ensure inclusivity, registration fees will be optional for attendees! However
 			   <h4><a href="https://manybabies.github.io" target="_blank">ManyBabies</a></h4>
 		  </div>
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3" align="center">
-			  <a href="https://manyprimates.github.io" class="image" target="_blank"><img src="/assets/img/mp_logo_notext2.png" alt="ManyPrimates"  width="150" height="150"></a>
+			  <a href="https://manyprimates.github.io" class="image" target="_blank"><img src="/assets/img/mp_logo_notext2.png" alt="ManyPrimates" width="150" height="150"></a>
 			  <h4><a href="https://manyprimates.github.io" target="_blank">ManyPrimates</a></h4>
 		  </div>
 		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3" align="center">
-			  <a href="https://psysciacc.org/" class="image" target="_blank"><img src="/assets/img/psa_logo.png" alt="PSA"  width="150" height="150"></a>
+			  <a href="https://psysciacc.org/" class="image" target="_blank"><img src="/assets/img/psa_logo.png" alt="PSA" width="150" height="150"></a>
 			  <h4><a href="https://psysciacc.org/" target="_blank">Psychological Science Accelerator</a></h4>
 		  </div>
 	  </div>
