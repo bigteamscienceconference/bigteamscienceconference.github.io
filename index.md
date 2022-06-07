@@ -20,8 +20,8 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-4 col-xs-6">
-        <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#" target="_blank"><img src="/assets/img/FidlerHeadshot.png" alt="Fiona Fidler, Ph.D."></a>
+      <div class="col-sm-4 col-xs-6" align="center">
+        <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#" target="_blank"><img src="/assets/img/FidlerHeadshot.png" alt="Fiona Fidler, Ph.D." width="200" height="200"></a>
       </div>
       <div class="col-sm-8">
         <h3><a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#" target="_blank">Fiona Fidler, Ph.D.</a></h3>
@@ -35,8 +35,8 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-4 col-xs-6">
-        <a href="https://csl.ist.ucf.edu/People" target="_blank"><img src="/assets/img/FioreHeadshot.png" alt="Steven M. Fiore, Ph.D."></a>
+      <div class="col-sm-4 col-xs-6" align="center">
+        <a href="https://csl.ist.ucf.edu/People" target="_blank"><img src="/assets/img/FioreHeadshot.png" alt="Steven M. Fiore, Ph.D." width="200" height="200"></a>
       </div>
       <div class="col-sm-8">
         <h3><a href="https://csl.ist.ucf.edu/People" target="_blank">Steven M. Fiore, Ph.D.</a></h3>
