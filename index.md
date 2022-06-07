@@ -97,7 +97,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
         <h4><a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html" target="_blank">Alex O. Holcombe</a>: co-creator of <i><a href="https://rollercoaster.shinyapps.io/tenzing/" target="_blank">tenzing</a></i></h4>
         <i>University of Sydney, Australia</i>
         <h4><a href="http://www.melissaklinestruhl.com" target="_blank">Melissa Kline Struhl</a>: Executive Director of <a href="https://lookit.mit.edu" target="_blank">Lookit</a></h4>
-        <i>Massachusetts Intitute of Technology, USA</i>
+        <i>Massachusetts Institute of Technology, USA</i>
       </div>
     </div>
   </div>
