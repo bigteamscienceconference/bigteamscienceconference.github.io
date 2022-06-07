@@ -116,11 +116,11 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
 
 <section>
   <div class="container">
-<!--<div class="row">
+    <div class="row justify-content-around">
       <div class="col-sm-12">
-        <p>    </p>
+        <h2><a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Submit Here!</a></h2>
       </div>
-    </div> -->
+    </div>
     <div class="row justify-content-around">
       <div class="col-sm-4 col-xs-6" align="center">
         <h3>Symposia</h3>
@@ -182,7 +182,7 @@ To ensure inclusivity, registration fees will be optional for attendees! However
 ***
 ## Important Dates
 
-* **Submissions Open:** June 6, 2022
+* **Submissions Open:** June 7, 2022
 * **Submission Deadline:** July 22, 2022
 * **Submission Decisions:** August 5, 2022
 * **Registration Open:** late August, 2022
