@@ -88,7 +88,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6">
-        <a href=""><img src="/assets/img/tools.png" alt="tools"></a>
+        <img src="/assets/img/tools.png" alt="tools">
       </div>
       <div class="col-sm-9">
         <h3>Panel: Big Team Science Infrastructure</h3>
