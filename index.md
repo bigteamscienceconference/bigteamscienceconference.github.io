@@ -60,7 +60,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
         <p>    </p>
       </div>
     </div>
-    <div class="row justify-content-around">
+    <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <a href="https://www.nature.com/articles/d41586-022-01332-8/" target="_blank"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150"></a>
       </div>
