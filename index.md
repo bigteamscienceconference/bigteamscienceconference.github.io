@@ -114,11 +114,13 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
 
 The conference will feature symposia, panel sessions, hackathons, talks, and social hours. We welcome submissions from groups and individuals who are interested in sharing their work related to Big Team Science.
 
+<h2 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Submit Here!</a></h2>
+
 <section>
   <div class="container">
     <div class="row justify-content-around">
       <div class="col-sm-12">
-        <h2><a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" align="center" target="_blank">Submit Here!</a></h2>
+        <p>   </p>
       </div>
     </div>
     <div class="row justify-content-around">
