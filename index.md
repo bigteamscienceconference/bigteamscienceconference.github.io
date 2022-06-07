@@ -146,9 +146,6 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
         <i>abstract: 500 words</i>
       </div>
     </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
     <div class="row justify-content-around">
       <div class="col-sm-1" align="center">
       </div>
