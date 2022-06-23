@@ -189,6 +189,11 @@ To ensure inclusivity, registration fees will be optional for attendees! However
 
 > View the [BTScon calendar](https://calendar.google.com/calendar/embed?src=bigteamscienceconference%40gmail.com&ctz=America%2FLos_Angeles)
 
+***
+## Accessibility
+
+We are striving to make the 2022 Big Team Science Conference as accessible as possible. More information for attendees and presenters is available on the [Accessibility]({{site.baseurl}}/access/) page.  
+
 
 ***
 ## Sponsor Organizations
