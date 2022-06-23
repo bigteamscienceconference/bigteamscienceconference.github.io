@@ -12,7 +12,7 @@ We will be using Zoom as our primary conference platform.
 
 ## Slide sharing
 
-We will encourage speakers to share their presentation slides, with as much annotation as possible, in advance of their talks. 
+We encourage speakers to share their presentation slides, with as much annotation as possible, in advance of their talks. 
 
 Here is a [guide to making accessible PDFs](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-pdf-author-guide/).
 
