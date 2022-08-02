@@ -224,11 +224,11 @@ We are striving to make the 2022 Big Team Science Conference as accessible as po
 Send questions about the 2022 BTSCon to our [**Conference Email**](mailto:bigteamscienceconference@gmail.com). <br>
 Alternatively, you can reach out to any of the conference organizers:
 
-* [**Heidi Baumgartner**](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, US - ManyBabies* [[email]](mailto:heidib@stanford.edu)
+* [**Heidi Baumgartner**](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, USA - ManyBabies* [[email]](mailto:heidib@stanford.edu)
 * [**Manuel Bohn**](https://manuelbohn.github.io), *Max Planck Institute for Evolutionary Anthropology, Germany - ManyPrimates* [[email]](mailto:manuel0bohn@gmail.com)
-* [**Nicholas Coles**](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, US - Psychological Science Accelerator* [[email]](mailto:ncoles@stanford.edu)
+* [**Nicholas Coles**](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, USA - Psychological Science Accelerator* [[email]](mailto:ncoles@stanford.edu)
 * **Grace Zhou**, *University of Manitoba, Canada - ManyBabies* [[email]](mailto:grace.zhou@umanitoba.ca)
-* **Erin Sievers**, *Ashland University, US - Psychological Science Accelerator* [[email]](mailto:esievers@ashland.edu)
+* **Erin Sievers**, *Ashland University, USA - Psychological Science Accelerator* [[email]](mailto:esievers@ashland.edu)
 
 ***
 *icon attribution: <a href="http://www.freepik.com" target="_blank">Session</a> icons designed by macrovector / Freepik;
