@@ -10,6 +10,14 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
 *Notes: The full program will be released in August. The conference will be presented via Zoom. The tentative plan is to set the conference schedule primarily according to Eastern Standard Time, but we will accommodate scheduling requirements of presenters as needed.* 
 
 ***
+
+## Registration
+
+Registration for the 2022 BTSCON is now open! To ensure inclusivity, **registration fees are optional** for attendees. You can attend for free or pay what you want, but the suggested registration fee is $20. All proceeds will be used to develop and improve upon future big team science projects. 
+
+### [REGISTER HERE](https://opencollective.com/psysciacc/events/test-event-23392c94/contribute/registration-2022-big-team-science-conference-40278)
+
+***
 <!--## [Speakers]({{site.baseurl}}/people/) 
 -->
 ## Keynote Speakers
@@ -174,11 +182,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
 <br>
 
 ***
-## Registration
 
-To ensure inclusivity, registration fees will be optional for attendees! However, registration will be limited to 1,000 attendees. The link to register will open in late August.
-
-***
 ## Important Dates
 
 * **Submissions Open:** June 7, 2022
