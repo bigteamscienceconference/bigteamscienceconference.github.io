@@ -17,6 +17,8 @@ Registration for the 2022 BTSCON is now open! To ensure inclusivity, **registrat
 
 ### [REGISTER HERE](https://opencollective.com/psysciacc/events/test-event-23392c94/contribute/registration-2022-big-team-science-conference-40278)
 
+<br>
+
 ***
 <!--## [Speakers]({{site.baseurl}}/people/) 
 -->
@@ -188,7 +190,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
 * **Submissions Open:** June 7, 2022
 * **Submission Deadline:** ~~July 22, 2022~~ Extended to August 5, 2022
 * **Submission Decisions:** August 5, 2022
-* **Registration Open:** late August, 2022
+* **Registration Open:** August, 2022
 * **Conference:** October 27-28, 2022
 
 > View the [BTScon calendar](https://calendar.google.com/calendar/embed?src=bigteamscienceconference%40gmail.com&ctz=America%2FLos_Angeles)
