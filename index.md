@@ -184,7 +184,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
 
 * **Submissions Open:** June 7, 2022
 * **Submission Deadline:** ~~July 22, 2022~~ Extended to August 5, 2022
-* **Submission Decisions:** August 5, 2022
+* **Submission Decisions:** August 5, 2022 (or soon after, for late submissions)
 * **Registration Open:** August, 2022
 * **Conference:** October 27-28, 2022
 
