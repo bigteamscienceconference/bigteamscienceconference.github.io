@@ -7,7 +7,7 @@ title: program
 ### October 27-28, 2022 
 ## 1st annual Big Team Science Conference
 
-<b><i>Full program will be released in August</i></b>
+<b><i>Full program will be released in mid August</i></b>
 
 ***
 ## Keynote Speakers
