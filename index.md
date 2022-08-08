@@ -146,7 +146,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
         <h3>Hackathons</h3>
-        <i>60 or 90 minutes</i><br>
+        <i>90 minutes</i><br>
         <img src="/assets/img/hackathon.png" alt="hackathon" width="100" height="100"><br>
         <b>2 to 4 leaders</b><br>
       </div>
@@ -156,7 +156,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
         <h3>Talks</h3>
-        <i>20 minutes</i><br> 
+        <i>30 minutes</i><br> 
         <img src="/assets/img/talk.png" alt="talk" width="100" height="100"><br>
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
