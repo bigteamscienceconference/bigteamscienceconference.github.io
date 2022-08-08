@@ -36,10 +36,10 @@ title: program
     </div>
     <div class="row">
       <div class="col-sm-4 col-xs-6">
-        <a href="https://csl.ist.ucf.edu/People"><img src="/assets/img/FioreHeadshot.png" alt="Steven M. Fiore, Ph.D."></a>
+        <a href="https://csl.ist.ucf.edu/People"><img src="/assets/img/FioreHeadshot.png" alt="Stephen M. Fiore, Ph.D."></a>
       </div>
       <div class="col-sm-8">
-        <h3><a href="https://csl.ist.ucf.edu/People">Steven M. Fiore, Ph.D.</a></h3>
+        <h3><a href="https://csl.ist.ucf.edu/People">Stephen M. Fiore, Ph.D.</a></h3>
         <i>Professor, Cognitive Sciences and Department of Philosophy, University of Central Florida, USA; President, International Network for the Science of Team Science</i>
         <h4>Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations</h4>
       </div>
