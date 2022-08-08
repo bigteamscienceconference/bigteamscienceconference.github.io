@@ -120,12 +120,11 @@ Registration for the 2022 BTSCON is now open! To ensure inclusivity, **registrat
 -->
 
 ***
-## Submissions
+## Sessions
 
-The conference will feature symposia, panel sessions, hackathons, talks, and social hours. We welcome submissions from groups and individuals who are interested in sharing any work related to Big Team Science. This includes, but is not limited to: completed and/or new large-scale collaborations, crowdsourced efforts, and citizen science projects; science of team science [meta-science] work; re-analysis of data from large-scale collaborations; related infrastructure and policy projects; and more!
+The conference will feature symposia, panel sessions, hackathons, talks, and social hours. Sessions will feature presentations from groups and individuals who are interested in sharing any work related to Big Team Science. This includes, but is not limited to: completed and/or new large-scale collaborations, crowdsourced efforts, and citizen science projects; science of team science [meta-science] work; re-analysis of data from large-scale collaborations; related infrastructure and policy projects; and more!
 
-<h2 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Submit Here!</a></h2>
-
+### Session Formats
 <section>
   <div class="container">
     <div class="row justify-content-around">
@@ -139,21 +138,18 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
         <i>60 minutes</i><br>
         <img src="/assets/img/symposium.png" alt="symposium" width="100" height="100"><br>
         <b>3 or 4 talks</b> <br>
-        <i>abstract: 500 words</i>
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
         <h3>Panels</h3>
         <i>60 minutes</i><br>
         <img src="/assets/img/panel.png" alt="panel" width="100" height="100"><br>
         <b>3 or 4 panelists</b><br>
-        <i>abstract: 500 words</i>
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
         <h3>Hackathons</h3>
         <i>60 or 90 minutes</i><br>
         <img src="/assets/img/hackathon.png" alt="hackathon" width="100" height="100"><br>
         <b>2 to 4 leaders</b><br>
-        <i>abstract: 500 words</i>
       </div>
     </div>
     <div class="row justify-content-around">
@@ -163,13 +159,11 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
         <h3>Talks</h3>
         <i>20 minutes</i><br> 
         <img src="/assets/img/talk.png" alt="talk" width="100" height="100"><br>
-        <i>abstract: 250 words</i>
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
         <h3>Lightning Talks</h3>
         <i>5 minutes</i><br> 
         <img src="/assets/img/lightning.png" alt="lightning talk" width="100" height="100"><br>
-        <i>abstract: 250 words</i>
       </div>
       <div class="col-sm-1" align="center">
       </div>
@@ -180,8 +174,10 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
   </div>
 </section> 
 
+<!--
 <h3 align="center">Deadline to complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Submission Form</a> extended to August 5!</h3>
 <br>
+-->
 
 ***
 
