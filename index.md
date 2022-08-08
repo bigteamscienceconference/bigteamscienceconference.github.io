@@ -128,11 +128,6 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
 <section>
   <div class="container">
     <div class="row justify-content-around">
-      <div class="col-sm-12">
-        <p>   </p>
-      </div>
-    </div>
-    <div class="row justify-content-around">
       <div class="col-sm-4 col-xs-6" align="center">
         <h3>Symposia</h3>
         <i>60 minutes</i><br>
