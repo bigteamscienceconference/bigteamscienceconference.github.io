@@ -123,8 +123,7 @@ Registration for the 2022 BTSCON is now open! To ensure inclusivity, **registrat
 ## Sessions
 
 The conference will feature symposia, panel sessions, hackathons, talks, and social hours. Sessions will feature presentations from groups and individuals who are interested in sharing any work related to Big Team Science. This includes, but is not limited to: completed and/or new large-scale collaborations, crowdsourced efforts, and citizen science projects; science of team science [meta-science] work; re-analysis of data from large-scale collaborations; related infrastructure and policy projects; and more!
-
-### Session Formats
+<br>
 
 <section>
   <div class="container">
