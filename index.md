@@ -128,24 +128,24 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
   <div class="container">
     <div class="row justify-content-around">
       <div align="center">
-        <h3>Session Formats</h3>
+        <h2>Session Formats</h2>
       </div>
     </div>
     <div class="row justify-content-around">
       <div class="col-sm-4 col-xs-6" align="center">
-        <h4>SYMPOSIA</h4>
+        <h3>SYMPOSIA</h3>
         <i>60 minutes</i><br>
         <img src="/assets/img/symposium.png" alt="symposium" width="100" height="100"><br>
         <b>3 or 4 talks</b> <br>
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
-        <h4>PANELS</h4>
+        <h3>PANELS</h3>
         <i>60 minutes</i><br>
         <img src="/assets/img/panel.png" alt="panel" width="100" height="100"><br>
         <b>3 or 4 panelists</b><br>
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
-        <h4>HACHATHONS</h4>
+        <h3>HACHATHONS</h3>
         <i>60 or 90 minutes</i><br>
         <img src="/assets/img/hackathon.png" alt="hackathon" width="100" height="100"><br>
         <b>2 to 4 leaders</b><br>
@@ -155,12 +155,12 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
       <div class="col-sm-1" align="center">
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
-        <h4>TALKS</h4>
+        <h3>TALKS</h3>
         <i>20 minutes</i><br> 
         <img src="/assets/img/talk.png" alt="talk" width="100" height="100"><br>
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
-        <h4>LIGHTNING TALKS</h4>
+        <h3>LIGHTNING TALKS</h3>
         <i>5 minutes</i><br> 
         <img src="/assets/img/lightning.png" alt="lightning talk" width="100" height="100"><br>
       </div>
