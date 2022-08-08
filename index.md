@@ -184,7 +184,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
 * **Registration Open:** August, 2022
 * **Conference:** October 27-28, 2022
 
-> View the [BTScon calendar](https://calendar.google.com/calendar/embed?src=bigteamscienceconference%40gmail.com&ctz=America%2FLos_Angeles)
+> View the [BTScon calendar](https://calendar.google.com/calendar/embed?src=bigteamscienceconference%40gmail.com&ctz=America%2FNew_York)
 
 ***
 ## Accessibility
