@@ -7,7 +7,7 @@ layout: page
 
 The goal of this two-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science.
 
-*Notes: The full program will be released in mid August. The conference will be presented via Zoom. The tentative plan is to set the conference schedule primarily according to Eastern Standard Time (approx. 9am-6pm EST), but we will accommodate scheduling requirements of presenters as needed.* 
+*Notes: The full program will be released in late August. The conference will be presented via Zoom. The tentative plan is to set the conference schedule primarily according to Eastern Standard Time (approx. 9am-6pm EST), but we will accommodate scheduling requirements of presenters as needed.* 
 
 ***
 
