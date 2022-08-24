@@ -7,7 +7,7 @@ title: program
 ### October 27-28, 2022 
 ## 1st annual Big Team Science Conference
 
-<b><i>Full program will be released in mid August</i></b>
+<b><i>Full program will be released in late August</i></b>
 
 ***
 ## Keynote Speakers
@@ -108,7 +108,7 @@ title: program
 ***
 
 ### Contact us
-If you have any questions about the 2022 BTSCon, [contact us](mailto:bigteamscienceconference@gmail.com).
+If you have any questions about the 2022BTSCON, [contact us](mailto:bigteamscienceconference@gmail.com).
 
 <br>
 <br>
