@@ -1,6 +1,6 @@
 ---
 layout: page
-title: conference rules
+title: meeting rules
 <!--cover-img: /assets/img/events_blank.png-->
 ---
 
