@@ -9,8 +9,8 @@ title: program
 
 <b><i>Full program will be released in late August</i></b>
 
-<!--[Full Conference Program](https://docs.google.com/document/d/e/2PACX-1vRdmZDZI4Daf-6Ja9KjzbHbRF2yD1cWbxWgqQCM6SjzLRX0C2d9bscS8Yo3uph2xNe7Ew7ribx5NTuN/pub)
--->
+[Full Conference Program](https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing)
+
 
 
 
