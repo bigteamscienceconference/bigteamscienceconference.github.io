@@ -32,7 +32,7 @@ Potential consequences for violations of this code of conduct include, but are n
 
 ## How to Make a Report
 
-You can report a suspected code of conduct violation to the [conference email](mailto:bigteamscienceconference@gmail.com) or any member of the BTSCON organizing team. (See [Contact Us]({{site.baseurl}}/index/))
+You can report a suspected code of conduct violation to the [conference email](mailto:bigteamscienceconference@gmail.com) or any member of the BTSCON organizing team. (See [Contact Us]({{site.baseurl}}))
 
 All reports will be considered by the conference organizers, who will decide on appropriate action.
 
