@@ -8,6 +8,7 @@ layout: page
 The goal of this two-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science.
 
 ### The full conference program can be viewed [here]({{site.baseurl}}/program/). 
+<br>
 
 ***
 
