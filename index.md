@@ -7,7 +7,7 @@ layout: page
 
 The goal of this two-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science.
 
-*Notes: The full program will be released in late August. The conference will be presented via Zoom. The tentative plan is to set the conference schedule primarily according to Eastern Standard Time (approx. 9am-6pm EST), but we will accommodate scheduling requirements of presenters as needed.* 
+The full conference program can be viewed [here]({{site.baseurl}}/program/). 
 
 ***
 
@@ -119,7 +119,7 @@ Registration for the 2022 BTSCON is now open! To ensure inclusivity, **registrat
 ## [Program]({{site.baseurl}}/schedule/) 
 -->
 
-***
+<!--***
 ## Sessions
 
 The conference will feature symposia, panel sessions, hackathons, talks, and social hours. Sessions will feature presentations from groups and individuals who are interested in sharing any work related to Big Team Science. This includes, but is not limited to: completed and/or new large-scale collaborations, crowdsourced efforts, and citizen science projects; science of team science [meta-science] work; re-analysis of data from large-scale collaborations; related infrastructure and policy projects; and more!
@@ -172,13 +172,14 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
     </div>
   </div>
 </section> 
+-->
 
 <!--
 <h3 align="center">Deadline to complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Submission Form</a> extended to August 5!</h3>
 <br>
 -->
 
-***
+<!--***
 
 ## Important Dates
 
@@ -189,12 +190,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
 * **Conference:** October 27-28, 2022
 
 > View the [BTScon calendar](https://calendar.google.com/calendar/embed?src=bigteamscienceconference%40gmail.com&ctz=America%2FNew_York)
-
-***
-## Accessibility
-
-We are striving to make the 2022 Big Team Science Conference as accessible as possible. More information for attendees and presenters is available on the [Accessibility]({{site.baseurl}}/access/) page.
-
+-->
 
 ***
 ## Sponsor Organizations
