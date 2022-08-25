@@ -19,7 +19,7 @@ To provide clarity on how the BTSCON [Code of Conduct]({{site.baseurl}}/codeofco
 + Sessions will be recorded by session leaders with the consent of presenters and the notification of attendees. Recording and photographing of sessions by other attendees are not allowed unless all participants consent. This includes recording the audio/video of the session in Zoom (or with any other media-capturing software or device), as well as taking screenshots of the session.
 
 
-## Sources
+## Source
 
 These rules use language and concepts adapted from:
 
