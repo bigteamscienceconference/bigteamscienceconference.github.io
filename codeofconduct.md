@@ -53,7 +53,7 @@ adopted August, 2022
 ***
 
 ### Contact us
-If you have any questions about the 2022BTSCON, [contact us](mailto:bigteamscienceconference@gmail.com).
+If you have any questions about the 2022 BTSCON, [contact us](mailto:bigteamscienceconference@gmail.com).
 
 <br>
 <br>

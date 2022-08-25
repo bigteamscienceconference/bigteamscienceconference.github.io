@@ -222,7 +222,7 @@ We are striving to make the 2022 Big Team Science Conference as accessible as po
 ***
 ## Contact Us
 
-Send questions about the 2022 BTSCon to our [**Conference Email**](mailto:bigteamscienceconference@gmail.com). <br>
+Send questions about the 2022 BTSCON to our [**Conference Email**](mailto:bigteamscienceconference@gmail.com). <br>
 Alternatively, you can reach out to any of the conference organizers:
 
 * [**Heidi Baumgartner**](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, USA - ManyBabies* [[email]](mailto:heidib@stanford.edu)
