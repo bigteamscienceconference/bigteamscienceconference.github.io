@@ -16,6 +16,7 @@ author: Heidi Baumgartner
 navbar-links:
   Home: "index"
   Meeting Info: 
+    - Program: "program"
     - Registration: "https://opencollective.com/psysciacc/events/test-event-23392c94/contribute/registration-2022-big-team-science-conference-40278"
     - Accessibility: "access"
     - Code of Conduct: "codeofconduct"
