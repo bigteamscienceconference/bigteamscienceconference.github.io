@@ -5,6 +5,7 @@ title: conference rules
 ---
 
 ## 2022 Big Team Science Conference, Online Meeting Code of Conduct Supplement
+<br>
 
 ### Purpose: 
 To provide clarity on how the BTSCON [Code of Conduct]({{site.baseurl}}/codeofconduct/) (CoC) will apply and operate, in spirit and practice, during the 2022 meeting which will be held virtually on October 27-28.
