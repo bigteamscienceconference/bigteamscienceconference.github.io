@@ -11,9 +11,9 @@ title: program
 <h2 align="center">View the full Conference Program <a href="https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing" target="blank">HERE</a></h2>
 </section>
 
-## [[View the full Conference Program]](https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing)
-
 <br>
+
+***
 
 ## Sessions
 
