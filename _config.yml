@@ -23,7 +23,7 @@ navbar-links:
     - Meeting Rules: "rules"
 #  Registration: "registration"
 #  Program: "program"
-#  Contact: "contact"
+  Contact: "contact"
   
 #  About Me: "aboutme"
 #  Resources:

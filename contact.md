@@ -6,12 +6,16 @@ cover-img: /assets/img/network.png
 
 
 
-### [Conference contact email](mailto:bigteamscienceconference@gmail.com)
+## Email
 
-### [Nicholas Coles](mailto:ncoles@stanford.edu)
+* [Conference contact email](mailto:bigteamscienceconference@gmail.com)
 
-### [Heidi Baumgartner](mailto:heidib@stanford.edu)
+* [Nicholas Coles](mailto:ncoles@stanford.edu)
 
-### [Manuel Bohn](mailto:manuel0bohn@gmail.com)
+* [Heidi Baumgartner](mailto:heidib@stanford.edu)
 
-### [Grace Zhou](mailto:grace.zhou@umanitoba.ca)
+* [Manuel Bohn](mailto:manuel0bohn@gmail.com)
+
+* [Grace Zhou](mailto:grace.zhou@umanitoba.ca)
+
+
