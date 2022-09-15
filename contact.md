@@ -12,3 +12,7 @@ Alternatively, you can reach out to any of the conference organizers:
 * [**Nicholas Coles**](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, USA - Psychological Science Accelerator* [[email]](mailto:ncoles@stanford.edu)
 * **Grace Zhou**, *University of Manitoba, Canada - ManyBabies* [[email]](mailto:grace.zhou@umanitoba.ca)
 * **Erin Sievers**, *Ashland University, USA - Psychological Science Accelerator* [[email]](mailto:esievers@ashland.edu)
+
+***
+
+To report a violation of the BTSCON Code of Conduct and/or Meeting Rules, please email us or fill out the form embedded at the bottom of the [Code of Conduct]({{site.baseurl}}/codeofconduct/).
