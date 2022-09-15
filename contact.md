@@ -1,7 +1,6 @@
 ---
 layout: page
 title: contact
-cover-img: /assets/img/network.png
 ---
 
 
