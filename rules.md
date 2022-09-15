@@ -28,9 +28,10 @@ These rules use language and concepts adapted from:
 
 ***
 
-### Contact us
-If you have any questions about the 2022 BTSCON, [contact us](mailto:bigteamscienceconference@gmail.com).
+## Reporting Form
+To report a violation of the Code of Conduct and/or Meeting Rules, please fill out this form or [contact us]({{site.baseurl}}/contact/) directly.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSesj1e29Nb9X5wZ-KFWL0yb83IaP8o0T87gl9k0zCVGVL05lw/viewform?embedded=true" width="640" height="1343" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 <br>
 <br>
-
