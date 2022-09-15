@@ -5,9 +5,6 @@ cover-img: /assets/img/network.png
 ---
 
 
-
-## Email
-
 Send questions about the 2022 BTSCON to our [**Conference Email**](mailto:bigteamscienceconference@gmail.com). <br>
 Alternatively, you can reach out to any of the conference organizers:
 
