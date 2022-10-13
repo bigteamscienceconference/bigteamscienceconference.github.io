@@ -21,7 +21,7 @@ navbar-links:
     - Accessibility: "access"
     - Code of Conduct: "codeofconduct"
     - Meeting Rules: "rules"
-  Store: "https://www.bonfire.com/store/big-team-science-conference/"
+    - Store: "store"
   Contact: "contact"
   
 #  About Me: "aboutme"

@@ -28,7 +28,7 @@ Registration for the 2022 BTSCON is now open! To ensure inclusivity, **registrat
 
 ***
 
-## Store
+## Conference Store
 
 Stay cool (shirts), warm (sweatshirts), hydrated (mugs & water bottles), and prepared (tote bags), all while showing off your Big Team Science pride! Our share of the proceeds will go toward future BTS efforts. 
 
