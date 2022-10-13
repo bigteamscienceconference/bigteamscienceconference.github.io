@@ -7,7 +7,9 @@ layout: page
 
 The goal of this two-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science.
 
-### The full conference program can be viewed [here](https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing). 
+## Program
+
+The full conference program can be viewed [**HERE**](https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing). 
 <br>
 
 ***
@@ -19,6 +21,14 @@ Registration for the 2022 BTSCON is now open! To ensure inclusivity, **registrat
 ### [REGISTER HERE](https://opencollective.com/psysciacc/events/test-event-23392c94/contribute/registration-2022-big-team-science-conference-40278)
 
 <br>
+
+***
+
+## Store
+
+Get your official conference merch at the [**BTSCON Store**](https://www.bonfire.com/store/big-team-science-conference/). We've got shirts (short and long sleeve), sweatshirts (hooded and crewneck), mugs, and totes. Our share of the proceeds will go toward future BTS efforts. 
+
+
 
 ***
 <!--## [Speakers]({{site.baseurl}}/people/) 
