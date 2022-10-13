@@ -9,7 +9,9 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
 
 ## Program
 
-### [VIEW THE CONFERENCE PROGRAM](https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing). 
+Our program is full of amazing keynotes, hackathons, panels, and talks from BTS experts and contributors from around the world. 
+
+### [VIEW THE CONFERENCE PROGRAM](https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing) 
 
 <br>
 
