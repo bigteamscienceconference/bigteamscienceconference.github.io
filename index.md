@@ -34,7 +34,7 @@ Stay cool (shirts), warm (sweatshirts), hydrated (mugs & water bottles), and pre
 
 ### [VISIT THE CONFERENCE MERCH STORE](https://www.bonfire.com/store/big-team-science-conference/)
 
-We currently only have a USA-based store set up (EU-based vendor TBD). Visit the [store page]({{site.baseurl}}/store/) to learn more about accessing our conference graphics to create your own merch and avoid international shipping fees. 
+> Note: We currently only have a USA-based store set up (EU-based vendor TBD). Visit the [store page]({{site.baseurl}}/store/) to learn more about accessing our conference graphics to create your own merch and avoid international shipping fees. 
 
 <br>
 
