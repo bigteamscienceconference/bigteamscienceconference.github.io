@@ -9,7 +9,8 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
 
 ## Program
 
-The full conference program can be viewed [**HERE**](https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing). 
+### [VIEW THE CONFERENCE PROGRAM](https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing). 
+
 <br>
 
 ***
@@ -26,9 +27,13 @@ Registration for the 2022 BTSCON is now open! To ensure inclusivity, **registrat
 
 ## Store
 
-Get your official conference merch at the [**BTSCON Store**](https://www.bonfire.com/store/big-team-science-conference/). We've got shirts (short and long sleeve), sweatshirts (hooded and crewneck), mugs, and totes. Our share of the proceeds will go toward future BTS efforts. 
+### [VISIT THE CONFERENCE MERCH STORE](https://www.bonfire.com/store/big-team-science-conference/)
 
+Stay cool (shirts), warm (sweatshirts), hydrated (mugs & water bottles), and prepared (tote bags), all while showing off your Big Team Science pride! Our share of the proceeds will go toward future BTS efforts. 
 
+We currently only have a USA-based store set up (EU-based vendor TBD). Visit the [store page]({{site.baseurl}}/store/) to learn more about accessing our conference graphics to create your own merch and avoid international shipping fees. 
+
+<br>
 
 ***
 <!--## [Speakers]({{site.baseurl}}/people/) 
