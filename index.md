@@ -7,6 +7,7 @@ layout: page
 
 The goal of this two-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science.
 
+***
 ## Program
 
 Our program is full of amazing keynotes, hackathons, panels, and talks from BTS experts and contributors from around the world. 
@@ -29,9 +30,9 @@ Registration for the 2022 BTSCON is now open! To ensure inclusivity, **registrat
 
 ## Store
 
-### [VISIT THE CONFERENCE MERCH STORE](https://www.bonfire.com/store/big-team-science-conference/)
-
 Stay cool (shirts), warm (sweatshirts), hydrated (mugs & water bottles), and prepared (tote bags), all while showing off your Big Team Science pride! Our share of the proceeds will go toward future BTS efforts. 
+
+### [VISIT THE CONFERENCE MERCH STORE](https://www.bonfire.com/store/big-team-science-conference/)
 
 We currently only have a USA-based store set up (EU-based vendor TBD). Visit the [store page]({{site.baseurl}}/store/) to learn more about accessing our conference graphics to create your own merch and avoid international shipping fees. 
 

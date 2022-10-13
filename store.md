@@ -23,13 +23,24 @@ We know that our use of a USA-based vendor (Bonfire.com) means that non-US-based
       <div class="col-sm-5">
         <img src="/assets/img/BTSCON_merch_darkbg.png" alt="BTSCON graphic for dark backgrounds">
       </div>
+      <div class="col-sm-2">
+        <p>   </p>
+      </div>
       <div class="col-sm-5">
         <img src="/assets/img/BTSCON_merch_lightbg.png" alt="BTSCON graphic for dark backgrounds">
       </div>
     </div>
     <div class="row">
+      <div class="col-sm-12">
+        <p>   </p>
+      </div>
+    </div>
+    <div class="row">
       <div class="col-sm-5">
         <img src="/assets/img/BTSCON_merch_logosColor.png" alt="BTSCON graphic for dark backgrounds">
+      </div>
+      <div class="col-sm-2">
+        <p>   </p>
       </div>
       <div class="col-sm-5">
         <img src="/assets/img/BTSCON_merch_logosBlueGray.png" alt="BTSCON graphic for dark backgrounds">
