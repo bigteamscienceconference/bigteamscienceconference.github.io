@@ -5,7 +5,7 @@ title: store
 ---
 
 
-## Visit the BTSCON [merch store](https://www.bonfire.com/store/big-team-science-conference/)!
+## Visit the [Official BTSCON Store](https://www.bonfire.com/store/big-team-science-conference/)!
 
 Stay cool (shirts), warm (sweatshirts), hydrated (mugs & water bottles), and prepared (tote bags), all while showing off your Big Team Science pride! Our share of the proceeds will go toward future BTS efforts. 
 
