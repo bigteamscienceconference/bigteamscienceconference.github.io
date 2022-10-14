@@ -21,7 +21,6 @@ title: store
   </div>
 </div>
 
-<br>
 
 ## Make your own merch! 
 
