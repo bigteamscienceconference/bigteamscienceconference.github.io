@@ -7,8 +7,13 @@ title: store
 
 ## Visit the BTSCON merch store!
 
-<a href="https://www.bonfire.com/store/big-team-science-conference/"><img src="/assets/img/BTSCON_store_screenshot.png" alt="screenshot of BTSCON merch store at Bonfire.com" height="500" align="center"></a>
-
+<div class="container">
+  <div class="row">
+    <div class="col-sm-6"  align="center">
+      <a href="https://www.bonfire.com/store/big-team-science-conference/"><img src="/assets/img/BTSCON_store_screenshot.png" alt="screenshot of BTSCON merch store at Bonfire.com" height="500"></a>
+    </div>
+  </div>
+</div>
 
 <br>
 
