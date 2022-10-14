@@ -5,7 +5,7 @@ title: store
 ---
 
 
-## Visit the BTSCON merch store!
+## Visit the BTSCON [merch store](https://www.bonfire.com/store/big-team-science-conference/)!
 
 <div class="container">
   <div class="row">
