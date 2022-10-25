@@ -9,6 +9,9 @@ title: program
 
 <section>
 <h2 align="center">View the full Conference Program <a href="https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing" target="blank">HERE</a></h2>
+
+<h4 align="center"><i>Note:</i> The live conference schedule with links to sessions has been provided to conference registrants via email. To access the live schedule, <a href="https://opencollective.com/psysciacc/events/test-event-23392c94/contribute/registration-2022-big-team-science-conference-40278">REGISTER NOW</a><h4>
+
 </section>
 
 <br>
