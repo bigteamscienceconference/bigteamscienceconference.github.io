@@ -12,7 +12,7 @@ The goal of this two-day virtual conference is to bring together a multidiscipli
 
 Our program is full of amazing keynotes, hackathons, panels, and talks from BTS experts and contributors from around the world. 
 
-### [VIEW THE CONFERENCE PROGRAM](https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing) 
+### [VIEW THE 2022 BTSCON PROGRAM](https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing) 
 
 <br>
 
@@ -20,9 +20,13 @@ Our program is full of amazing keynotes, hackathons, panels, and talks from BTS 
 
 ## Registration
 
-Registration for the 2022 BTSCON is now open! To ensure inclusivity, **registration fees are optional** for attendees. You can attend for free or pay what you want, but the suggested registration fee is $20. All proceeds will be used to develop and improve upon future big team science projects. 
+Registration for the 2022 BTSCON is closed! Stay tuned for information about the 2023 BTSCON.
+
+<!--
+To ensure inclusivity, **registration fees are optional** for attendees. You can attend for free or pay what you want, but the suggested registration fee is $20. All proceeds will be used to develop and improve upon future big team science projects. 
 
 ### [REGISTER HERE](https://opencollective.com/psysciacc/events/test-event-23392c94/contribute/registration-2022-big-team-science-conference-40278)
+-->
 
 <br>
 
@@ -34,7 +38,7 @@ Stay cool (shirts), warm (sweatshirts), hydrated (mugs & water bottles), and pre
 
 ### [VISIT THE CONFERENCE MERCH STORE](https://www.bonfire.com/store/big-team-science-conference/)
 
-> Note: We currently only have a USA-based store set up (EU-based vendor TBD). Visit the [store page]({{site.baseurl}}/store/) to learn more about accessing our conference graphics to create your own merch and avoid international shipping fees. 
+> Note: Visit the [store page]({{site.baseurl}}/store/) to learn more about accessing our conference graphics to create your own merch and avoid international shipping fees. 
 
 <br>
 

@@ -4,7 +4,7 @@ title: accessibility
 <!--cover-img: /assets/img/events_blank.png-->
 ---
 
-**We are striving to make the 2022 Big Team Science Conference as accessible as possible. Please [contact us](mailto:bigteamscienceconference@gmail.com) as soon as possible if you have any questions about accessibility or would like to notify us of accessibility needs.** 
+**We are striving to make the Big Team Science Conference as accessible as possible. Please [contact us](mailto:bigteamscienceconference@gmail.com) as soon as possible if you have any questions about accessibility or would like to notify us of accessibility needs.** 
 
 ## Conference platform
 

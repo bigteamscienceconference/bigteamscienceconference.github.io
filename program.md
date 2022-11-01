@@ -8,11 +8,13 @@ title: program
 <br>
 
 <section>
-<h2 align="center">View the full Conference Program <a href="https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing" target="blank">HERE</a></h2>
+<h2 align="center">View the full 2022 BTS Conference Program <a href="https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing" target="blank">HERE</a></h2>
 
 <br>
 
+<!--
 <h4 align="center"><i>Note:</i> The live conference schedule with links to sessions has been provided to conference registrants via email. To access the live schedule, <a href="https://opencollective.com/psysciacc/events/test-event-23392c94/contribute/registration-2022-big-team-science-conference-40278">REGISTER NOW</a></h4>
+-->
 
 </section>
 
@@ -75,10 +77,12 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
 <br>
 
 ***
+<!--
 ## BTSCON Calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?src=bigteamscienceconference%40gmail.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 <br>
+-->
 
 ***
 
