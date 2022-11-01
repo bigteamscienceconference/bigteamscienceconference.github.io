@@ -5,12 +5,12 @@ layout: page
 
 <img src="/assets/img/BTSCon2022_logo.png" alt="" />
 
-The goal of this two-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science.
+The first annual BTSCON was held virtually on October 27-28, 2022. The goal of this two-day virtual conference wass to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science.
 
 ***
 ## Program
 
-Our program is full of amazing keynotes, hackathons, panels, and talks from BTS experts and contributors from around the world. 
+The 2022 BTSCON program consisted of amazing keynotes, hackathons, panels, and talks from BTS experts and contributors from around the world. 
 
 ### [VIEW THE 2022 BTSCON PROGRAM](https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing) 
 
@@ -20,7 +20,9 @@ Our program is full of amazing keynotes, hackathons, panels, and talks from BTS 
 
 ## Registration
 
-Registration for the 2022 BTSCON is closed! Stay tuned for information about the 2023 BTSCON.
+Registration for the 2022 BTSCON is closed. 
+
+Stay tuned for information about the 2023 BTSCON.
 
 <!--
 To ensure inclusivity, **registration fees are optional** for attendees. You can attend for free or pay what you want, but the suggested registration fee is $20. All proceeds will be used to develop and improve upon future big team science projects. 
@@ -45,7 +47,7 @@ Stay cool (shirts), warm (sweatshirts), hydrated (mugs & water bottles), and pre
 ***
 <!--## [Speakers]({{site.baseurl}}/people/) 
 -->
-## Keynote Speakers
+## 2022 Keynote Speakers
 
 <section>
   <div class="container">
@@ -84,7 +86,7 @@ Stay cool (shirts), warm (sweatshirts), hydrated (mugs & water bottles), and pre
 <br>
 
 ***
-## Featured Sessions
+## 2022 Featured Sessions
 
 <section>
   <div class="container">
