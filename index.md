@@ -5,7 +5,7 @@ layout: page
 
 <img src="/assets/img/BTSCon2022_logo.png" alt="" />
 
-The first annual BTSCON was held virtually on October 27-28, 2022. The goal of this two-day virtual conference wass to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science.
+The first annual BTSCON was held virtually on October 27-28, 2022. The goal of this two-day virtual conference was to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science.
 
 ***
 ## Program
