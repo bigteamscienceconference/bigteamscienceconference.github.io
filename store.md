@@ -4,7 +4,7 @@ title: store
 <!--cover-img: /assets/img/events_blank.png-->
 ---
 
-
+<!--
 ## Visit the [Official BTSCON Store](https://www.bonfire.com/store/big-team-science-conference/)!
 
 Stay cool (shirts), warm (sweatshirts), hydrated (mugs & water bottles), and prepared (tote bags), all while showing off your Big Team Science pride! Our share of the proceeds will go toward future BTS efforts. 
@@ -22,11 +22,11 @@ Stay cool (shirts), warm (sweatshirts), hydrated (mugs & water bottles), and pre
     </div>
   </div>
 </div>
+-->
 
+## Make your own 2022 BTSCON merch! 
 
-## Make your own merch! 
-
-We know that our use of a USA-based vendor (Bonfire.com) means that non-US-based BTS fans are stuck with higher shipping fees and longer wait times. We are looking into setting up an EU-based store, but in the meantime we welcome conference attendees to create their own merch using our official graphics. We'd love to see pictures of any merch you create, so make sure to [share them with us](mailto:bigteamscienceconference@gmail.com)!
+The official conference merch store is now closed, but we welcome conference attendees to create their own merch using our official graphics. We'd love to see pictures of any merch you create, so make sure to [share them with us](mailto:bigteamscienceconference@gmail.com)!
 
 
 <section>

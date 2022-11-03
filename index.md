@@ -32,6 +32,7 @@ To ensure inclusivity, **registration fees are optional** for attendees. You can
 
 <br>
 
+<!--
 ***
 
 ## Conference Store
@@ -43,6 +44,7 @@ Stay cool (shirts), warm (sweatshirts), hydrated (mugs & water bottles), and pre
 > Note: Visit the [store page]({{site.baseurl}}/store/) to learn more about accessing our conference graphics to create your own merch and avoid international shipping fees. 
 
 <br>
+-->
 
 ***
 <!--## [Speakers]({{site.baseurl}}/people/) 
