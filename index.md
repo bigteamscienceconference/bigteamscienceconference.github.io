@@ -3,22 +3,28 @@ layout: page
 ---
 
 
-<img src="/assets/img/BTSCon2022_logo.png" alt="" />
+<img src="/assets/img/BTSCon2023_logo.png" alt="" />
 
+
+We are in the early planning stages for the 2023 BTSCON. If you would like to suggest keynote presenters (or anything else!), please [email us](mailto:bigteamscienceconference@gmail.com). 
+
+
+
+## 2022 BTSCON 
 The first annual BTSCON was held virtually on October 27-28, 2022. The goal of this two-day virtual conference was to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science.
 
 ***
-## Program
+### Program
 
 The 2022 BTSCON program consisted of amazing keynotes, hackathons, panels, and talks from BTS experts and contributors from around the world. 
 
-### [VIEW THE 2022 BTSCON PROGRAM](https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing) 
+#### [VIEW THE 2022 BTSCON PROGRAM](https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing) 
 
 <br>
 
 ***
 
-## Registration
+### Registration
 
 Registration for the 2022 BTSCON is closed. 
 
@@ -49,7 +55,7 @@ Stay cool (shirts), warm (sweatshirts), hydrated (mugs & water bottles), and pre
 ***
 <!--## [Speakers]({{site.baseurl}}/people/) 
 -->
-## 2022 Keynote Speakers
+### 2022 Keynote Speakers
 
 <section>
   <div class="container">
@@ -88,7 +94,7 @@ Stay cool (shirts), warm (sweatshirts), hydrated (mugs & water bottles), and pre
 <br>
 
 ***
-## 2022 Featured Sessions
+### 2022 Featured Sessions
 
 <section>
   <div class="container">
@@ -220,7 +226,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
 -->
 
 ***
-## Sponsor Organizations
+### Sponsor Organizations
 
 <section>
 	<br>
