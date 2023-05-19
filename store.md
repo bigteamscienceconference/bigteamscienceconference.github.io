@@ -4,6 +4,9 @@ title: store
 <!--cover-img: /assets/img/events_blank.png-->
 ---
 
+## 2023 BTSCON merch coming soon!
+<br>
+
 <!--
 ## Visit the [Official BTSCON Store](https://www.bonfire.com/store/big-team-science-conference/)!
 
