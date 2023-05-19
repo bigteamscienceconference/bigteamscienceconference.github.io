@@ -10,7 +10,7 @@ Alternatively, you can reach out to any of the conference organizers:
 * [**Heidi Baumgartner**](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, US - ManyBabies* [[email]](mailto:heidib@stanford.edu)
 * [**Drew Altschul**](https://www.ed.ac.uk/profile/drewmaltschul), *University of Edinburgh, UK - ManyPrimates* [[email]](mailto:Drew.Altschul@ed.ac.uk)
 * [**Nicholas Coles**](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, US - Psychological Science Accelerator* [[email]](mailto:ncoles@stanford.edu)
-* **Julia Espinosa**, *Harvard University, US - ManyDogs* [[email]](mailto:jespinosa@g.harvard.edu)
+* [**Julia Espinosa**](https://sites.google.com/view/jespinosa?pli=1), *Harvard University, US - ManyDogs* [[email]](mailto:jespinosa@g.harvard.edu)
 
 
 ***
