@@ -171,10 +171,9 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
         <b>~4 leaders</b><br>
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
-        <h3>Symposia</h3>
-        <i>55 minutes</i><br>
-        <img src="/assets/img/symposium.png" alt="symposium" width="100" height="100"><br>
-        <b>3 or 4 talks</b> <br>
+        <h3>Unconferences</h3>
+        <i>55 minutes</i><br> 
+        <img src="/assets/img/unconference.png" alt="unconferences" width="100" height="100"><br>
       </div>
     </div>
     <div class="row justify-content-around">
@@ -189,9 +188,10 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
         <img src="/assets/img/lightning.png" alt="lightning talk" width="100" height="100"><br>
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
-        <h3>Unconferences</h3>
-        <i>55 minutes</i><br> 
-        <img src="/assets/img/unconference.png" alt="unconferences" width="100" height="100"><br>
+        <h3>Symposia</h3>
+        <i>55 minutes</i><br>
+        <img src="/assets/img/symposium.png" alt="symposium" width="100" height="100"><br>
+        <b>3 or 4 talks</b> <br>
       </div>
     </div>
     <div class="col-sm-12">
