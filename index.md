@@ -168,7 +168,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
         <h3>Hackathons</h3>
         <i>90 minutes</i><br>
         <img src="/assets/img/hackathon.png" alt="hackathon" width="100" height="100"><br>
-        <i>~4 leaders</i><br>
+        <i>~2-4 leaders</i><br>
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
         <h3>Unconferences</h3>
