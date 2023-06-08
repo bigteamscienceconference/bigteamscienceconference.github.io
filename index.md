@@ -200,6 +200,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
   </div>
 </section> 
 
+<br>
 
 <!--
 <h3 align="center">Deadline to complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Submission Form</a> extended to August 5!</h3>
