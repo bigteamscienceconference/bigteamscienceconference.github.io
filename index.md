@@ -13,12 +13,7 @@ We are in the early planning stages for the 2023 BTSCON. If you would like to su
 ## 2022 BTSCON 
 The first annual BTSCON was held virtually on October 27-28, 2022. The goal of this two-day virtual conference was to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science.
 
-***
-### Program
-
-The 2022 BTSCON program consisted of amazing keynotes, hackathons, panels, and talks from BTS experts and contributors from around the world. 
-
-#### [VIEW THE 2022 BTSCON PROGRAM](https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing) 
+#### [VIEW MORE INFO ABOUT THE 2022 BTSCON HERE]({{site.baseurl}}/2022btscon/) 
 
 <br>
 
@@ -26,9 +21,7 @@ The 2022 BTSCON program consisted of amazing keynotes, hackathons, panels, and t
 
 ### Registration
 
-Registration for the 2022 BTSCON is closed. 
-
-Stay tuned for information about the 2023 BTSCON.
+Stay tuned for information about 2023 BTSCON registration.
 
 <!--
 To ensure inclusivity, **registration fees are optional** for attendees. You can attend for free or pay what you want, but the suggested registration fee is $20. All proceeds will be used to develop and improve upon future big team science projects. 
@@ -50,11 +43,10 @@ Stay cool (shirts), warm (sweatshirts), hydrated (mugs & water bottles), and pre
 > Note: Visit the [store page]({{site.baseurl}}/store/) to learn more about accessing our conference graphics to create your own merch and avoid international shipping fees. 
 
 <br>
--->
+
 
 ***
-<!--## [Speakers]({{site.baseurl}}/people/) 
--->
+
 ### 2022 Keynote Speakers
 
 <section>
@@ -146,16 +138,17 @@ Stay cool (shirts), warm (sweatshirts), hydrated (mugs & water bottles), and pre
   </div>
 </section>
 <br>
+-->
 
 <!--
 ***
 ## [Program]({{site.baseurl}}/schedule/) 
 -->
 
-<!--***
+***
 ## Sessions
 
-The conference will feature symposia, panel sessions, hackathons, talks, and social hours. Sessions will feature presentations from groups and individuals who are interested in sharing any work related to Big Team Science. This includes, but is not limited to: completed and/or new large-scale collaborations, crowdsourced efforts, and citizen science projects; science of team science [meta-science] work; re-analysis of data from large-scale collaborations; related infrastructure and policy projects; and more!
+The conference will feature symposia, panel sessions, hackathons, talks, and unconferences. Sessions will feature presentations from groups and individuals who are interested in sharing any work related to Big Team Science. This includes, but is not limited to: completed and/or new large-scale collaborations, crowdsourced efforts, and citizen science projects; science of team science [meta-science] work; re-analysis of data from large-scale collaborations; related infrastructure and policy projects; and more!
 
 <section>
   <div class="container">
@@ -199,13 +192,20 @@ The conference will feature symposia, panel sessions, hackathons, talks, and soc
       </div>
       <div class="col-sm-1" align="center">
       </div>
+      <div class="col-sm-4 col-xs-6" align="center">
+        <h3>Unconferences</h3>
+        <i>60 minutes</i><br> 
+        <img src="/assets/img/unconference.png" alt="unconferences" width="100" height="100"><br>
+      </div>
+      <div class="col-sm-1" align="center">
+      </div>
     </div>
     <div class="col-sm-12">
         <p>   </p>
     </div>
   </div>
 </section> 
--->
+
 
 <!--
 <h3 align="center">Deadline to complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Submission Form</a> extended to August 5!</h3>
