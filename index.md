@@ -177,6 +177,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
         <b>~4 leaders</b><br>
       </div>
     </div>
+    <br>
     <div class="row justify-content-around">
       <div class="col-sm-4 col-xs-6" align="center">
         <h3>Talks</h3>
