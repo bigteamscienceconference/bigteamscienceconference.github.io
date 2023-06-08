@@ -162,13 +162,13 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
         <h3>Panels</h3>
         <i>55 minutes</i><br>
         <img src="/assets/img/panel.png" alt="panel" width="100" height="100"><br>
-        <b>3 or 4 panelists</b><br>
+        <b><i>3 or 4 panelists</i></b><br>
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
         <h3>Hackathons</h3>
         <i>90 minutes</i><br>
         <img src="/assets/img/hackathon.png" alt="hackathon" width="100" height="100"><br>
-        <b>~4 leaders</b><br>
+        <b><i>~4 leaders</i></b><br>
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
         <h3>Unconferences</h3>
@@ -181,7 +181,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
         <h3>Symposia</h3>
         <i>55 minutes</i><br>
         <img src="/assets/img/symposium.png" alt="symposium" width="100" height="100"><br>
-        <b>3 or 4 talks</b> <br>
+        <b><i>3 or 4 talks</i></b> <br>
       </div>
       <div class="col-sm-4 col-xs-6" align="center">
         <h3>Talks</h3>
