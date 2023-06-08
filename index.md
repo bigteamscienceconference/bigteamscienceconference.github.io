@@ -178,6 +178,12 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
     </div>
     <div class="row justify-content-around">
       <div class="col-sm-4 col-xs-6" align="center">
+        <h3>Symposia</h3>
+        <i>55 minutes</i><br>
+        <img src="/assets/img/symposium.png" alt="symposium" width="100" height="100"><br>
+        <b>3 or 4 talks</b> <br>
+      </div>
+      <div class="col-sm-4 col-xs-6" align="center">
         <h3>Talks</h3>
         <i>25 minutes</i><br> 
         <img src="/assets/img/talk.png" alt="talk" width="100" height="100"><br>
@@ -186,12 +192,6 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
         <h3>Lightning Talks</h3>
         <i>5 minutes</i><br> 
         <img src="/assets/img/lightning.png" alt="lightning talk" width="100" height="100"><br>
-      </div>
-      <div class="col-sm-4 col-xs-6" align="center">
-        <h3>Symposia</h3>
-        <i>55 minutes</i><br>
-        <img src="/assets/img/symposium.png" alt="symposium" width="100" height="100"><br>
-        <b>3 or 4 talks</b> <br>
       </div>
     </div>
     <div class="col-sm-12">
