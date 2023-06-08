@@ -19,7 +19,7 @@ The first annual BTSCON was held virtually on October 27-28, 2022. The goal of t
 
 ***
 
-### Registration
+## Registration
 
 Stay tuned for information about 2023 BTSCON registration.
 

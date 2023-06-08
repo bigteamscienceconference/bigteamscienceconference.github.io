@@ -110,5 +110,8 @@ The 2022 BTSCON program consisted of amazing keynotes, hackathons, panels, and t
 <br>
 
 
-
+### 2022 BTSCON Organizers
+* [**Heidi Baumgartner**](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, US - ManyBabies* [[email]](mailto:heidib@stanford.edu)
+* [**Nicholas Coles**](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, US - Psychological Science Accelerator* [[email]](mailto:ncoles@stanford.edu)
+* [**Manuel Bohn**](https://manuelbohn.github.io/), *Max Planck Institute for Evolutionary Anthropology - ManyPrimates* [[email]](mailto:manuel_bohn@eva.mpg.de)
 
