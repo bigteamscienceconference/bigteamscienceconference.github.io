@@ -8,7 +8,7 @@ layout: page
 
 We are in the early planning stages for the 2023 BTSCON. If you would like to suggest keynote presenters (or anything else!), please [email us](mailto:bigteamscienceconference@gmail.com). 
 
-
+<br>
 
 ## 2022 BTSCON 
 The first annual BTSCON was held virtually on October 27-28, 2022. The goal of this two-day virtual conference was to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science.
