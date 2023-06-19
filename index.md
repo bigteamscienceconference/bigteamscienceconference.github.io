@@ -6,42 +6,21 @@ layout: page
 <img src="/assets/img/BTSCon2023_logo.png" alt="" />
 
 
-We are in the early planning stages for the 2023 BTSCON. If you would like to suggest keynote presenters (or anything else!), please [email us](mailto:bigteamscienceconference@gmail.com). 
-
-<br>
-
-## 2022 BTSCON 
-The first annual BTSCON was held virtually on October 27-28, 2022. The goal of this two-day virtual conference was to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science.
-
-#### [VIEW MORE INFO ABOUT THE 2022 BTSCON HERE]({{site.baseurl}}/2022btscon/) 
-
-<br>
 
 ***
 
 ## Registration
 
-[Registration]({{site.baseurl}}/registration/) for the 2023 BTSCON is now open! 
+Registration for the 2023 BTSCON is now open! 
 
-<br>
-
-<!--
-***
-
-## Conference Store
-
-Stay cool (shirts), warm (sweatshirts), hydrated (mugs & water bottles), and prepared (tote bags), all while showing off your Big Team Science pride! Our share of the proceeds will go toward future BTS efforts. 
-
-### [VISIT THE CONFERENCE MERCH STORE](https://www.bonfire.com/store/big-team-science-conference/)
-
-> Note: Visit the [store page]({{site.baseurl}}/store/) to learn more about accessing our conference graphics to create your own merch and avoid international shipping fees. 
+#### [VIEW MORE INFO AND REGISTER HERE]({{site.baseurl}}/registration/) 
 
 <br>
 
 
 ***
 
-### 2022 Keynote Speakers
+### 2023 Keynote Speakers
 
 <section>
   <div class="container">
@@ -52,12 +31,12 @@ Stay cool (shirts), warm (sweatshirts), hydrated (mugs & water bottles), and pre
     </div>
     <div class="row">
       <div class="col-sm-4 col-xs-6" align="center">
-        <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#" target="_blank"><img src="/assets/img/FidlerHeadshot.png" alt="Fiona Fidler, Ph.D." width="200" height="200"></a>
+        <a href="https://research-information.bris.ac.uk/en/persons/marcus-r-munafo" target="_blank"><img src="/assets/img/Munafo_headshot.jpg" alt="Marcus Munafo, Ph.D." width="200" height="200"></a>
       </div>
       <div class="col-sm-8">
-        <h3><a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#" target="_blank">Fiona Fidler, Ph.D.</a></h3>
-        <i>Professor, History and Philosophy Science, University of Melbourne, Australia; Australian Research Council Future Fellow</i>
-        <h4>Collaborative Assessments for Trustworthy Science: The repliCATS project</h4>
+        <h3><a href="https://research-information.bris.ac.uk/en/persons/marcus-r-munafo" target="_blank">Marcus Munafo, Ph.D.</a></h3>
+        <i>Professor of Biological Psychology and MRC Investigator, University of Bristol, UK; UK Reproducibility Project</i>
+        <h4>Collaborative approaches to improving research culture and practice</h4>
       </div>
     </div>
     <div class="row">
@@ -67,20 +46,37 @@ Stay cool (shirts), warm (sweatshirts), hydrated (mugs & water bottles), and pre
     </div>
     <div class="row">
       <div class="col-sm-4 col-xs-6" align="center">
-        <a href="https://csl.ist.ucf.edu/People" target="_blank"><img src="/assets/img/FioreHeadshot.png" alt="Stephen M. Fiore, Ph.D." width="200" height="200"></a>
+        <a href="https://as.nyu.edu/faculty/madalina-vlasceanu.html" target="_blank"><img src="/assets/img/Vlasceanu_headshot.jpg" alt="Madalina Vlasceanu, Ph.D." width="200" height="200"></a>
       </div>
       <div class="col-sm-8">
-        <h3><a href="https://csl.ist.ucf.edu/People" target="_blank">Stephen M. Fiore, Ph.D.</a></h3>
-        <i>Professor, Cognitive Sciences and Department of Philosophy, University of Central Florida, USA; President, International Network for the Science of Team Science</i>
-        <h4>Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations</h4>
+        <h3><a href="https://as.nyu.edu/faculty/madalina-vlasceanu.html" target="_blank">Madalina Vlasceanu, Ph.D.</a></h3>
+        <i>Assistant Professor, Psychology, New York University, US; International Collaboration to Understand Climate Action</i>
+        <h4>Global collaborations improve the impact of behavioral science: Examples from a manylabs megastudy to increase climate action</h4>
+      </div>
+    </div>
+        <div class="row">
+      <div class="col-sm-12">
+        <p>    </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-4 col-xs-6" align="center">
+        <a href="" target="_blank"><img src="/assets/img/Mchunu_headshot.jpg" alt="Nokuthula Mchunu, Ph.D." width="200" height="200"></a>
+      </div>
+      <div class="col-sm-8">
+        <h3><a href="" target="_blank">Nokuthula Mchunu, Ph.D.</a></h3>
+        <i>Deputy Director, The National Research Foundation of South Africa; Africa Open Science Platform</i>
+        <h4>Title TBA</h4>
       </div>
     </div>
   </div>
 </section>
 <br>
 
+
+<!--
 ***
-### 2022 Featured Sessions
+### 2023 Featured Sessions
 
 <section>
   <div class="container">
@@ -133,6 +129,7 @@ Stay cool (shirts), warm (sweatshirts), hydrated (mugs & water bottles), and pre
 </section>
 <br>
 -->
+
 
 <!--
 ***
