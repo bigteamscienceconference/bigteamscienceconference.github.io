@@ -195,11 +195,12 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
       <div class="col-sm-9">
         <h4><i>Talk</i></h4>
         <h3>The Emotion Physiology and Experience Collaboration</h3>
-        <h4>Presenter: <a href="https://ai.pwr.edu.pl/author/bartosz-perz/" target="_blank">Bartek Perz</a>
+        <h4>Presenter: <a href="https://ai.pwr.edu.pl/author/bartosz-perz/" target="_blank">Bartek Perz</a></h4>
       </div>
     </div>
   </div>
 </section>
+
 <br>
 
 
@@ -208,8 +209,6 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
 ***
 ## [Program]({{site.baseurl}}/schedule/) 
 -->
-
-
 
 
 <!--
@@ -225,6 +224,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
 
 > View the [BTScon calendar](https://calendar.google.com/calendar/embed?src=bigteamscienceconference%40gmail.com&ctz=America%2FNew_York)
 -->
+
 
 ***
 ### Sponsor Organizations
