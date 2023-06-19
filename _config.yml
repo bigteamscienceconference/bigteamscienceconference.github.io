@@ -20,9 +20,8 @@ navbar-links:
     - Program: "program"
     - Accessibility: "access"
     - Code of Conduct: "codeofconduct"
-    - Meeting Rules: "rules"
-    - 2022 Meeting: "2022btscon"
     - Merch: "merch"
+    - 2022 Meeting: "2022btscon"
   Contact: "contact"
   
 #  About Me: "aboutme"
