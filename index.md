@@ -46,6 +46,7 @@ Registration for the 2023 BTSCON is now open!
       </div>
     </div>
     <div class="row">
+      <br>
       <div class="col-sm-4 col-xs-6" align="center">
         <a href="https://as.nyu.edu/faculty/madalina-vlasceanu.html" target="_blank"><img src="/assets/img/Vlasceanu_headshot.jpg" alt="Madalina Vlasceanu, Ph.D." width="200" height="200"></a>
       </div>
@@ -62,6 +63,7 @@ Registration for the 2023 BTSCON is now open!
     </div>
     <div class="row">
       <div class="col-sm-4 col-xs-6" align="center">
+        <br>
         <a href="" target="_blank"><img src="/assets/img/Mchunu_headshot.jpg" alt="Nokuthula Mchunu, Ph.D." width="200" height="200"></a>
       </div>
       <div class="col-sm-8">
