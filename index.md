@@ -173,7 +173,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
       </div>
       <div class="col-sm-9">
         <h4><i>Hackathon</i></h4>
-        <h3>ManyManys 1: Reversal Learning</h3>
+        <h3><a href="http://manymanys.github.io/MM1/" target="_blank">ManyManys 1: Reversal Learning</a></h3>
         <h4>Chairs: <a href="https://www.researchgate.net/profile/Nicolas-Alessandroni" target="_blank">Nicolás Alessandroni</a> & <a href="https://www.pittstate.edu/education/psychology-and-counseling/faculty-and-staff/laurent-pr%C3%A9t%C3%B4t.html" target="_blank">Laurent Prétôt</a></h4>
       </div>
     </div>
@@ -187,7 +187,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
       </div>
       <div class="col-sm-9">
         <h4><i>Symposium</i></h4>
-        <h3>Open Innovation in Science (OIS): How open and collaborative practices in science influence scientific productivity and societal impact</h3>
+        <h3><a href="https://ois.lbg.ac.at/" target="_blank">Open Innovation in Science (OIS)</a>: How open and collaborative practices in science influence scientific productivity and societal impact</h3>
         <h4>Chair: <a href="https://ois.lbg.ac.at/team/susanne-beck/" target="_blank">Susanne Beck</a></h4>
       </div>
     </div>
@@ -201,7 +201,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
       </div>
       <div class="col-sm-9">
         <h4><i>Talk</i></h4>
-        <h3>The Emotion Physiology and Experience Collaboration</h3>
+        <h3><a href="https://epic-collab.github.io/" target="_blank">The Emotion Physiology and Experience Collaboration</a></h3>
         <h4>Presenter: <a href="https://ai.pwr.edu.pl/author/bartosz-perz/" target="_blank">Bartek Perz</a></h4>
       </div>
     </div>
