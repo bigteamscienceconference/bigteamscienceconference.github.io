@@ -31,6 +31,7 @@ Registration for the 2023 BTSCON is now open!
     </div>
     <div class="row">
       <div class="col-sm-4 col-xs-6" align="center">
+        <br>
         <a href="https://research-information.bris.ac.uk/en/persons/marcus-r-munafo" target="_blank"><img src="/assets/img/Munafo_headshot.jpg" alt="Marcus Munafo, Ph.D." width="200" height="200"></a>
       </div>
       <div class="col-sm-8">
