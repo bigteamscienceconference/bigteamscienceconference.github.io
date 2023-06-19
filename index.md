@@ -234,15 +234,19 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
 	<br>
 	<div class="container">
 		<div class="row justify-content-around">
-		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3" align="center">
+		  <div class="col-lg-2 col-md-3 col-sm-3 col-xs-3" align="center">
 		    <a href="https://manybabies.github.io" class="image" target="_blank"><img src="/assets/img/MB_logo.png" alt="ManyBabies" width="150" height="150"></a>
 			   <h4><a href="https://manybabies.github.io" target="_blank">ManyBabies</a></h4>
 		  </div>
-      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3" align="center">
+		  <div class="col-lg-2 col-md-3 col-sm-3 col-xs-3" align="center">
+		    <a href="https://manydogsproject.github.io/" class="image" target="_blank"><img src="/assets/img/manydogs_logo_circle.png" alt="ManyDogs" width="150" height="150"></a>
+			   <h4><a href="https://manydogsproject.github.io/" target="_blank">ManyDogs</a></h4>
+		  </div>
+      <div class="col-lg-2 col-md-3 col-sm-3 col-xs-3" align="center">
 			  <a href="https://manyprimates.github.io" class="image" target="_blank"><img src="/assets/img/mp_logo_notext2.png" alt="ManyPrimates" width="150" height="150"></a>
 			  <h4><a href="https://manyprimates.github.io" target="_blank">ManyPrimates</a></h4>
 		  </div>
-		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3" align="center">
+		  <div class="col-lg-2 col-md-3 col-sm-3 col-xs-3" align="center">
 			  <a href="https://psysciacc.org/" class="image" target="_blank"><img src="/assets/img/psa_logo.png" alt="PSA" width="150" height="150"></a>
 			  <h4><a href="https://psysciacc.org/" target="_blank">Psychological Science Accelerator</a></h4>
 		  </div>
