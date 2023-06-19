@@ -4,7 +4,7 @@ title: contact
 ---
 
 
-Send questions about the 2023 BTSCON to our [**Conference Email**](mailto:bigteamscienceconference@gmail.com) or to any of the organizers. <br>
+Send questions about BTSCON to our [**Conference Email**](mailto:bigteamscienceconference@gmail.com) or to any of the organizers. <br>
 
 ### Organizers
 * [**Heidi Baumgartner**](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, US - ManyBabies* [[email]](mailto:heidib@stanford.edu)
