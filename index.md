@@ -22,8 +22,8 @@ The second annual BTSCON will be held virtually on October 23-25, 2023 *(10:00 -
 
 Abstracts for all <a href="#sessions">session types</a> are now open! 
 
-*Panels, hackathons, and symposia:* maximum 500 words
-*Talks, lightning talks, and unconfereces:* maximum 250 words
+* *Panels, hackathons, and symposia:* maximum 500 words
+* *Talks, lightning talks, and unconferences:* maximum 250 words
 
 <h2 align="center"> >>> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdcO9h6tximi6N81asTWSGHpcJ9e_ayZkeLD_6U33I3AZcNAg/viewform?usp=sf_link" target="_blank">Submit your abstract here!</a> <<< </h2> 
 
