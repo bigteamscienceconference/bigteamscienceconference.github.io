@@ -58,7 +58,8 @@ Registration for the 2023 BTSCON is now open!
       </div>
       <div class="col-sm-8">
         <h3><a href="https://research-information.bris.ac.uk/en/persons/marcus-r-munafo" target="_blank">Marcus Munafo, Ph.D.</a></h3>
-        <i>Professor of Biological Psychology and MRC Investigator, University of Bristol, UK; UK Reproducibility Project</i>
+        <i>Professor of Biological Psychology and MRC Investigator, University of Bristol, UK<br>
+        UK Reproducibility Project</i>
         <h4>Collaborative approaches to improving research culture and practice</h4>
       </div>
     </div>
@@ -74,7 +75,8 @@ Registration for the 2023 BTSCON is now open!
       </div>
       <div class="col-sm-8">
         <h3><a href="https://as.nyu.edu/faculty/madalina-vlasceanu.html" target="_blank">Madalina Vlasceanu, Ph.D.</a></h3>
-        <i>Assistant Professor, Psychology, New York University, US; International Collaboration to Understand Climate Action</i>
+        <i>Assistant Professor, Psychology, New York University, US<br>
+        International Collaboration to Understand Climate Action</i>
         <h4>Global collaborations improve the impact of behavioral science: Examples from a manylabs megastudy to increase climate action</h4>
       </div>
     </div>
@@ -90,7 +92,8 @@ Registration for the 2023 BTSCON is now open!
       </div>
       <div class="col-sm-8">
         <h3><a href="" target="_blank">Nokuthula Mchunu, Ph.D.</a></h3>
-        <i>Deputy Director, The National Research Foundation of South Africa; Africa Open Science Platform</i>
+        <i>Deputy Director, The National Research Foundation of South Africa<br>
+        Africa Open Science Platform</i>
         <h4>Title TBA</h4>
       </div>
     </div>
@@ -101,7 +104,7 @@ Registration for the 2023 BTSCON is now open!
 
 <!--
 ***
-### 2023 Featured Sessions
+## 2023 Featured Sessions
 
 <section>
   <div class="container">
