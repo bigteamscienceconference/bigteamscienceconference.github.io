@@ -164,6 +164,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
+        <br>
         <a href="http://manymanys.github.io/" target="_blank"><img src="/assets/img/manymanys_logo.png" alt="ManyManys logo" width="150" height="150"></a>
       </div>
       <div class="col-sm-9">
@@ -177,6 +178,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
+        <br>
         <a href="https://ois.lbg.ac.at/" target="_blank"><img src="/assets/img/OISC_logo.png" alt="symposium" width="150" height="150"></a>
       </div>
       <div class="col-sm-9">
@@ -190,6 +192,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
+        <br>
         <a href="https://epic-collab.github.io/" target="_blank"><img src="/assets/img/epic_logo.png" alt="epic project logo" width="150" height="150"></a>
       </div>
       <div class="col-sm-9">
