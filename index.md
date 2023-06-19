@@ -16,7 +16,14 @@ The second annual BTSCON will be held virtually on October 23-35, 2023. The goal
 Abstract submissions will open soon (late June). Stay tuned! 
 
 <!--
-<h3 align="center">Deadline to complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScIciauSbdMx7Es0Wnmp9ulOHGZtWlvaXinBm6mkLrd32WZyA/viewform?usp=sf_link" target="_blank">Submission Form</a> extended to August 5!</h3>
+Abstracts for all <a href="#sessions">session types</a> are now open! 
+
+*Panels, hackathons, and symposia:* maximum 500 words
+*Talks, lightning talks, and unconfereces:* maximum 250 words
+
+<h2 align="center"> >>> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdcO9h6tximi6N81asTWSGHpcJ9e_ayZkeLD_6U33I3AZcNAg/viewform?usp=sf_link" target="_blank">Submit your abstract here!</a> <<< </h2> 
+
+<h3 align="center">Deadline: July 31, 2023</h3>
 <br>
 -->
 
@@ -155,7 +162,7 @@ Registration for the 2023 BTSCON is now open!
 -->
 
 ***
-## Sessions
+<h2 id="sessions">>Sessions</h2>
 
 The conference will feature symposia, panel sessions, hackathons, talks, and unconferences. Sessions will feature presentations from groups and individuals who are interested in sharing any work related to Big Team Science. This includes, but is not limited to: completed and/or new large-scale collaborations, crowdsourced efforts, and citizen science projects; science of team science [meta-science] work; re-analysis of data from large-scale collaborations; related infrastructure and policy projects; and more!
 
