@@ -18,7 +18,7 @@ To balance inclusivity with our funding needs, *registration fees for the 2023 B
 * Research staff/graduate students/ undergraduate students: Free
 
 #### Africa, South Asia, Southeast Asia
-*Free 
+* Free 
 
 > All proceeds will be used to develop and improve upon future big team science projects. Registration will be limited to 1,000 attendees.
 
