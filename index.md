@@ -8,10 +8,19 @@ layout: page
 
 The second annual BTSCON will be held virtually on October 23-25, 2023. The goal of this three-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. 
 
+## Quick Links:
+* <a href="#sessions">Submissions</a>
+* <a href="#registration">Registration</a>
+* <a href="#keynotes">Keynote presenters</a>
+* <a href="#invited">Invited sessions</a>
+* <a href="{{site.baseurl}}/codeofconduct/">Code of conduct</a> & <a href="{{site.baseurl}}/rules/">Meeting rules</a>
+* <a href="{{site.baseurl}}/access/">Accessibility information</a>
+* <a href="#sponsors">Sponsor organizations</a>
+* <a href="{{site.baseurl}}/contact/">Contact us</a>
 
 ***
 
-## Submissions
+<h2 id="submissions">Submissions</h2>
 
 Abstract submissions for all <a href="#sessions">session types</a> will open soon (late June). Stay tuned! 
 
@@ -31,7 +40,7 @@ Abstracts for all <a href="#sessions">session types</a> are now open!
 
 ***
 
-## Registration
+<h2 id="registration">Registration</h2>
 
 Registration for the 2023 BTSCON is now open! 
 
@@ -95,7 +104,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
 
 ***
 
-## 2023 Keynote Speakers
+<h2 id="keynotes">2023 Keynote Presenters</h2>
 
 <section>
   <div class="container">
@@ -153,7 +162,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
 
 
 ***
-## 2023 Invited Sessions
+<h2 id="invited">2023 Invited Sessions</h2>
 
 <section>
   <div class="container">
@@ -230,7 +239,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
 
 
 ***
-### Sponsor Organizations
+<h2 id="sponsors">Sponsor Organizations</h2>
 
 <section>
 	<br>
