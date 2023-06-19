@@ -153,7 +153,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
 
 
 ***
-## 2023 Featured Sessions
+## 2023 Invited Sessions
 
 <section>
   <div class="container">
