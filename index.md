@@ -21,13 +21,7 @@ The first annual BTSCON was held virtually on October 27-28, 2022. The goal of t
 
 ## Registration
 
-Stay tuned for information about 2023 BTSCON registration.
-
-<!--
-To ensure inclusivity, **registration fees are optional** for attendees. You can attend for free or pay what you want, but the suggested registration fee is $20. All proceeds will be used to develop and improve upon future big team science projects. 
-
-### [REGISTER HERE](https://opencollective.com/psysciacc/events/test-event-23392c94/contribute/registration-2022-big-team-science-conference-40278)
--->
+[Registration]({{site.baseurl}}/registration/) for the 2023 BTSCON is now open! 
 
 <br>
 
