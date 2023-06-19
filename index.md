@@ -177,7 +177,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="https://ois.lbg.ac.at/" target="_blank"><img src="/assets/img/symposium.png" alt="symposium" width="150" height="150"></a>
+        <a href="https://ois.lbg.ac.at/" target="_blank"><img src="/assets/img/OISC_logo.png" alt="symposium" width="150" height="150"></a>
       </div>
       <div class="col-sm-9">
         <h4><i>Symposium</i></h4>
@@ -190,7 +190,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="<a href="https://epic-collab.github.io/" target="_blank">" target="_blank"><img src="/assets/img/epic_logo.png" alt="epic project logo" width="150" height="150"></a>
+        <a href="https://epic-collab.github.io/" target="_blank"><img src="/assets/img/epic_logo.png" alt="epic project logo" width="150" height="150"></a>
       </div>
       <div class="col-sm-9">
         <h4><i>Talk</i></h4>
