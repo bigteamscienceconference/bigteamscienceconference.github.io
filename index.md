@@ -9,7 +9,7 @@ layout: page
 The second annual BTSCON will be held virtually on October 23-25, 2023. The goal of this three-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. 
 
 ### Quick Links:
-* <b><a href="#sessions">Submissions</a> & <a href="#registration">Registration</a></b>
+* <b><a href="#submissions">Submissions</a> & <a href="#registration">Registration</a></b>
 * <b><a href="#keynotes">Keynote presenters</a> & <a href="#invited">Invited sessions</a></b>
 * <b><a href="{{site.baseurl}}/codeofconduct/">Code of conduct</a> & <a href="{{site.baseurl}}/rules/">Meeting rules</a></b>
 * <b><a href="{{site.baseurl}}/access/">Accessibility information</a></b>
