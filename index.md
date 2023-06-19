@@ -13,7 +13,7 @@ The second annual BTSCON will be held virtually on October 23-35, 2023. The goal
 
 ## Submissions
 
-Abstract submissions will open soon (late June). Stay tuned! 
+Abstract submissions for all <a href="#sessions">session types</a> will open soon (late June). Stay tuned! 
 
 <!--
 Abstracts for all <a href="#sessions">session types</a> are now open! 
@@ -36,6 +36,59 @@ Abstracts for all <a href="#sessions">session types</a> are now open!
 Registration for the 2023 BTSCON is now open! 
 
 #### [VIEW MORE INFO AND REGISTER HERE]({{site.baseurl}}/registration/) 
+
+<br>
+
+
+***
+<h2 id="sessions">Sessions</h2>
+
+The conference will feature symposia, panel sessions, hackathons, talks, and unconferences. Sessions will feature presentations from groups and individuals who are interested in sharing any work related to Big Team Science. This includes, but is not limited to: completed and/or new large-scale collaborations, crowdsourced efforts, and citizen science projects; science of team science [meta-science] work; re-analysis of data from large-scale collaborations; related infrastructure and policy projects; and more!
+
+<section>
+  <div class="container">
+    <div class="row justify-content-around">
+      <div class="col-sm-4 col-xs-6" align="center">
+        <h3>Panels</h3>
+        <img src="/assets/img/panel.png" alt="panel" width="100" height="100"><br>
+        <i>55 minutes</i><br>
+        <i>3 or 4 panelists</i><br>
+      </div>
+      <div class="col-sm-4 col-xs-6" align="center">
+        <h3>Hackathons</h3>
+        <img src="/assets/img/hackathon.png" alt="hackathon" width="100" height="100"><br>
+        <i>90 minutes</i><br>
+        <i>~2-4 leaders</i><br>
+      </div>
+      <div class="col-sm-4 col-xs-6" align="center">
+        <h3>Unconferences</h3>
+        <img src="/assets/img/unconference.png" alt="unconferences" width="100" height="100"><br>
+        <i>55 minutes</i><br> 
+      </div>
+    </div>
+    <div class="row justify-content-around">
+      <div class="col-sm-4 col-xs-6" align="center">
+        <h3>Symposia</h3>
+        <img src="/assets/img/symposium.png" alt="symposium" width="100" height="100"><br>
+        <i>55 minutes</i><br>
+        <i>3 or 4 talks</i> <br>
+      </div>
+      <div class="col-sm-4 col-xs-6" align="center">
+        <h3>Talks</h3>
+        <img src="/assets/img/talk.png" alt="talk" width="100" height="100"><br>
+        <i>25 minutes</i><br> 
+      </div>
+      <div class="col-sm-4 col-xs-6" align="center">
+        <h3>Lightning Talks</h3>
+        <img src="/assets/img/lightning.png" alt="lightning talk" width="100" height="100"><br>
+        <i>5 minutes</i><br> 
+      </div>
+    </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
+  </div>
+</section> 
 
 <br>
 
@@ -99,7 +152,6 @@ Registration for the 2023 BTSCON is now open!
 <br>
 
 
-<!--
 ***
 ## 2023 Featured Sessions
 
@@ -112,12 +164,12 @@ Registration for the 2023 BTSCON is now open!
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="https://www.nature.com/articles/d41586-022-01332-8/" target="_blank"><img src="/assets/img/analysis.png" alt="analysis" width="150" height="150"></a>
+        <a href="http://manymanys.github.io/" target="_blank"><img src="/assets/img/manymanys_logo.png" alt="ManyManys logo" width="150" height="150"></a>
       </div>
       <div class="col-sm-9">
-        <h3>Guidance for Multi-Analyst Projects</h3>
-        <h4><a href="http://decisionlab.elte.hu/members/balazs-aczel/" target="_blank">Balazs Aczel</a></h4>
-        <i>Eötvös Loránd University, Hungary</i>
+        <h4><i>Hackathon</i></h4>
+        <h3>ManyManys 1: Reversal Learning</h3>
+        <h4>chairs: <a href="https://www.researchgate.net/profile/Nicolas-Alessandroni" target="_blank">Nicolás Alessandroni</a> & <a href="https://www.pittstate.edu/education/psychology-and-counseling/faculty-and-staff/laurent-pr%C3%A9t%C3%B4t.html" target="_blank">Laurent Prétôt</a></h4>
       </div>
     </div>
     <div class="col-sm-12">
@@ -125,12 +177,12 @@ Registration for the 2023 BTSCON is now open!
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="https://psysciacc.org/006-trolley-problem/" target="_blank"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150"></a>
+        <a href="https://ois.lbg.ac.at/" target="_blank"><img src="/assets/img/symposium.png" alt="symposium" width="150" height="150"></a>
       </div>
       <div class="col-sm-9">
-        <h3>Situational Factors Shape Moral Judgements in the Trolley Dilemma in a Culturally Diverse Sample</h3>
-        <h4><a href="https://www.iast.fr/people/bence-bago" target="_blank">Bence Bagó</a></h4>
-        <i>Institute for Advanced Study in Toulouse, France</i>
+        <h4><i>Symposium</i></h4>
+        <h3>Open Innovation in Science (OIS): How open and collaborative practices in science influence scientific productivity and societal impact</h3>
+        <h4>Chair: <a href="https://ois.lbg.ac.at/team/susanne-beck/" target="_blank">Susanne Beck</a></h4>
       </div>
     </div>
     <div class="col-sm-12">
@@ -138,22 +190,18 @@ Registration for the 2023 BTSCON is now open!
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <img src="/assets/img/tools.png" alt="tools" width="150" height="150">
+        <a href="<a href="https://epic-collab.github.io/" target="_blank">" target="_blank"><img src="/assets/img/epic_logo.png" alt="epic project logo" width="150" height="150"></a>
       </div>
       <div class="col-sm-9">
-        <h3>Panel: Big Team Science Infrastructure</h3>
-        <h4><a href="https://www.aggieerin.com/page/about/" target="_blank">Erin Buchanan</a>: creator of Canvas for BTS</h4>
-        <i>Harrisburg University of Science and Technology, USA</i>
-        <h4><a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html" target="_blank">Alex O. Holcombe</a>: co-creator of <i><a href="https://rollercoaster.shinyapps.io/tenzing/" target="_blank">tenzing</a></i></h4>
-        <i>University of Sydney, Australia</i>
-        <h4><a href="http://www.melissaklinestruhl.com" target="_blank">Melissa Kline Struhl</a>: Executive Director of <a href="https://lookit.mit.edu" target="_blank">Lookit</a></h4>
-        <i>Massachusetts Institute of Technology, USA</i>
+        <h4><i>Talk</i></h4>
+        <h3>The Emotion Physiology and Experience Collaboration</h3>
+        <h4><a href="https://ai.pwr.edu.pl/author/bartosz-perz/" target="_blank">Bartek Perz</a>
       </div>
     </div>
   </div>
 </section>
 <br>
--->
+
 
 
 <!--
@@ -161,62 +209,6 @@ Registration for the 2023 BTSCON is now open!
 ## [Program]({{site.baseurl}}/schedule/) 
 -->
 
-***
-<h2 id="sessions">Sessions</h2>
-
-The conference will feature symposia, panel sessions, hackathons, talks, and unconferences. Sessions will feature presentations from groups and individuals who are interested in sharing any work related to Big Team Science. This includes, but is not limited to: completed and/or new large-scale collaborations, crowdsourced efforts, and citizen science projects; science of team science [meta-science] work; re-analysis of data from large-scale collaborations; related infrastructure and policy projects; and more!
-
-<section>
-  <div class="container">
-    <div class="row justify-content-around">
-      <div align="center">
-        <h2>Session Formats</h2>
-      </div>
-    </div>
-    <div class="row justify-content-around">
-      <div class="col-sm-4 col-xs-6" align="center">
-        <h3>Panels</h3>
-        <img src="/assets/img/panel.png" alt="panel" width="100" height="100"><br>
-        <i>55 minutes</i><br>
-        <i>3 or 4 panelists</i><br>
-      </div>
-      <div class="col-sm-4 col-xs-6" align="center">
-        <h3>Hackathons</h3>
-        <img src="/assets/img/hackathon.png" alt="hackathon" width="100" height="100"><br>
-        <i>90 minutes</i><br>
-        <i>~2-4 leaders</i><br>
-      </div>
-      <div class="col-sm-4 col-xs-6" align="center">
-        <h3>Unconferences</h3>
-        <img src="/assets/img/unconference.png" alt="unconferences" width="100" height="100"><br>
-        <i>55 minutes</i><br> 
-      </div>
-    </div>
-    <div class="row justify-content-around">
-      <div class="col-sm-4 col-xs-6" align="center">
-        <h3>Symposia</h3>
-        <img src="/assets/img/symposium.png" alt="symposium" width="100" height="100"><br>
-        <i>55 minutes</i><br>
-        <i>3 or 4 talks</i> <br>
-      </div>
-      <div class="col-sm-4 col-xs-6" align="center">
-        <h3>Talks</h3>
-        <img src="/assets/img/talk.png" alt="talk" width="100" height="100"><br>
-        <i>25 minutes</i><br> 
-      </div>
-      <div class="col-sm-4 col-xs-6" align="center">
-        <h3>Lightning Talks</h3>
-        <img src="/assets/img/lightning.png" alt="lightning talk" width="100" height="100"><br>
-        <i>5 minutes</i><br> 
-      </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
-  </div>
-</section> 
-
-<br>
 
 
 
