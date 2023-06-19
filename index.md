@@ -42,7 +42,7 @@ Registration for the 2023 BTSCON is now open!
 
 ***
 
-### 2023 Keynote Speakers
+## 2023 Keynote Speakers
 
 <section>
   <div class="container">
@@ -162,7 +162,7 @@ Registration for the 2023 BTSCON is now open!
 -->
 
 ***
-<h2 id="sessions">>Sessions</h2>
+<h2 id="sessions">Sessions</h2>
 
 The conference will feature symposia, panel sessions, hackathons, talks, and unconferences. Sessions will feature presentations from groups and individuals who are interested in sharing any work related to Big Team Science. This includes, but is not limited to: completed and/or new large-scale collaborations, crowdsourced efforts, and citizen science projects; science of team science [meta-science] work; re-analysis of data from large-scale collaborations; related infrastructure and policy projects; and more!
 
