@@ -13,7 +13,7 @@ Send questions about BTSCON to our [**Conference Email**](mailto:bigteamsciencec
 * [**Julia Espinosa**](https://sites.google.com/view/jespinosa?pli=1), *Harvard University, US - ManyDogs* [[email]](mailto:jespinosa@g.harvard.edu)
 
 ### Accessibility Consultant
-* [Liz Hare](http://www.doggenetics.com/), *ManyDogs* [[email]](LizHare@DogGenetics.com)
+* [**Liz Hare**](http://www.doggenetics.com/), *ManyDogs* [[email]](LizHare@DogGenetics.com)
 
 ***
 
