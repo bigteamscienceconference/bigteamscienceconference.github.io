@@ -169,7 +169,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
       <div class="col-sm-9">
         <h4><i>Hackathon</i></h4>
         <h3>ManyManys 1: Reversal Learning</h3>
-        <h4>chairs: <a href="https://www.researchgate.net/profile/Nicolas-Alessandroni" target="_blank">Nicolás Alessandroni</a> & <a href="https://www.pittstate.edu/education/psychology-and-counseling/faculty-and-staff/laurent-pr%C3%A9t%C3%B4t.html" target="_blank">Laurent Prétôt</a></h4>
+        <h4>Chairs: <a href="https://www.researchgate.net/profile/Nicolas-Alessandroni" target="_blank">Nicolás Alessandroni</a> & <a href="https://www.pittstate.edu/education/psychology-and-counseling/faculty-and-staff/laurent-pr%C3%A9t%C3%B4t.html" target="_blank">Laurent Prétôt</a></h4>
       </div>
     </div>
     <div class="col-sm-12">
@@ -195,7 +195,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
       <div class="col-sm-9">
         <h4><i>Talk</i></h4>
         <h3>The Emotion Physiology and Experience Collaboration</h3>
-        <h4><a href="https://ai.pwr.edu.pl/author/bartosz-perz/" target="_blank">Bartek Perz</a>
+        <h4>Presenter: <a href="https://ai.pwr.edu.pl/author/bartosz-perz/" target="_blank">Bartek Perz</a>
       </div>
     </div>
   </div>
