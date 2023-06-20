@@ -21,7 +21,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
 <section>
   <div class="container">
     <div class="row justify-content-around">
-      <div class="col-sm-3" align="right">
+      <div class="col-sm-3" align="center">
         <img src="/assets/img/panel.png" alt="panel"><br>
       </div>
       <div class="col-sm-9" align="left">
@@ -31,8 +31,8 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
       </div>
     </div>
     <div class="row justify-content-around">
-      <div class="col-sm-3" align="right">
-        <img src="/assets/img/hackathon.png" alt="hackathon" width="100" height="100"><br>
+      <div class="col-sm-3" align="center">
+        <img src="/assets/img/hackathon.png" alt="hackathon"><br>
       </div>
       <div class="col-sm-9" align="left">
         <h3>Hackathons</h3>
