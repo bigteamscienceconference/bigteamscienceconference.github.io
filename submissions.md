@@ -22,6 +22,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
   <div class="container">
     <div class="row justify-content-around">
       <div class="col-sm-3" align="center">
+        <br>
         <img src="/assets/img/panel.png" alt="panel" width="125" height="125"><br>
       </div>
       <div class="col-sm-9" align="left">
@@ -31,12 +32,8 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
       </div>
     </div>
     <div class="row justify-content-around">
-      <div class="col-sm-12">
-        <p>   </p>
-      </div>
-    </div>
-    <div class="row justify-content-around">
       <div class="col-sm-3" align="center">
+        <br>
         <img src="/assets/img/hackathon.png" alt="hackathon" width="125" height="125"><br>
       </div>
       <div class="col-sm-9" align="left">
@@ -47,6 +44,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
     </div>
     <div class="row justify-content-around">
       <div class="col-sm-3" align="center">
+        <br>
         <img src="/assets/img/unconference.png" alt="unconferences" width="125" height="125"><br>
       </div>
       <div class="col-sm-9" align="left">
@@ -57,6 +55,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
     </div>
     <div class="row justify-content-around">
       <div class="col-sm-3" align="center">
+        <br>
         <img src="/assets/img/symposium.png" alt="symposium" width="125" height="125"><br>
       </div>
       <div class="col-sm-9" align="left">
@@ -67,6 +66,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
     </div>
     <div class="row justify-content-around">
       <div class="col-sm-3" align="center">
+        <br>
         <img src="/assets/img/talk.png" alt="talk" width="125" height="125"><br>
       </div>
       <div class="col-sm-9" align="left">
@@ -76,6 +76,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
     </div>
     <div class="row justify-content-around">
       <div class="col-sm-3" align="center">
+        <br>
         <img src="/assets/img/lightning.png" alt="lightning talk" width="125" height="125"><br>
       </div>
       <div class="col-sm-9" align="left">
