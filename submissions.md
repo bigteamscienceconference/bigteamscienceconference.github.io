@@ -71,9 +71,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
     </div>
     <div class="row justify-content-around">
       <div class="col-sm-3" align="center">
-        <h3>Lightning Talks</h3>
         <img src="/assets/img/lightning.png" alt="lightning talk" width="125" height="125"><br>
-        <i>5 minutes</i><br> 
       </div>
       <div class="col-sm-9" align="left">
         <h3>Lightning Talks</h3>
