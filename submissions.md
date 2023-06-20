@@ -21,12 +21,16 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
 <section>
   <div class="container">
     <div class="row justify-content-around">
-      <div class="col-sm-4 col-xs-6" align="center">
-        <h3>Panels</h3>
+      <div class="col-sm-3 col-xs-6" align="center">
         <img src="/assets/img/panel.png" alt="panel" width="100" height="100"><br>
-        <i>55 minutes</i><br>
-        <i>3 or 4 panelists</i><br>
       </div>
+      <div class="col-sm-9 col-xs-6" align="center">
+        <h3>Panels</h3>
+        <i>55 minutes</i><br>
+        <i>3 or 4 panelists; discussion, Q&A, etc.</i><br>
+      </div>
+    </div>
+    <div class="row justify-content-around">
       <div class="col-sm-4 col-xs-6" align="center">
         <h3>Hackathons</h3>
         <img src="/assets/img/hackathon.png" alt="hackathon" width="100" height="100"><br>
