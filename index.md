@@ -5,8 +5,8 @@ layout: page
 
 <img src="/assets/img/BTSCon2023_logo.png" alt="" />
 
-### 23-25 October, 2023
-### 10:00 - 21:00 UTC
+<h3 align="center">23-25 October, 2023</h3>
+<h2 align="center"><i>10:00 - 21:00 UTC</i></h3>
 
 ## [Submissions]({{site.baseurl}}/submissions/) and [Registration]({{site.baseurl}}/registration/) are now open!
 
