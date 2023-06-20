@@ -31,12 +31,16 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
       </div>
     </div>
     <div class="row justify-content-around">
-      <div class="col-sm-3" align="center">
-        <h3>Hackathons</h3>
+      <div class="col-sm-3" align="right">
         <img src="/assets/img/hackathon.png" alt="hackathon" width="100" height="100"><br>
-        <i>90 minutes</i><br>
-        <i>~2-4 leaders</i><br>
       </div>
+      <div class="col-sm-5" align="left">
+        <h3>Hackathons</h3>
+        <i>90 minutes</i><br>
+        <i>~2-4 leaders; attendees work on a specific project or task</i><br>
+      </div>
+    </div>
+    <div class="row justify-content-around">
       <div class="col-sm-4 col-xs-6" align="center">
         <h3>Unconferences</h3>
         <img src="/assets/img/unconference.png" alt="unconferences" width="100" height="100"><br>
