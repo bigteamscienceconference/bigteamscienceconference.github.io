@@ -5,10 +5,12 @@ layout: page
 
 <img src="/assets/img/BTSCon2023_logo.png" alt="" />
 
-## Conference Dates: 23-25 October, 2023
+### 23-25 October, 2023
 ### 10:00 - 21:00 UTC
 
-The second annual BTSCON will be held virtually October 23-25, 2023. The goal of this three-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. 
+## [Submissions]({{site.baseurl}}/submissions/) and [Registration]({{site.baseurl}}/registration/) are now open!
+
+The second annual BTSCON will be held virtually via Zoom in October, 2023. The goal of this three-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. 
 
 ### Quick Links:
 * <b><a href="{{site.baseurl}}/submissions/">Submissions</a> & <a href="{{site.baseurl}}/registration/">Registration</a></b> 
