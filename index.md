@@ -28,7 +28,6 @@ Abstracts for all <a href="#sessions">session types</a> are now open!
 <h2 align="center"> >>> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdcO9h6tximi6N81asTWSGHpcJ9e_ayZkeLD_6U33I3AZcNAg/viewform?usp=sf_link" target="_blank">Submit your abstract here!</a> <<< </h2> 
 
 <h3 align="center">Deadline: July 31, 2023</h3>
-<br>
 
 
 ***
@@ -156,7 +155,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <br>
-        <a href="http://manymanys.github.io/" target="_blank"><img src="/assets/img/manymanys_logo.png" alt="ManyManys logo" width="150" height="150"></a>
+        <a href="http://manymanys.github.io/" target="_blank"><img src="/assets/img/manymanys_logo.png" alt="ManyManys logo" width="200" height="200"></a>
       </div>
       <div class="col-sm-9">
         <h4><i>Hackathon</i></h4>
@@ -170,7 +169,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <br>
-        <a href="https://ois.lbg.ac.at/" target="_blank"><img src="/assets/img/OISC_logo.png" alt="symposium" width="150" height="150"></a>
+        <a href="https://ois.lbg.ac.at/" target="_blank"><img src="/assets/img/OISC_logo.png" alt="symposium" width="200" height="200"></a>
       </div>
       <div class="col-sm-9">
         <h4><i>Symposium</i></h4>
@@ -184,7 +183,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <br>
-        <a href="https://epic-collab.github.io/" target="_blank"><img src="/assets/img/epic_logo.png" alt="epic project logo" width="150" height="150"></a>
+        <a href="https://epic-collab.github.io/" target="_blank"><img src="/assets/img/epic_logo.png" alt="epic project logo" width="200" height="200"></a>
       </div>
       <div class="col-sm-9">
         <h4><i>Talk</i></h4>
