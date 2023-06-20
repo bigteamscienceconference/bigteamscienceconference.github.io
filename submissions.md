@@ -22,7 +22,6 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
   <div class="container">
     <div class="row justify-content-around">
       <div class="col-sm-3" align="center">
-        <br>
         <img src="/assets/img/panel.png" alt="panel" width="125" height="125"><br>
       </div>
       <div class="col-sm-9" align="left">
@@ -31,9 +30,11 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
         <i>3 or 4 panelists; discussion, Q&A, etc.</i><br>
       </div>
     </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
     <div class="row justify-content-around">
       <div class="col-sm-3" align="center">
-        <br>
         <img src="/assets/img/hackathon.png" alt="hackathon" width="125" height="125"><br>
       </div>
       <div class="col-sm-9" align="left">
@@ -42,9 +43,11 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
         <i>~2-4 leaders; attendees work on a specific project or task</i><br>
       </div>
     </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
     <div class="row justify-content-around">
       <div class="col-sm-3" align="center">
-        <br>
         <img src="/assets/img/unconference.png" alt="unconferences" width="125" height="125"><br>
       </div>
       <div class="col-sm-9" align="left">
@@ -53,9 +56,11 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
         <i>1 or more leaders; meet & greets, informaal discussions about a topic, etc.</i><br>
       </div>
     </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
     <div class="row justify-content-around">
       <div class="col-sm-3" align="center">
-        <br>
         <img src="/assets/img/symposium.png" alt="symposium" width="125" height="125"><br>
       </div>
       <div class="col-sm-9" align="left">
@@ -64,9 +69,11 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
         <i>3 or 4 thematically-related talks</i> <br>
       </div>
     </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
     <div class="row justify-content-around">
       <div class="col-sm-3" align="center">
-        <br>
         <img src="/assets/img/talk.png" alt="talk" width="125" height="125"><br>
       </div>
       <div class="col-sm-9" align="left">
@@ -74,9 +81,11 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
         <i>25 minutes</i><br> 
       </div>
     </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
     <div class="row justify-content-around">
       <div class="col-sm-3" align="center">
-        <br>
         <img src="/assets/img/lightning.png" alt="lightning talk" width="125" height="125"><br>
       </div>
       <div class="col-sm-9" align="left">
