@@ -38,7 +38,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
       </div>
       <div class="col-sm-9" align="left">
         <h3>Hackathons</h3>
-        <i>90 minutes</i><br>
+        <i>85 minutes</i><br>
         <i>~2-4 leaders; attendees work on a specific project or task</i><br>
       </div>
     </div>
