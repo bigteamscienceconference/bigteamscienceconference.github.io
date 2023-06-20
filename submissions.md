@@ -24,7 +24,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
       <div class="col-sm-3" align="right">
         <img src="/assets/img/panel.png" alt="panel"><br>
       </div>
-      <div class="col-sm-5" align="left">
+      <div class="col-sm-9" align="left">
         <h3>Panels</h3>
         <i>55 minutes</i><br>
         <i>3 or 4 panelists; discussion, Q&A, etc.</i><br>
@@ -34,7 +34,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
       <div class="col-sm-3" align="right">
         <img src="/assets/img/hackathon.png" alt="hackathon" width="100" height="100"><br>
       </div>
-      <div class="col-sm-5" align="left">
+      <div class="col-sm-9" align="left">
         <h3>Hackathons</h3>
         <i>90 minutes</i><br>
         <i>~2-4 leaders; attendees work on a specific project or task</i><br>
