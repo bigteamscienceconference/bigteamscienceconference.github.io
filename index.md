@@ -9,7 +9,7 @@ layout: page
 The second annual BTSCON will be held virtually on October 23-25, 2023 *(10:00 - 21:00 UTC)*. The goal of this three-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. 
 
 ### Quick Links:
-* <b><a href={{site.baseurl}}/submissions/>Submissions</a> & <a href="{{site.baseurl}}/registration/">Registration</a></b> 
+* <b><a href="{{site.baseurl}}/submissions/">Submissions</a> & <a href="{{site.baseurl}}/registration/">Registration</a></b> 
 * <b><a href="#keynotes">Keynote presenters</a> & <a href="#invited">Invited sessions</a></b>
 * <b><a href="{{site.baseurl}}/codeofconduct/">Code of conduct & meeting rules</a></b>
 * <b><a href="{{site.baseurl}}/access/">Accessibility information</a></b>
@@ -29,11 +29,6 @@ The second annual BTSCON will be held virtually on October 23-25, 2023 *(10:00 -
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-12">
-        <p>    </p>
-      </div>
-    </div>
-    <div class="row">
       <div class="col-sm-4 col-xs-6" align="center">
         <br>
         <a href="https://as.nyu.edu/faculty/madalina-vlasceanu.html" target="_blank"><img src="/assets/img/Vlasceanu_headshot.jpg" alt="Madalina Vlasceanu, Ph.D." width="200" height="200"></a>
@@ -42,6 +37,11 @@ The second annual BTSCON will be held virtually on October 23-25, 2023 *(10:00 -
         <h3><a href="https://as.nyu.edu/faculty/madalina-vlasceanu.html" target="_blank">Madalina Vlasceanu, Ph.D.</a></h3>
         <i>Assistant Professor, Psychology, New York University, US; International Collaboration to Understand Climate Action</i>
         <h4>Global collaborations improve the impact of behavioral science: Examples from a manylabs megastudy to increase climate action</h4>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12">
+        <p>    </p>
       </div>
     </div>
     <div class="row">
