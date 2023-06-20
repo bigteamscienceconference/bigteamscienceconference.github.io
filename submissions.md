@@ -22,7 +22,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
   <div class="container">
     <div class="row justify-content-around">
       <div class="col-sm-3" align="center">
-        <img src="/assets/img/panel.png" alt="panel" width="150" height="150"><br>
+        <img src="/assets/img/panel.png" alt="panel" width="125" height="125"><br>
       </div>
       <div class="col-sm-9" align="left">
         <h3>Panels</h3>
