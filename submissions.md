@@ -32,7 +32,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
     </div>
     <div class="row justify-content-around">
       <div class="col-sm-3" align="center">
-        <img src="/assets/img/hackathon.png" alt="hackathon" width="150" height="150"><br>
+        <img src="/assets/img/hackathon.png" alt="hackathon" width="125" height="125"><br>
       </div>
       <div class="col-sm-9" align="left">
         <h3>Hackathons</h3>
@@ -42,7 +42,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
     </div>
     <div class="row justify-content-around">
       <div class="col-sm-3" align="center">
-        <img src="/assets/img/unconference.png" alt="unconferences" width="150" height="150"><br>
+        <img src="/assets/img/unconference.png" alt="unconferences" width="125" height="125"><br>
       </div>
       <div class="col-sm-9" align="left">
         <h3>Unconferences</h3>
@@ -51,12 +51,16 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
       </div>
     </div>
     <div class="row justify-content-around">
-      <div class="col-sm-4 col-xs-6" align="center">
-        <h3>Symposia</h3>
-        <img src="/assets/img/symposium.png" alt="symposium" width="100" height="100"><br>
-        <i>55 minutes</i><br>
-        <i>3 or 4 talks</i> <br>
+      <div class="col-sm-3" align="center">
+        <img src="/assets/img/symposium.png" alt="symposium" width="125" height="125"><br>
       </div>
+      <div class="col-sm-3" align="left">
+        <h3>Symposia</h3>
+        <i>55 minutes</i><br>
+        <i>3 or 4 thematically-related talks</i> <br>
+      </div>
+    </div>
+    <div class="row justify-content-around">
       <div class="col-sm-4 col-xs-6" align="center">
         <h3>Talks</h3>
         <img src="/assets/img/talk.png" alt="talk" width="100" height="100"><br>
