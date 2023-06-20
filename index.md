@@ -5,7 +5,7 @@ layout: page
 
 <img src="/assets/img/BTSCon2023_logo.png" alt="" />
 
-<h3 align="center">23-25 October, 2023</h3>
+<h3 align="center">23 - 25 October, 2023</h3>
 <h3 align="center">10:00 - 21:00 UTC</h3>
 
 <h2 align="center"><a href="{{site.baseurl}}/submissions/">Submissions</a> and <a href="{{site.baseurl}}/registration/">Registration</a> are now open!</h2>
