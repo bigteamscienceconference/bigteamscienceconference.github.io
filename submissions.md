@@ -54,21 +54,29 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
       <div class="col-sm-3" align="center">
         <img src="/assets/img/symposium.png" alt="symposium" width="125" height="125"><br>
       </div>
-      <div class="col-sm-3" align="left">
+      <div class="col-sm-9" align="left">
         <h3>Symposia</h3>
         <i>55 minutes</i><br>
         <i>3 or 4 thematically-related talks</i> <br>
       </div>
     </div>
     <div class="row justify-content-around">
-      <div class="col-sm-4 col-xs-6" align="center">
+      <div class="col-sm-3" align="center">
+        <img src="/assets/img/talk.png" alt="talk" width="125" height="125"><br>
+      </div>
+      <div class="col-sm-9" align="center">
         <h3>Talks</h3>
-        <img src="/assets/img/talk.png" alt="talk" width="100" height="100"><br>
         <i>25 minutes</i><br> 
       </div>
-      <div class="col-sm-4 col-xs-6" align="center">
+    </div>
+    <div class="row justify-content-around">
+      <div class="col-sm-3" align="center">
         <h3>Lightning Talks</h3>
-        <img src="/assets/img/lightning.png" alt="lightning talk" width="100" height="100"><br>
+        <img src="/assets/img/lightning.png" alt="lightning talk" width="125" height="125"><br>
+        <i>5 minutes</i><br> 
+      </div>
+      <div class="col-sm-9" align="center">
+        <h3>Lightning Talks</h3>
         <i>5 minutes</i><br> 
       </div>
     </div>
