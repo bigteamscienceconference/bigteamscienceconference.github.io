@@ -95,17 +95,6 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-4 col-xs-6" align="center">
-        <br>
-        <a href="https://research-information.bris.ac.uk/en/persons/marcus-r-munafo" target="_blank"><img src="/assets/img/Munafo_headshot.jpg" alt="Marcus Munafo, Ph.D." width="200" height="200"></a>
-      </div>
-      <div class="col-sm-8">
-        <h3><a href="https://research-information.bris.ac.uk/en/persons/marcus-r-munafo" target="_blank">Marcus Munafo, Ph.D.</a></h3>
-        <i>Professor of Biological Psychology and MRC Investigator, University of Bristol, UK; UK Reproducibility Project</i>
-        <h4>Collaborative approaches to improving research culture and practice</h4>
-      </div>
-    </div>
-    <div class="row">
       <div class="col-sm-12">
         <p>    </p>
       </div>
@@ -121,7 +110,18 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
         <h4>Global collaborations improve the impact of behavioral science: Examples from a manylabs megastudy to increase climate action</h4>
       </div>
     </div>
-        <div class="row">
+    <div class="row">
+      <div class="col-sm-4 col-xs-6" align="center">
+        <br>
+        <a href="https://research-information.bris.ac.uk/en/persons/marcus-r-munafo" target="_blank"><img src="/assets/img/Munafo_headshot.jpg" alt="Marcus Munafo, Ph.D." width="200" height="200"></a>
+      </div>
+      <div class="col-sm-8">
+        <h3><a href="https://research-information.bris.ac.uk/en/persons/marcus-r-munafo" target="_blank">Marcus Munafo, Ph.D.</a></h3>
+        <i>Professor of Biological Psychology and MRC Investigator, University of Bristol, UK; UK Reproducibility Project</i>
+        <h4>Collaborative approaches to improving research culture and practice</h4>
+      </div>
+    </div>
+    <div class="row">
       <div class="col-sm-12">
         <p>    </p>
       </div>
