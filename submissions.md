@@ -41,10 +41,13 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
       </div>
     </div>
     <div class="row justify-content-around">
-      <div class="col-sm-4 col-xs-6" align="center">
+      <div class="col-sm-3" align="center">
+        <img src="/assets/img/unconference.png" alt="unconferences" width="150" height="150"><br>
+      </div>
+      <div class="col-sm-9" align="left">
         <h3>Unconferences</h3>
-        <img src="/assets/img/unconference.png" alt="unconferences" width="100" height="100"><br>
-        <i>55 minutes</i><br> 
+        <i>55 minutes</i><br>
+        <i>1 or more leaders; meet & greets, informaal discussions about a topic, etc.</i><br>
       </div>
     </div>
     <div class="row justify-content-around">
