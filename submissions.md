@@ -64,7 +64,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
       <div class="col-sm-3" align="center">
         <img src="/assets/img/talk.png" alt="talk" width="125" height="125"><br>
       </div>
-      <div class="col-sm-9" align="center">
+      <div class="col-sm-9" align="left">
         <h3>Talks</h3>
         <i>25 minutes</i><br> 
       </div>
@@ -75,7 +75,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
         <img src="/assets/img/lightning.png" alt="lightning talk" width="125" height="125"><br>
         <i>5 minutes</i><br> 
       </div>
-      <div class="col-sm-9" align="center">
+      <div class="col-sm-9" align="left">
         <h3>Lightning Talks</h3>
         <i>5 minutes</i><br> 
       </div>
