@@ -120,6 +120,20 @@ The second annual BTSCON will be held virtually via Zoom in October 2023. The go
     <div class="row">
       <div class="col-sm-4" align="center">
         <br>
+        <a href="https://open-sci.cn/" target="_blank"><img src="/assets/img/cosn.png" alt="" width="200"></a>
+      </div>
+      <div class="col-sm-8">
+        <h4><i>Talk</i></h4>
+        <h3>Open Science in Developing Countries</h3>
+        Presenter: <a href="https://huchuanpeng.com/" target="_blank"><b>Hu Chuan-Peng</b></a>, <i>Nanjing Normal University, China</i>
+      </div>
+    </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
+    <div class="row">
+      <div class="col-sm-4" align="center">
+        <br>
         <a href="https://epic-collab.github.io/" target="_blank"><img src="/assets/img/epic_logo.png" alt="epic project logo" width="200" height="200"></a>
       </div>
       <div class="col-sm-8">
