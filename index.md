@@ -120,6 +120,7 @@ The second annual BTSCON will be held virtually via Zoom in October 2023. The go
     <div class="row">
       <div class="col-sm-4" align="center">
         <br>
+        <br>
         <a href="https://open-sci.cn/" target="_blank"><img src="/assets/img/COSN.png" alt="" width="200"></a>
       </div>
       <div class="col-sm-8">
