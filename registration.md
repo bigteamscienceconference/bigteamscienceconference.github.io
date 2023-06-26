@@ -23,7 +23,5 @@ To balance inclusivity with our funding needs, *registration fees for the 2023 B
 > All proceeds will be used to develop and improve upon future big team science projects. Registration will be limited to 1,000 attendees.
 
 <!--
-Registration for the 2023 BTSCON is not yet open, but you are still welcome to make tax-deductible donations toward future Big Team Science efforts (to be shared by the sponsor organizations). 
-
 # [Donate Here!](https://opencollective.com/psysciacc/events/test-event-23392c94/contribute/registration-2022-big-team-science-conference-40278)
 -->
