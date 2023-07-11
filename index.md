@@ -71,7 +71,7 @@ The second annual BTSCON will be held virtually via Zoom in October 2023. The go
       <div class="col-sm-8">
         <h3><a href="https://www.nrf.ac.za/" target="_blank">Nokuthula Mchunu, Ph.D.</a></h3>
         <i>Deputy Director, The National Research Foundation of South Africa</i>
-        <h4>The Africa Open Science Platform</h4>
+        <h4>Africa Open Science Platform</h4>
       </div>
     </div>
   </div>
