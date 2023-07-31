@@ -10,7 +10,8 @@ Abstracts for all <a href="#sessions">session types</a> are now open!
 * *Panels, hackathons, and symposia:* maximum 500 words
 * *Talks, lightning talks, and unconferences:* maximum 250 words
 
-<h3 align="center">Deadline: July 31, 2023</h3>
+<h3 align="center">Deadline: <s>July 31, 2023</s> extended to August 14, 2023</h3>
+
 
 
 ***
