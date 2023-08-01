@@ -54,7 +54,7 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
       <div class="col-sm-9" align="left">
         <h3>Unconferences</h3>
         <i>55 minutes</i><br>
-        <i>1 or more leaders; meet & greets, informaal discussions about a topic, etc.</i><br>
+        <i>1 or more leaders; meet & greets, informal discussions about a topic, etc.</i><br>
       </div>
     </div>
     <div class="col-sm-12">
