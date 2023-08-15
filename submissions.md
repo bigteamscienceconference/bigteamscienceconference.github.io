@@ -3,12 +3,18 @@ layout: page
 title: submissions
 ---
 
+<!--
 <h2 align="center"> >>> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdcO9h6tximi6N81asTWSGHpcJ9e_ayZkeLD_6U33I3AZcNAg/viewform?usp=sf_link" target="_blank">Submit your abstract here!</a> <<< </h2> 
 
-Abstracts for all <a href="#sessions">session types</a> are now open! 
+
+Submissions for all <a href="#sessions">session types</a> are now open! 
+
 
 * *Panels, hackathons, and symposia:* maximum 500 words
 * *Talks, lightning talks, and unconferences:* maximum 250 words
+-->
+
+<h2 align="center">Submissions for the 2023 BTSCON are closed</h2>
 
 <h3 align="center">Deadline: <s>July 31, 2023</s> extended to August 14, 2023</h3>
 
