@@ -17,7 +17,7 @@ Submissions for all <a href="#sessions">session types</a> are now open!
 <h2 align="center">Submissions for the 2023 BTSCON are closed</h2>
 
 <h3 align="center">Deadline: <s>July 31, 2023</s> extended to August 14, 2023</h3>
-
+<br>
 
 
 ***
