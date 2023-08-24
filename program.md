@@ -89,7 +89,6 @@ The conference will feature symposia, panel sessions, hackathons, talks, and unc
 * [Aishwarya Iyer](https://scholar.google.com/citations?user=zkHndXUAAAAJ&hl=en), Psychology, Christ University, India
 * [Vedrana Šlipogor](https://zoo.prf.jcu.cz/index.php/staff-item/slipogor-vedrana/?lang=en), Zoology, University of South Bohemia, Czechia
 * [Robert Thibault](https://metrics.stanford.edu/people/robert-thibault), METRICS, Stanford University, US
-* 
 
 ***
 
