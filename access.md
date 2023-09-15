@@ -12,7 +12,7 @@ We will be using Zoom as our primary conference platform.
 
 ## Slide sharing
 
-We encourage speakers to share their presentation slides, with as much annotation as possible, in advance of their talks. 
+We are striving to make the 2023 Big Team Science Conference as accessible as possible. Following best practices in accessibility and inclusivity for all attendees, the expectation is that presenters will upload accessible copies of their presentation and materials (i.e., slides) to their landing page prior to their presentation time. 
 
 Here is a [guide to making accessible PDFs](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-pdf-author-guide/).
 
