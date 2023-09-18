@@ -113,7 +113,7 @@ The second annual BTSCON will be held virtually via Zoom <b>October 23-25, 2023 
         <h4><i>Symposium</i></h4>
         <h3><a href="https://ois.lbg.ac.at/" target="_blank">Open Innovation in Science (OIS)</a>: How open and collaborative practices in science influence scientific productivity and societal impact</h3>
         <b>Chair: <a href="https://ois.lbg.ac.at/team/susanne-beck/" target="_blank">Susanne Beck</a></b>, <i>Ludwig Boltzmann Gesellschaft Open Innovation in Science Center, Austria</i> <br>
-        <b>Additional Presenters: <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-strategy-and-innovation/staff/cgsi" target="_blank">Christoph Grimpe</a>, <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-strategy-and-innovation/staff/mpsi" target="_blank">Marion Poetz</a>, & <a href="https://esmt.berlin/faculty-research/person/henry-sauermann" target="_blank">Henry Sauermann</a></b>
+        <b>Additional Presenters: <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-strategy-and-innovation/staff/cgsi" target="_blank">Christoph Grimpe</a>, <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-strategy-and-innovation/staff/mpsi" target="_blank">Marion Poetz</a>, <a href="https://esmt.berlin/faculty-research/person/henry-sauermann" target="_blank">Henry Sauermann</a></b>
       </div>
     </div>
     <div class="col-sm-12">
