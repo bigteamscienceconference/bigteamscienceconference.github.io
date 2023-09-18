@@ -112,7 +112,8 @@ The second annual BTSCON will be held virtually via Zoom <b>October 23-25, 2023 
       <div class="col-sm-8">
         <h4><i>Symposium</i></h4>
         <h3><a href="https://ois.lbg.ac.at/" target="_blank">Open Innovation in Science (OIS)</a>: How open and collaborative practices in science influence scientific productivity and societal impact</h3>
-        Chair: <a href="https://ois.lbg.ac.at/team/susanne-beck/" target="_blank"><b>Susanne Beck</b></a>, <i>Ludwig Boltzmann Gesellschaft Open Innovation in Science Center, Austria</i>
+        Chair: <a href="https://ois.lbg.ac.at/team/susanne-beck/" target="_blank"><b>Susanne Beck</b></a>, <i>Ludwig Boltzmann Gesellschaft Open Innovation in Science Center, Austria</i> <br>
+        Additional Presenters: <b>Christoph Grimpe, Marion Poetz, & Henry Sauermann</b>
       </div>
     </div>
     <div class="col-sm-12">
