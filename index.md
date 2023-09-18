@@ -98,7 +98,7 @@ The second annual BTSCON will be held virtually via Zoom <b>October 23-25, 2023 
       <div class="col-sm-8">
         <h4><i>Hackathon</i></h4>
         <h3><a href="http://manymanys.github.io/MM1/" target="_blank">ManyManys 1: Reversal Learning</a></h3>
-        Chairs: <a href="https://www.researchgate.net/profile/Nicolas-Alessandroni" target="_blank"><b>Nicolás Alessandroni</b></a>, <i>Concordia University, Canada</i> & <a href="https://www.pittstate.edu/education/psychology-and-counseling/faculty-and-staff/laurent-pr%C3%A9t%C3%B4t.html" target="_blank"><b>Laurent Prétôt</b></a>, <i>Pittsburgh State University, US</i>
+        <b>Chairs: <a href="https://www.researchgate.net/profile/Nicolas-Alessandroni" target="_blank">Nicolás Alessandroni</a></b>, <i>Concordia University, Canada</i> & <a href="https://www.pittstate.edu/education/psychology-and-counseling/faculty-and-staff/laurent-pr%C3%A9t%C3%B4t.html" target="_blank"><b>Laurent Prétôt</b></a>, <i>Pittsburgh State University, US</i>
       </div>
     </div>
     <div class="col-sm-12">
@@ -112,8 +112,8 @@ The second annual BTSCON will be held virtually via Zoom <b>October 23-25, 2023 
       <div class="col-sm-8">
         <h4><i>Symposium</i></h4>
         <h3><a href="https://ois.lbg.ac.at/" target="_blank">Open Innovation in Science (OIS)</a>: How open and collaborative practices in science influence scientific productivity and societal impact</h3>
-        Chair: <a href="https://ois.lbg.ac.at/team/susanne-beck/" target="_blank"><b>Susanne Beck</b></a>, <i>Ludwig Boltzmann Gesellschaft Open Innovation in Science Center, Austria</i> <br>
-        Additional Presenters: <b><a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-strategy-and-innovation/staff/cgsi" target="_blank">Christoph Grimpe</a>, <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-strategy-and-innovation/staff/mpsi" target="_blank">Marion Poetz</a>, & <a href="https://esmt.berlin/faculty-research/person/henry-sauermann" target="_blank">Henry Sauermann</a></b>
+        <b>Chair:<a href="https://ois.lbg.ac.at/team/susanne-beck/" target="_blank">Susanne Beck</a></b>, <i>Ludwig Boltzmann Gesellschaft Open Innovation in Science Center, Austria</i> <br>
+        <b>Additional Presenters:<a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-strategy-and-innovation/staff/cgsi" target="_blank">Christoph Grimpe</a>, <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-strategy-and-innovation/staff/mpsi" target="_blank">Marion Poetz</a>, & <a href="https://esmt.berlin/faculty-research/person/henry-sauermann" target="_blank">Henry Sauermann</a></b>
       </div>
     </div>
     <div class="col-sm-12">
@@ -128,7 +128,7 @@ The second annual BTSCON will be held virtually via Zoom <b>October 23-25, 2023 
       <div class="col-sm-8">
         <h4><i>Talk</i></h4>
         <h3><a href="https://open-sci.cn/" target="_blank">Open Science in Developing Countries</a></h3>
-        Presenter: <a href="https://huchuanpeng.com/" target="_blank"><b>Hu Chuan-Peng</b></a>, <i>Nanjing Normal University, China</i>
+        <b>Presenter: <a href="https://huchuanpeng.com/" target="_blank">Hu Chuan-Peng</a></b>, <i>Nanjing Normal University, China</i>
       </div>
     </div>
     <div class="col-sm-12">
@@ -142,7 +142,7 @@ The second annual BTSCON will be held virtually via Zoom <b>October 23-25, 2023 
       <div class="col-sm-8">
         <h4><i>Talk</i></h4>
         <h3><a href="https://epic-collab.github.io/" target="_blank">The Emotion Physiology and Experience Collaboration</a></h3>
-        Presenter: <a href="https://ai.pwr.edu.pl/author/bartosz-perz/" target="_blank"><b>Bartek Perz</b></a>, <i>Wroclaw University of Science and Technology, Poland</i>
+        <b>Presenter: <a href="https://ai.pwr.edu.pl/author/bartosz-perz/" target="_blank">Bartek Perz</a></b>, <i>Wroclaw University of Science and Technology, Poland</i>
       </div>
     </div>
   </div>
