@@ -67,12 +67,12 @@ The second annual BTSCON will be held virtually via Zoom <b>October 23-25, 2023 
     <div class="row">
       <div class="col-sm-4 col-xs-6" align="center">
         <br>
-        <a href="https://www.nrf.ac.za/" target="_blank"><img src="/assets/img/Mchunu_headshot.jpg" alt="Nokuthula Mchunu, Ph.D." width="200" height="200"></a>
+        <a href="https://codata.org/appointment-of-director-and-deputy-director-of-the-african-open-science-platform/" target="_blank"><img src="/assets/img/Mchunu_headshot.jpg" alt="Nokuthula Mchunu, Ph.D." width="200" height="200"></a>
       </div>
       <div class="col-sm-8">
-        <h3><a href="https://www.nrf.ac.za/" target="_blank">Nokuthula Mchunu, Ph.D.</a></h3>
+        <h3><a href="https://codata.org/appointment-of-director-and-deputy-director-of-the-african-open-science-platform/" target="_blank">Nokuthula Mchunu, Ph.D.</a></h3>
         <i>Deputy Director, The National Research Foundation of South Africa</i>
-        <h4>Africa Open Science Platform</h4>
+        <h4>African Open Science Platform</h4>
       </div>
     </div>
   </div>
