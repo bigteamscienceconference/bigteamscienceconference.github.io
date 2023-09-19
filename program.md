@@ -20,7 +20,7 @@ title: program
 <br>
 
 <h4>Previous Conferences</h4>
-<h3 align="center"><a href="https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing" target="blank">2022 BTS Conference Program</a></h3>
+<h3><a href="https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing" target="blank">2022 BTS Conference Program</a></h3>
 
 ***
 
