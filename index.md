@@ -129,7 +129,7 @@ The second annual BTSCON will be held virtually via Zoom <b>October 23-25, 2023 
         <h4><i>Panel</i></h4>
         <h3><a href="https://open-sci.cn/" target="_blank">Open Science in Developing Countries</a></h3>
         <b>Chair: <a href="https://huchuanpeng.com/" target="_blank">Hu Chuan-Peng</a></b>, <i>Nanjing Normal University, China</i><br>
-        <b>Additional Panelists: Alma Jeftic, Leonardo Seda, Samiul Hossain, Zhiqi Xu, and Nikita Ghodke</b>
+        <b>Additional Panelists: <a href="https://scholar.google.com/citations?user=oXBgT5IAAAAJ&hl=en" target="_blank">Alma Jeftic</a>, <a href="https://scholar.google.com/citations?user=ai7FVGoAAAAJ&hl=en&oi=sra" target="_blank">Leonardo Seda</a>, <a href="https://researchers.mq.edu.au/en/persons/samiul-hossain" target="_blank">Samiul Hossain</a>, Zhiqi Xu, and <a href="https://www.nikitaghodke.com/" target="_blank">Nikita Ghodke</a></b>
       </div>
     </div>
     <div class="col-sm-12">
