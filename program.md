@@ -8,7 +8,7 @@ title: program
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRjEo4C0ED_1zqmipc2BnWZPFU-kaEL6YbXhkuehNbuQEhp4g8ue394QZLJb6hx0znx0tolHuSXmOCT/pub?embedded=true" width="750" height="500"></iframe>
 
-<h3 align="center"><a href="https://docs.google.com/document/d/1oaoYdM5wclx9PRBcThPSmPXMQvmGHZB2qbF-h7c_vok/edit?usp=sharing" target="blank">View and download the 2023 BTS Conference Program here</a></h3>
+<h3><a href="https://docs.google.com/document/d/1oaoYdM5wclx9PRBcThPSmPXMQvmGHZB2qbF-h7c_vok/edit?usp=sharing" target="blank">View and download the 2023 BTS Conference Program here</a></h3>
 > Note: Session times subject to change
 
 <br>
