@@ -101,7 +101,7 @@ The second annual BTSCON will be held virtually via Zoom <b>October 23-25, 2023 
       <div class="col-sm-8">
         <h4><i>Hackathon</i></h4>
         <h3><a href="http://manymanys.github.io/MM1/" target="_blank">ManyManys 1: Reversal Learning</a></h3>
-        <b>Chairs: <a href="https://www.researchgate.net/profile/Nicolas-Alessandroni" target="_blank">Nicolás Alessandroni</a></b>, <i>Concordia University, Canada</i> & <a href="https://www.pittstate.edu/education/psychology-and-counseling/faculty-and-staff/laurent-pr%C3%A9t%C3%B4t.html" target="_blank"><b>Laurent Prétôt</b></a>, <i>Pittsburgh State University, US</i>
+        <b>Chairs: <a href="https://www.researchgate.net/profile/Nicolas-Alessandroni" target="_blank">Nicolás Alessandroni</a></b>, <i>Concordia University, Canada</i> & <a href="https://www.pittstate.edu/education/psychology-and-counseling/faculty-and-staff/laurent-pr%C3%A9t%C3%B4t.html" target="_blank"><b>Laurent Prétôt</b></a>, <i>Pittsburg State University, US</i>
       </div>
     </div>
     <div class="col-sm-12">
