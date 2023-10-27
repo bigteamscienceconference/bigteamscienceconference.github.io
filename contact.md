@@ -24,4 +24,4 @@ Send questions about BTSCON to our [**Conference Email**](mailto:bigteamsciencec
 
 ***
 
-To report a violation of the BTSCON Code of Conduct and/or Meeting Rules, please email us or fill out the form embedded at the bottom of the [Code of Conduct]({{site.baseurl}}/codeofconduct/).
+> To report a violation of the BTSCON Code of Conduct and/or Meeting Rules, please email us or fill out the form embedded at the bottom of the [Code of Conduct]({{site.baseurl}}/codeofconduct/).
