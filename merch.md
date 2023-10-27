@@ -4,7 +4,7 @@ title: merch
 <!--cover-img: /assets/img/events_blank.png-->
 ---
 
-## Make your own 2023 BTSCON merch! 
+## Make your own BTSCON merch! 
 
 We welcome conference attendees to create their own merch using our official graphics *(simply right click on an image and choose "Save Image As...")*. We'd love to see pictures of any merch you create, so make sure to [share them with us](mailto:bigteamscienceconference@gmail.com)!
 <br>
