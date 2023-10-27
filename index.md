@@ -185,16 +185,16 @@ The second annual BTSCON was held virtually via Zoom <b>October 23-25, 2023 (10:
 	<br>
 	<div class="container">
 		<div class="row justify-content-around">
-		  <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2" align="center">
+		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
 		    <a href="https://manybabies.github.io" class="image" target="_blank"><img src="/assets/img/MB_logo.png" alt="ManyBabies" width="100" height="100"></a>
 		  </div>
-		  <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2" align="center">
+		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
 		    <a href="https://manydogsproject.github.io/" class="image" target="_blank"><img src="/assets/img/manydogs_logo_circle.png" alt="ManyDogs" width="100" height="100"></a>
 		  </div>
-      <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2" align="center">
+      <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
 			  <a href="https://manyprimates.github.io" class="image" target="_blank"><img src="/assets/img/mp_logo_notext2.png" alt="ManyPrimates" width="100" height="100"></a>
 		  </div>
-		  <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2" align="center">
+		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
 			  <a href="https://psysciacc.org/" class="image" target="_blank"><img src="/assets/img/psa_logo.png" alt="PSA" width="100" height="100"></a>
 		  </div>
 	  </div>
