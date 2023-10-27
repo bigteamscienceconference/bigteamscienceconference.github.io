@@ -17,7 +17,7 @@ layout: page
 
 <p>Thanks to everyone who presented and attended for making the 2023 BTSCON a fantastic event. We look forward to seeing you all at next year's conference!</p>
 
-
+***
 ### Quick Links:
 * <b><a href="{{site.baseurl}}/program/">2023 Program and session formats</a></b>
 * <b><a href="{{site.baseurl}}/codeofconduct/">Code of conduct & meeting rules</a></b>

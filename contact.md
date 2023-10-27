@@ -6,13 +6,13 @@ title: contact
 
 Send questions about BTSCON to our [**Conference Email**](mailto:bigteamscienceconference@gmail.com) or to any of the organizers. <br>
 
-### Organizers
+### 2023 Organizers
 * [**Heidi Baumgartner**](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, US - ManyBabies* [[email]](mailto:heidib@stanford.edu)
 * [**Nicholas Coles**](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, US - Psychological Science Accelerator* [[email]](mailto:ncoles@stanford.edu)
 * [**Drew Altschul**](https://www.ed.ac.uk/profile/drewmaltschul), *University of Edinburgh, UK - ManyPrimates* [[email]](mailto:Drew.Altschul@ed.ac.uk)
 * [**Julia Espinosa**](https://sites.google.com/view/jespinosa?pli=1), *Harvard University, US - ManyDogs* [[email]](mailto:jespinosa@g.harvard.edu)
 
-### Accessibility Consultant
+### 2023 Accessibility Consultant
 * [**Liz Hare**](http://www.doggenetics.com/), *ManyDogs* [[email]](mailto:LizHare@DogGenetics.com)
 
 ### 2023 Program Committee
