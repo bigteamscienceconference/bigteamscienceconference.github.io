@@ -16,7 +16,7 @@ If you would like to support the big team science efforts of our sponsor organiz
 
 ***
 
-<h4>2023 BTSCON Registration Info</h4>
+<h3>2023 BTSCON Registration Info</h3>
 To balance inclusivity with our funding needs, *registration fees for the 2023 Big Team Science Conference are optional*. You can pay what you want, and we have provided a list of **suggested** fees:
 
 #### USA, Canada, Western Europe, Australia, New Zealand
