@@ -4,7 +4,12 @@ title: registration
 <!--cover-img: /assets/img/events_blank.png-->
 ---
 
+<!--
 <h2 align="center"> >>> <a href="https://opencollective.com/psysciacc/events/2023-big-team-science-conference-75ba08f5/contribute/registration-2023-big-team-science-conference-59364" target="_blank">Register Here!</a> <<< </h2>
+-->
+
+<h2 align="center">Registration for the 2023 BTSCON is closed</h2>
+
 
 To balance inclusivity with our funding needs, *registration fees for the 2023 Big Team Science Conference are optional*. You can pay what you want, and we have provided a list of **suggested** fees:
 

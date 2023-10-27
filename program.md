@@ -4,12 +4,16 @@ title: program
 <!--cover-img: /assets/img/events_blank.png-->
 ---
 
+<!--
 <h4 align="center"><i>Note:</i> The live conference schedule with links to sessions will be provided to conference registrants via email. To access the live schedule, <a href="{{site.baseurl}}/registration/">REGISTER NOW</a></h4>
+-->
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRjEo4C0ED_1zqmipc2BnWZPFU-kaEL6YbXhkuehNbuQEhp4g8ue394QZLJb6hx0znx0tolHuSXmOCT/pub?embedded=true" width="750" height="500"></iframe>
 
 <h3><a href="https://docs.google.com/document/d/1oaoYdM5wclx9PRBcThPSmPXMQvmGHZB2qbF-h7c_vok/edit?usp=sharing" target="blank">View and download the 2023 BTS Conference Program here</a></h3>
+<!--
 > Note: Session times subject to change
+-->
 
 <br>
 
@@ -22,7 +26,7 @@ title: program
 
 ## Sessions
 
-The conference will feature symposia, panel sessions, hackathons, talks, and unconferences. Sessions will feature presentations from groups and individuals who are interested in sharing any work related to Big Team Science. This includes, but is not limited to: completed and/or new large-scale collaborations, crowdsourced efforts, and citizen science projects; science of team science [meta-science] work; re-analysis of data from large-scale collaborations; related infrastructure and policy projects; and more!
+Session formats are: symposia, panel sessions, hackathons, talks, and unconferences. Sessions will feature presentations from groups and individuals who are interested in sharing any work related to Big Team Science. This includes, but is not limited to: completed and/or new large-scale collaborations, crowdsourced efforts, and citizen science projects; science of team science [meta-science] work; re-analysis of data from large-scale collaborations; related infrastructure and policy projects; and more!
 
 <section>
   <div class="container">

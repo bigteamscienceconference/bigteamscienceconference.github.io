@@ -7,14 +7,15 @@ layout: page
 
 <!--
 <h2 align="center"><a href="{{site.baseurl}}/submissions/">Submissions</a> and <a href="{{site.baseurl}}/registration/">Registration</a> are now open!</h2>
--->
+
 
 <h2 align="center"><a href="{{site.baseurl}}/registration/">Registration</a> is open!</h2>
+-->
 
 <h2 align="center">View the <a href="{{site.baseurl}}/program/">Conference Program</a></h2>
 
 
-The second annual BTSCON will be held virtually via Zoom <b>October 23-25, 2023 (10:00 - 21:00 UTC)</b>. The goal of this three-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. 
+The second annual BTSCON was held virtually via Zoom <b>October 23-25, 2023 (10:00 - 21:00 UTC)</b>. The goal of this three-day virtual conference was to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. 
 
 ### Quick Links:
 * <b><a href="{{site.baseurl}}/program/">Program and session formats</a></b>
