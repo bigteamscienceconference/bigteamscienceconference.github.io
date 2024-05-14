@@ -7,12 +7,13 @@ title: registration
 <h2 align="center"> >>> <a href="https://opencollective.com/psysciacc/events/2023-big-team-science-conference-75ba08f5/contribute/registration-2023-big-team-science-conference-59364" target="_blank">Register Here!</a> <<< </h2>
 -->
 
-<h2 align="center">Registration for the 2023 BTSCON is closed</h2>
+<h2 align="center">Registration for the 2024 BTSCON is coming soon!</h2>
 
+<!--
 ***
 
 > If you would like to support the big team science efforts of our sponsor organizations before the next conference, you can make a tax-deductible donation to the [ManyBabies financial collective](https://opencollective.com/manybabies) and/or [Psychological Science Accelerator financial collective](https://opencollective.com/psysciacc). 
-
+-->
 
 ***
 

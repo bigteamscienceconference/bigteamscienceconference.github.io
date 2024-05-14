@@ -1,34 +1,23 @@
 ---
 layout: page
+title: 2023 BTSCON
+<!--cover-img: /assets/img/events_blank.png-->
 ---
 
 
-<img src="/assets/img/BTSCon2024_logo.png" alt="" />
-
-<!--
-<h2 align="center"><a href="{{site.baseurl}}/submissions/">Submissions</a> and <a href="{{site.baseurl}}/registration/">Registration</a> are now open!</h2>
-
-
-<h2 align="center"><a href="{{site.baseurl}}/registration/">Registration</a> is open!</h2>
--->
-## Information about the 2024 BTSCON is coming soon!
-
-<p>The second annual Big Team Science Conference was held virtually via Zoom <b>October 23-25, 2023 (10:00 - 21:00 UTC)</b>. The goal of this three-day virtual conference was to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. </p>
-
-<p>Thanks to everyone who presented and attended for making the 2023 BTSCON a fantastic event. We look forward to seeing you all at next year's conference!</p>
+The 2nd annual BTSCON was held virtually on October 23-25, 2023. The goal of this three-day virtual conference was to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. We had over 450 registrants, 2 keynote speakers, 5 panels, 4 hackathons, 8 symposia, 27 talks, & 6 lightning talks over 2 jam-packed days.
 
 ***
-### Quick Links:
-* <b><a href="{{site.baseurl}}/program/">2023 Program and session formats</a></b>
-* <b><a href="{{site.baseurl}}/codeofconduct/">Code of conduct & meeting rules</a></b>
-* <b><a href="{{site.baseurl}}/access/">Accessibility information</a></b>
-* <b><a href="#sponsors">Sponsor organizations</a></b>
-* <b><a href="{{site.baseurl}}/contact/">Contact us</a></b>
+### Program
 
+The 2023 BTSCON program consisted of amazing keynotes, hackathons, panels, and talks from BTS experts and contributors from around the world. 
+
+#### [VIEW THE 2023 BTSCON PROGRAM](https://docs.google.com/document/d/1oaoYdM5wclx9PRBcThPSmPXMQvmGHZB2qbF-h7c_vok/edit?usp=sharing) 
+
+<br>
 
 ***
-
-<h2 id="keynotes">2023 Keynote Presenters</h2>
+### 2023 Keynote Speakers
 
 <section>
   <div class="container">
@@ -156,30 +145,16 @@ layout: page
 
 <br>
 
-
-
-<!--
-***
-## [Program]({{site.baseurl}}/schedule/) 
--->
-
-
-<!--
 ***
 
-## Important Dates
-
-* **Submissions Open:** June 7, 2022
-* **Submission Deadline:** ~~July 22, 2022~~ Extended to August 5, 2022
-* **Submission Decisions:** August 5, 2022 (or soon after, for late submissions)
-* **Registration Open:** August, 2022
-* **Conference:** October 27-28, 2022
-
-> View the [BTScon calendar](https://calendar.google.com/calendar/embed?src=bigteamscienceconference%40gmail.com&ctz=America%2FNew_York)
--->
-
+### 2023 BTSCON Organizers
+* [**Heidi Baumgartner**](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, US - ManyBabies* [[email]](mailto:heidib@stanford.edu)
+* [**Nicholas Coles**](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, US - Psychological Science Accelerator* [[email]](mailto:ncoles@stanford.edu)
+* [**Drew Altschul**](https://www.ed.ac.uk/profile/drewmaltschul), *University of Edinburgh, UK - ManyPrimates* [[email]](mailto:Drew.Altschul@ed.ac.uk)
+* [**Julia Espinosa**](https://sites.google.com/view/jespinosa?pli=1), *Harvard University, US - ManyDogs* [[email]](mailto:jespinosa@g.harvard.edu)
 
 ***
+
 <h2 id="sponsors">Sponsor Organizations</h2>
 
 <section>
@@ -190,14 +165,14 @@ layout: page
 		    <a href="https://manybabies.github.io" class="image" target="_blank"><img src="/assets/img/MB_logo.png" alt="ManyBabies" width="100" height="100"></a>
 		  </div>
 		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
+		    <a href="https://manydogsproject.github.io/" class="image" target="_blank"><img src="/assets/img/manydogs_logo_circle.png" alt="ManyDogs" width="100" height="100"></a>
+		  </div>
+      <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
+			  <a href="https://manyprimates.github.io" class="image" target="_blank"><img src="/assets/img/mp_logo_notext2.png" alt="ManyPrimates" width="100" height="100"></a>
+		  </div>
+		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
 			  <a href="https://psysciacc.org/" class="image" target="_blank"><img src="/assets/img/psa_logo.png" alt="PSA" width="100" height="100"></a>
 		  </div>
 	  </div>
 	</div>
 </section>
-
-<br>
-
-***
-*icon attribution: <a href="http://www.freepik.com" target="_blank">Session</a> icons designed by macrovector / Freepik;
-<a href="https://www.flaticon.com/" target="_blank">Submission</a> icons created by Freepik - Flaticon*

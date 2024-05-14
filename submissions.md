@@ -14,11 +14,12 @@ Submissions for all <a href="#sessions">session types</a> are now open!
 * *Talks, lightning talks, and unconferences:* maximum 250 words
 -->
 
-<h2 align="center">Submissions for the 2023 BTSCON are closed</h2>
+<h2 align="center">More information about 2024 conference submissions coming soon!</h2>
 
+<!--
 <h3 align="center">Deadline: <s>July 31, 2023</s> extended to August 14, 2023</h3>
 <br>
-
+-->
 
 ***
 <h2 id="sessions">Session Formats</h2>
