@@ -5,7 +5,7 @@ title: 2023 BTSCON
 ---
 
 
-The 2nd annual BTSCON was held virtually on October 23-25, 2023. The goal of this three-day virtual conference was to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. We had over 450 registrants, 2 keynote speakers, 5 panels, 4 hackathons, 8 symposia, 27 talks, & 6 lightning talks over 2 jam-packed days.
+The 2nd annual BTSCON was held virtually on October 23-25, 2023. The goal of this three-day virtual conference was to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. 
 
 ***
 ### Program
