@@ -9,8 +9,8 @@ Send questions about BTSCON to our [**Conference Email**](mailto:bigteamsciencec
 ### 2024 Organizers
 * [**Heidi Baumgartner**](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, US - ManyBabies* [[email]](mailto:heidib@stanford.edu)
 * [**Erin Buchanan**](https://www.aggieerin.com/), *Harrisburg University of Science and Technology, US - Psychological Science Accelerator* [[email]](mailto:buchananlab@gmail.com)
-* [**Nicholas Coles**](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, US - Psychological Science Accelerator* [[email]](mailto:ncoles@stanford.edu)
 * [**Savannah Lewis**](https://savannahclewis.wordpress.com/), *University of Alabama, US - Psychological Science Accelerator* [[email]](mailto:)
+* [**Nicholas Coles**](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, US* [[email]](mailto:ncoles@stanford.edu)
 
 <!--
 ### 2023 Accessibility Consultant
