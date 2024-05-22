@@ -45,7 +45,7 @@ layout: page
       </div>
       <div class="col-sm-8">
         <h3><a href="https://mbrg.bsg.ox.ac.uk/person/noam-angrist" target="_blank">Noam Angrist, Ph.D.</a></h3>
-        <i>Oxford University, UK</i>
+        <i>University of Oxford, UK</i>
         <h4>The What Works Hub for Global Education</h4>
       </div>
     </div>
