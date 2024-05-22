@@ -16,6 +16,7 @@ author: Heidi Baumgartner
 navbar-links:
   Home: "index"
   Meeting Info: 
+    - Submissions: "submissions"
     - Registration: "registration"
     - Program: "program"
     - Accessibility: "access"
