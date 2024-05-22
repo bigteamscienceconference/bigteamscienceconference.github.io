@@ -18,13 +18,15 @@ Submissions for all <a href="#sessions">session types</a> are now open!
 
 <!--
 <h3 align="center">Deadline: <s>July 31, 2023</s> extended to August 14, 2023</h3>
-<br>
 -->
+
+<br>
+
 
 ***
 <h2 id="sessions">Session Formats</h2>
 
-The conference will feature symposia, panel sessions, hackathons, talks, lightning talks, and unconferences. Sessions will feature presentations from groups and individuals who are interested in sharing any work related to Big Team Science. This includes, but is not limited to: completed and/or new large-scale collaborations, crowdsourced efforts, and citizen science projects; science of team science [meta-science] work; re-analysis of data from large-scale collaborations; related infrastructure and policy projects; and more!
+The conference will feature Symposia, Panel sessions, Hackathons, Talks, Lightning Talks, and Unconferences. Sessions will feature presentations from groups and individuals who are interested in sharing any work related to Big Team Science. This includes, but is not limited to: completed and/or new large-scale collaborations, crowdsourced efforts, and citizen science projects; science of team science [meta-science] work; re-analysis of data from large-scale collaborations; related infrastructure and policy projects; and more!
 
 <section>
   <div class="container">
