@@ -46,7 +46,7 @@ layout: page
       <div class="col-sm-8">
         <h3><a href="https://mbrg.bsg.ox.ac.uk/person/noam-angrist" target="_blank">Noam Angrist, Ph.D.</a></h3>
         <i>Academic Director of the What Works Hub for Global Education | University of Oxford, UK</i>
-        <h4>The What Works Hub for Global Education</h4>
+        <h4>Title TBA</h4>
       </div>
     </div>
     <div class="row">
