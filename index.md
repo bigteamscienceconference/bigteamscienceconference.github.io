@@ -13,9 +13,11 @@ layout: page
 -->
 ## Information about the 2024 BTSCON is coming soon!
 
-<p>The second annual Big Team Science Conference was held virtually via Zoom <b>October 23-25, 2023 (10:00 - 21:00 UTC)</b>. The goal of this three-day virtual conference was to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. </p>
+<p>The third annual Big Team Science Conference will be held virtually via Zoom in <b>October, 2024</b> (exact dates TBA). The goal of this three-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. </p>
 
+<!--
 <p>Thanks to everyone who presented and attended for making the <a href="{{site.baseurl}}/2023btscon/">2023 BTSCON</a> a fantastic event. We look forward to seeing you all at the 2024 conference!</p>
+-->
 
 ***
 ### Quick Links:
@@ -28,8 +30,7 @@ layout: page
 
 ***
 
-<!--
-<h2 id="keynotes">2023 Keynote Presenters</h2>
+<h2 id="keynotes">2024 Keynote Presenters</h2>
 
 <section>
   <div class="container">
@@ -41,12 +42,12 @@ layout: page
     <div class="row">
       <div class="col-sm-4 col-xs-6" align="center">
         <br>
-        <a href="https://as.nyu.edu/faculty/madalina-vlasceanu.html" target="_blank"><img src="/assets/img/Vlasceanu_headshot.jpg" alt="Madalina Vlasceanu, Ph.D." width="200" height="200"></a>
+        <a href=https://mbrg.bsg.ox.ac.uk/person/noam-angrist"" target="_blank"><img src="/assets/img/BTSCON.png" alt="Noam Angrist, Ph.D." width="200" height="200"></a>
       </div>
       <div class="col-sm-8">
-        <h3><a href="https://as.nyu.edu/faculty/madalina-vlasceanu.html" target="_blank">Madalina Vlasceanu, Ph.D.</a></h3>
-        <i>Assistant Professor, Psychology, New York University, US; International Collaboration to Understand Climate Action</i>
-        <h4>Global collaborations improve the impact of behavioral science: Examples from a manylabs megastudy to increase climate action</h4>
+        <h3><a href="https://mbrg.bsg.ox.ac.uk/person/noam-angrist" target="_blank">Noam Angrist, Ph.D.</a></h3>
+        <i>Oxford University, UK</i>
+        <h4>The What Works Hub for Global Education</h4>
       </div>
     </div>
     <div class="row">
@@ -57,12 +58,12 @@ layout: page
     <div class="row">
       <div class="col-sm-4 col-xs-6" align="center">
         <br>
-        <a href="https://research-information.bris.ac.uk/en/persons/marcus-r-munafo" target="_blank"><img src="/assets/img/Munafo_headshot.jpg" alt="Marcus Munafo, Ph.D." width="200" height="200"></a>
+        <a href="https://sites.google.com/site/annadreber/" target="_blank"><img src="/assets/img/Dreber_headshot.jpg" alt="Anna Dreber, Ph.D." width="200" height="200"></a>
       </div>
       <div class="col-sm-8">
-        <h3><a href="https://research-information.bris.ac.uk/en/persons/marcus-r-munafo" target="_blank">Marcus Munafo, Ph.D.</a></h3>
-        <i>Professor of Biological Psychology and MRC Investigator, University of Bristol, UK; UK Reproducibility Project</i>
-        <h4>Collaborative approaches to improving research culture and practice</h4>
+        <h3><a href="https://sites.google.com/site/annadreber/" target="_blank">Anna Dreber Almenberg, Ph.D.</a></h3>
+        <i>Stockholm School of Economics, Sweden</i>
+        <h4>Replication by plebiscite: Examining the replicability of online experiments selected by a decision market</h4>
       </div>
     </div>
     <div class="row">
@@ -73,21 +74,21 @@ layout: page
     <div class="row">
       <div class="col-sm-4 col-xs-6" align="center">
         <br>
-        <a href="https://codata.org/appointment-of-director-and-deputy-director-of-the-african-open-science-platform/" target="_blank"><img src="/assets/img/Mchunu_headshot.jpg" alt="Nokuthula Mchunu, Ph.D." width="200" height="200"></a>
+        <a href="" target="_blank"><img src="/assets/img/Poldrack_headshot.jpg" alt="Russell Poldrack, Ph.D." width="200" height="200"></a>
       </div>
       <div class="col-sm-8">
-        <h3><a href="https://codata.org/appointment-of-director-and-deputy-director-of-the-african-open-science-platform/" target="_blank">Nokuthula Mchunu, Ph.D.</a></h3>
-        <i>Deputy Director, The National Research Foundation of South Africa</i>
-        <h4>African Open Science Platform</h4>
+        <h3><a href="" target="_blank">Russell Poldrack, Ph.D.</a></h3>
+        <i>Stanford University, US</i>
+        <h4>Developing standards as a community: The Brain Imaging Data Structure</h4>
       </div>
     </div>
   </div>
 </section>
 <br>
 
-
+<!--
 ***
-<h2 id="invited">2023 Invited Sessions</h2>
+<h2 id="invited">2024 Invited Sessions</h2>
 
 <section>
   <div class="container">
