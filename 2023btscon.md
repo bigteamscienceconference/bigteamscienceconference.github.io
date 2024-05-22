@@ -155,6 +155,14 @@ The 2023 BTSCON program consisted of amazing keynotes, hackathons, panels, and t
 
 ***
 
+### 2023 Program Committee
+* [**Haixin Dang**](http://www.haixindang.com/), *Philosophy of Science, University of Nebraska, US*
+* [**Aishwarya Iyer**](https://scholar.google.com/citations?user=zkHndXUAAAAJ&hl=en), *Psychology, Christ University, India*
+* [**Vedrana Šlipogor**](https://zoo.prf.jcu.cz/index.php/staff-item/slipogor-vedrana/?lang=en), *Zoology, University of South Bohemia, Czechia*
+* [**Robert Thibault**](https://metrics.stanford.edu/people/robert-thibault), *METRICS, Stanford University, US*
+
+***
+
 <h2 id="sponsors">Sponsor Organizations</h2>
 
 <section>
