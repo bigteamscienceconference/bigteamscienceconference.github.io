@@ -159,8 +159,9 @@ layout: page
 <br>
 -->
 
-## More information about the 2024 BTSCON is coming soon!
+### More information about the 2024 BTSCON is coming soon!
 
+<br>
 
 <!--
 ***
