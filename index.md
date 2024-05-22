@@ -41,7 +41,7 @@ layout: page
     <div class="row">
       <div class="col-sm-4 col-xs-6" align="center">
         <br>
-        <a href="https://mbrg.bsg.ox.ac.uk/person/noam-angrist" target="_blank"><img src="/assets/img/BTSCON.png" alt="Noam Angrist, Ph.D." width="200" height="200"></a>
+        <a href="https://mbrg.bsg.ox.ac.uk/person/noam-angrist" target="_blank"><img src="/assets/img/Angrist_headshot.jpg" alt="Noam Angrist, Ph.D." width="200" height="200"></a>
       </div>
       <div class="col-sm-8">
         <h3><a href="https://mbrg.bsg.ox.ac.uk/person/noam-angrist" target="_blank">Noam Angrist, Ph.D.</a></h3>
