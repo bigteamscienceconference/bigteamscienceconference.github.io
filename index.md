@@ -11,7 +11,6 @@ layout: page
 
 <h2 align="center"><a href="{{site.baseurl}}/registration/">Registration</a> is open!</h2>
 -->
-## Information about the 2024 BTSCON is coming soon!
 
 <p>The third annual Big Team Science Conference will be held virtually via Zoom in <b>October, 2024</b> (exact dates TBA). The goal of this three-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. </p>
 
@@ -42,7 +41,7 @@ layout: page
     <div class="row">
       <div class="col-sm-4 col-xs-6" align="center">
         <br>
-        <a href=https://mbrg.bsg.ox.ac.uk/person/noam-angrist"" target="_blank"><img src="/assets/img/BTSCON.png" alt="Noam Angrist, Ph.D." width="200" height="200"></a>
+        <a href="https://mbrg.bsg.ox.ac.uk/person/noam-angrist" target="_blank"><img src="/assets/img/BTSCON.png" alt="Noam Angrist, Ph.D." width="200" height="200"></a>
       </div>
       <div class="col-sm-8">
         <h3><a href="https://mbrg.bsg.ox.ac.uk/person/noam-angrist" target="_blank">Noam Angrist, Ph.D.</a></h3>
@@ -85,6 +84,7 @@ layout: page
   </div>
 </section>
 <br>
+
 
 <!--
 ***
@@ -158,6 +158,8 @@ layout: page
 
 <br>
 -->
+
+## More information about the 2024 BTSCON is coming soon!
 
 
 <!--
