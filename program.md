@@ -15,15 +15,11 @@ title: program
 > Note: Session times subject to change
 -->
 
-<br>
-
-<h4>Previous Conferences</h4>
-
-<h3><a href="https://docs.google.com/document/d/1oaoYdM5wclx9PRBcThPSmPXMQvmGHZB2qbF-h7c_vok/edit?usp=sharing" target="blank">2023 BTS Conference Program</a></h3>
-
-<h3><a href="https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing" target="blank">2022 BTS Conference Program</a></h3>
+<h2 align="center">The 2024 conference program will be released in September, 2024</h2>
 
 <br>
+
+
 
 ***
 
@@ -44,6 +40,16 @@ Session formats are: Symposia, Panel sessions, Hackathons, Talks, Lightning Talk
 
 ***
 -->
+
+<h4>Previous Conferences</h4>
+
+<h3><a href="https://docs.google.com/document/d/1oaoYdM5wclx9PRBcThPSmPXMQvmGHZB2qbF-h7c_vok/edit?usp=sharing" target="blank">2023 BTS Conference Program</a></h3>
+
+<h3><a href="https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing" target="blank">2022 BTS Conference Program</a></h3>
+
+<br>
+
+***
 
 ### Contact us
 If you have any questions about BTSCON, [contact us](mailto:bigteamscienceconference@gmail.com).
