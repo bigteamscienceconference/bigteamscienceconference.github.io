@@ -73,10 +73,10 @@ layout: page
     <div class="row">
       <div class="col-sm-4 col-xs-6" align="center">
         <br>
-        <a href="" target="_blank"><img src="/assets/img/Poldrack_headshot.jpg" alt="Russell Poldrack, Ph.D." width="200" height="200"></a>
+        <a href="https://poldrack.github.io/" target="_blank"><img src="/assets/img/Poldrack_headshot.jpg" alt="Russell Poldrack, Ph.D." width="200" height="200"></a>
       </div>
       <div class="col-sm-8">
-        <h3><a href="" target="_blank">Russell Poldrack, Ph.D.</a></h3>
+        <h3><a href="https://poldrack.github.io/" target="_blank">Russell Poldrack, Ph.D.</a></h3>
         <i>Stanford University, US</i>
         <h4>Developing standards as a community: The Brain Imaging Data Structure</h4>
       </div>
