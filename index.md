@@ -45,7 +45,7 @@ layout: page
       </div>
       <div class="col-sm-8">
         <h3><a href="https://mbrg.bsg.ox.ac.uk/person/noam-angrist" target="_blank">Noam Angrist, Ph.D.</a></h3>
-        <i>University of Oxford, UK</i>
+        <i>Academic Director of the What Works Hub for Global Education | University of Oxford, UK</i>
         <h4>The What Works Hub for Global Education</h4>
       </div>
     </div>
@@ -61,7 +61,7 @@ layout: page
       </div>
       <div class="col-sm-8">
         <h3><a href="https://sites.google.com/site/annadreber/" target="_blank">Anna Dreber Almenberg, Ph.D.</a></h3>
-        <i>Stockholm School of Economics, Sweden</i>
+        <i>Professor of Economics | Stockholm School of Economics, Sweden</i>
         <h4>Replication by plebiscite: Examining the replicability of online experiments selected by a decision market</h4>
       </div>
     </div>
@@ -77,7 +77,7 @@ layout: page
       </div>
       <div class="col-sm-8">
         <h3><a href="https://poldrack.github.io/" target="_blank">Russell Poldrack, Ph.D.</a></h3>
-        <i>Stanford University, US</i>
+        <i>Professor of Psychology | Stanford University, US</i>
         <h4>Developing standards as a community: The Brain Imaging Data Structure</h4>
       </div>
     </div>
