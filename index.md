@@ -61,7 +61,7 @@ layout: page
       </div>
       <div class="col-sm-8">
         <h3><a href="https://sites.google.com/site/annadreber/" target="_blank">Anna Dreber Almenberg, Ph.D.</a></h3>
-        <i>Professor of Economics | Stockholm School of Economics, Sweden</i>
+        <i>Johan Björkman Professor of Economics | Stockholm School of Economics, Sweden</i>
         <h4>Replication by plebiscite: Examining the replicability of online experiments selected by a decision market</h4>
       </div>
     </div>
@@ -77,7 +77,7 @@ layout: page
       </div>
       <div class="col-sm-8">
         <h3><a href="https://poldrack.github.io/" target="_blank">Russell Poldrack, Ph.D.</a></h3>
-        <i>Professor of Psychology | Stanford University, US</i>
+        <i>Director of the SDS Center for Open and Reproducible Science & Professor of Psychology | Stanford University, US</i>
         <h4>Developing standards as a community: The Brain Imaging Data Structure</h4>
       </div>
     </div>
