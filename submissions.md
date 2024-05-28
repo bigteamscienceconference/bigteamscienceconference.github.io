@@ -3,22 +3,17 @@ layout: page
 title: submissions
 ---
 
-<!--
-<h2 align="center"> >>> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdcO9h6tximi6N81asTWSGHpcJ9e_ayZkeLD_6U33I3AZcNAg/viewform?usp=sf_link" target="_blank">Submit your abstract here!</a> <<< </h2> 
 
+<h2 align="center"> >>> <a href="https://docs.google.com/forms/d/e/1FAIpQLSe7NNvWpghj1yrqIJjj1M_AcXIG1vOruYEkkPthZ8c8puuo3Q/viewform?usp=sf_link" target="_blank">Submit your abstract here!</a> <<< </h2> 
 
 Submissions for all <a href="#sessions">session types</a> are now open! 
-
 
 * *Panels, hackathons, and symposia:* maximum 500 words
 * *Talks, lightning talks, and unconferences:* maximum 250 words
 -->
 
-<h2 align="center">More information about 2024 conference submissions coming soon!</h2>
+<h3 align="center">Deadline: July 31, 2024</h3>
 
-<!--
-<h3 align="center">Deadline: <s>July 31, 2023</s> extended to August 14, 2023</h3>
--->
 
 <br>
 

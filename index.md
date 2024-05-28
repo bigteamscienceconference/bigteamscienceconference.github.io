@@ -5,14 +5,13 @@ layout: page
 
 <img src="/assets/img/BTSCon2024_logo.png" alt="" />
 
+<h2 align="center"><a href="{{site.baseurl}}/submissions/">Submissions</a> are now open!</h2>
+
 <!--
-<h2 align="center"><a href="{{site.baseurl}}/submissions/">Submissions</a> and <a href="{{site.baseurl}}/registration/">Registration</a> are now open!</h2>
-
-
 <h2 align="center"><a href="{{site.baseurl}}/registration/">Registration</a> is open!</h2>
 -->
 
-<p>The third annual Big Team Science Conference will be held virtually via Zoom in <b>October, 2024</b> (exact dates TBA). The goal of this three-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. </p>
+<p>The third annual Big Team Science Conference will be held virtually via Zoom <b>October 8-10, 2024</b>. The goal of this three-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. </p>
 
 <!--
 <p>Thanks to everyone who presented and attended for making the <a href="{{site.baseurl}}/2023btscon/">2023 BTSCON</a> a fantastic event. We look forward to seeing you all at the 2024 conference!</p>
