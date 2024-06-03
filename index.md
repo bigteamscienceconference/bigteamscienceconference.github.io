@@ -17,7 +17,7 @@ layout: page
 <p>Thanks to everyone who presented and attended for making the <a href="{{site.baseurl}}/2023btscon/">2023 BTSCON</a> a fantastic event. We look forward to seeing you all at the 2024 conference!</p>
 -->
 
-***
+
 ### Quick Links:
 * <b><a href="{{site.baseurl}}/submissions/">Submission info</a></b>
 * <b><a href="{{site.baseurl}}/codeofconduct/">Code of conduct & meeting rules</a></b>
