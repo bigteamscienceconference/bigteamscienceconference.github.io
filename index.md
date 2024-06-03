@@ -47,8 +47,7 @@ layout: page
       </div>
       <div class="col-sm-8">
         <h3><a href="https://mbrg.bsg.ox.ac.uk/person/noam-angrist" target="_blank">Noam Angrist, Ph.D.</a></h3>
-        <i>Academic Director of the <a href="https://www.wwhge.org/" target="_blank">What Works Hub for Global Education</a><br>
-        University of Oxford, UK</i>
+        <i>Academic Director of the <a href="https://www.wwhge.org/" target="_blank">What Works Hub for Global Education</a> | University of Oxford, UK</i>
         <h4>Implementation matters: Generalising treatment effects in education</h4>
       </div>
     </div>
@@ -64,8 +63,7 @@ layout: page
       </div>
       <div class="col-sm-8">
         <h3><a href="https://sites.google.com/site/annadreber/" target="_blank">Anna Dreber Almenberg, Ph.D.</a></h3>
-        <i>Board member of the <a href="https://i4replication.org/" target="_blank">Institute for Replication</a> & Johan Björkman Professor of Economics<br>
-        Stockholm School of Economics, Sweden</i>
+        <i>Board member of the <a href="https://i4replication.org/" target="_blank">Institute for Replication</a> & Johan Björkman Professor of Economics | Stockholm School of Economics, Sweden</i>
         <h4>Replication by plebiscite: Examining the replicability of online experiments selected by a decision market</h4>
       </div>
     </div>
@@ -81,8 +79,7 @@ layout: page
       </div>
       <div class="col-sm-8">
         <h3><a href="https://poldrack.github.io/" target="_blank">Russell Poldrack, Ph.D.</a></h3>
-        <i>Director of the <a href="https://datascience.stanford.edu/cores" target="_blank">SDS Center for Open and Reproducible Science</a> & Professor of Psychology<br>
-        Stanford University, US</i>
+        <i>Director of the <a href="https://datascience.stanford.edu/cores" target="_blank">SDS Center for Open and Reproducible Science</a> & Professor of Psychology | Stanford University, US</i>
         <h4>Developing standards as a community: The Brain Imaging Data Structure</h4>
       </div>
     </div>
