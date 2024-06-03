@@ -26,7 +26,6 @@ layout: page
 * <b><a href="{{site.baseurl}}/contact/">Contact us</a></b>
 * <b><a href="{{site.baseurl}}/2023btscon/">2023 Conference info</a></b>
 
-<br>
 
 ***
 
