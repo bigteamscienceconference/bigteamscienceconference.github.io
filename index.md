@@ -88,9 +88,6 @@ layout: page
 
 ***
 
-### More information about the 2024 BTSCON is coming soon!
-
-
 <h2 id="invited">2024 Invited Sessions</h2>
 
 <section>
@@ -184,6 +181,10 @@ layout: page
 ***
 ## [Program]({{site.baseurl}}/schedule/) 
 -->
+
+***
+
+### More information about the 2024 BTSCON is coming soon!
 
 
 <!--
