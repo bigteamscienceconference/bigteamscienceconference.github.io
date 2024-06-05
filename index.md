@@ -174,9 +174,7 @@ layout: page
         <p>   </p>
     </div>
 -->
-
-<br>
-
+ 
 <!--
 ***
 ## [Program]({{site.baseurl}}/schedule/) 
@@ -186,6 +184,7 @@ layout: page
 
 ### More information about the 2024 BTSCON is coming soon!
 
+<br>
 
 <!--
 ***
@@ -203,6 +202,7 @@ layout: page
 
 
 ***
+
 <h2 id="sponsors">Sponsor Organizations</h2>
 
 <section>
