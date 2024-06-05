@@ -122,7 +122,7 @@ layout: page
       </div>
       <div class="col-sm-8">
         <h3><a href="https://sites.google.com/view/comp-music-lab/many-voices" target="_blank">Many Voices: A global collaboration investigating the relationship between music and language</a></h3>
-        <b>Presenter: <a href="" target="_blank">Yuto Ozaki</a></b>, <i> Keio University, Japan</i>
+        <b>Presenter: <a href="https://scholar.google.com/citations?user=qtxOpmMAAAAJ&hl=en&oi=ao" target="_blank">Yuto Ozaki</a></b>, <i>Keio University, Japan</i>
       </div>
     </div>
   </div>
