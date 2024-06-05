@@ -90,7 +90,7 @@ layout: page
 
 ### More information about the 2024 BTSCON is coming soon!
 
-<!--
+
 <h2 id="invited">2024 Invited Sessions</h2>
 
 <section>
@@ -100,6 +100,37 @@ layout: page
         <p>    </p>
       </div>
     </div>
+    <div class="row">
+      <div class="col-sm-4" align="center">
+        <br>
+        <a href="https://www.metadocencia.org/" target="_blank"><img src="/assets/img/metadocencia.png" alt="" width="200"></a>
+      </div>
+      <div class="col-sm-8">
+        <h3><a href="https://www.metadocencia.org/" target="_blank">What, why, and how of international Open Science communities of practice</a></h3>
+        <b>Presenter: <a href="https://www.metadocencia.org/authors/lacion/" target="_blank">Laura Ación</a></b>, <i>Executive Co-Director, MetaDocencia, Argentina</i>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12">
+        <p>    </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-4" align="center">
+        <br>
+        <a href="https://sites.google.com/view/comp-music-lab/many-voices" target="_blank"><img src="/assets/img/manyvoices.jpeg" alt="" width="200"></a>
+      </div>
+      <div class="col-sm-8">
+        <h3><a href="https://sites.google.com/view/comp-music-lab/many-voices" target="_blank">Many Voices: A global collaboration investigating the relationship between music and language</a></h3>
+        <b>Presenter: <a href="" target="_blank">Yuto Ozaki</a></b>, <i> Keio University, Japan</i>
+      </div>
+    </div>
+  </div>
+</section>
+
+<br>
+
+<!--
     <div class="row">
       <div class="col-sm-4" align="center">
         <br>
@@ -145,23 +176,7 @@ layout: page
     <div class="col-sm-12">
         <p>   </p>
     </div>
-    <div class="row">
-      <div class="col-sm-4" align="center">
-        <br>
-        <a href="https://epic-collab.github.io/" target="_blank"><img src="/assets/img/epic_logo.png" alt="epic project logo" width="200" height="200"></a>
-      </div>
-      <div class="col-sm-8">
-        <h4><i>Talk</i></h4>
-        <h3><a href="https://epic-collab.github.io/" target="_blank">The Emotion Physiology and Experience Collaboration</a></h3>
-        <b>Presenter: <a href="https://ai.pwr.edu.pl/author/bartosz-perz/" target="_blank">Bartek Perz</a></b>, <i>Wroclaw University of Science and Technology, Poland</i>
-      </div>
-    </div>
-  </div>
-</section>
-
-<br>
 -->
-
 
 <br>
 
