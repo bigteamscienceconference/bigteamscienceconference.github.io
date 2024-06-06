@@ -10,6 +10,8 @@ Send questions about BTSCON to our [**Conference Email**](mailto:bigteamsciencec
 * [**Heidi Baumgartner**](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, US - ManyBabies* [[email]](mailto:heidib@stanford.edu)
 * [**Erin Buchanan**](https://www.aggieerin.com/), *Harrisburg University of Science and Technology, US - Psychological Science Accelerator* [[email]](mailto:buchananlab@gmail.com)
 * [**Savannah Lewis**](https://savannahclewis.wordpress.com/), *University of Alabama, US - Psychological Science Accelerator* [[email]](mailto:)
+* [**Deborah Udoh**](https://www.we-are-ols.org/people#npdebs), OLS, UK [[email]](mailto:debs@we-are-ols.org)
+* [**Yo Yehudi**](http://we-are-ols.org), OLS, UK [[email]](mailto:yo@we-are-ols.org)
 * [**Nicholas Coles**](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, US* [[email]](mailto:ncoles@stanford.edu)
 
 <!--
