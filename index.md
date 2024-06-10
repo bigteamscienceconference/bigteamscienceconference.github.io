@@ -118,7 +118,7 @@ layout: page
         <a href="https://sites.google.com/view/comp-music-lab/many-voices" target="_blank"><img src="/assets/img/manyvoices.jpeg" alt="" width="200"></a>
       </div>
       <div class="col-sm-8">
-        <h3>Many Voices: A global collaboration investigating the relationship between music and language</h3>
+        <h3>Global collaboration in exploring cross-cultural acoustic regularities between music and spoken language</h3>
         <b>Presenter: <a href="https://scholar.google.com/citations?user=qtxOpmMAAAAJ&hl=en&oi=ao" target="_blank">Yuto Ozaki</a></b>, <i>Keio University, Japan</i>
       </div>
     </div>
