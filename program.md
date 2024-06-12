@@ -25,7 +25,7 @@ title: program
 
 ## Sessions
 
-Session formats are: Symposia, Panel sessions, Hackathons, Talks, Lightning Talks, and Unconferences. More information is available on the [Submissions]({{site.baseurl}}/submissions/) page.
+*Session formats:* Symposia, Panel sessions, Hackathons, Talks, Lightning Talks, and Unconferences. More information is available on the [**Submissions**]({{site.baseurl}}/submissions/) page.
 
 <br>
 
