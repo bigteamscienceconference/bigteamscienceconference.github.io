@@ -43,16 +43,15 @@ title: program
 
 ## Previous Conferences
 
-<h3><a href="https://docs.google.com/document/d/1oaoYdM5wclx9PRBcThPSmPXMQvmGHZB2qbF-h7c_vok/edit?usp=sharing" target="blank">2023 BTS Conference Program</a></h3>
-
-<h3><a href="https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing" target="blank">2022 BTS Conference Program</a></h3>
+* <a href="https://docs.google.com/document/d/1oaoYdM5wclx9PRBcThPSmPXMQvmGHZB2qbF-h7c_vok/edit?usp=sharing" target="blank"><b>2023 BTS Conference Program</b></a>
+* <a href="https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing" target="blank"><b>2022 BTS Conference Program</b></a>
 
 <br>
 
 ***
 
 ### Contact us
-If you have any questions about BTSCON, [contact us](mailto:bigteamscienceconference@gmail.com).
+If you have any questions about BTSCON, [**contact us**](mailto:bigteamscienceconference@gmail.com).
 
 <br>
 <br>
