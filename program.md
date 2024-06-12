@@ -31,15 +31,17 @@ Session formats are: Symposia, Panel sessions, Hackathons, Talks, Lightning Talk
 
 ***
 
-### 2024 Program Committee
+## 2024 Program Committee
 * [**Nicolás Alessandroni**](https://scholar.google.com/citations?user=O0JkchsAAAAJ&hl=en), *Concordia University, Canada*
 * [**Harry Clelland**](https://scholar.google.com/citations?user=BfKnTpEAAAAJ&hl=en), *ELTE University, Hungary*
 * [**Ekaterina Pronizius**](https://pronizius.com/), *UCLouvain, Belgium*
 * [**Jeffrey Stevens**](https://jeffreyrstevens.quarto.pub/), *University of Nebraska-Lincoln, US*
 
+<br>
+
 ***
 
-<h4>Previous Conferences</h4>
+## Previous Conferences
 
 <h3><a href="https://docs.google.com/document/d/1oaoYdM5wclx9PRBcThPSmPXMQvmGHZB2qbF-h7c_vok/edit?usp=sharing" target="blank">2023 BTS Conference Program</a></h3>
 
