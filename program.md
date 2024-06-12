@@ -31,15 +31,13 @@ Session formats are: Symposia, Panel sessions, Hackathons, Talks, Lightning Talk
 
 ***
 
-<!--
-### 2023 Program Committee
-* [**Haixin Dang**](http://www.haixindang.com/), *Philosophy of Science, University of Nebraska, US*
-* [**Aishwarya Iyer**](https://scholar.google.com/citations?user=zkHndXUAAAAJ&hl=en), *Psychology, Christ University, India*
-* [**Vedrana Šlipogor**](https://zoo.prf.jcu.cz/index.php/staff-item/slipogor-vedrana/?lang=en), *Zoology, University of South Bohemia, Czechia*
-* [**Robert Thibault**](https://metrics.stanford.edu/people/robert-thibault), *METRICS, Stanford University, US*
+### 2024 Program Committee
+* [**Nicolás Alessandroni**](https://scholar.google.com/citations?user=O0JkchsAAAAJ&hl=en), *Concordia University, Canada*
+* [**Harry Clelland**](https://scholar.google.com/citations?user=BfKnTpEAAAAJ&hl=en), *ELTE University, Hungary*
+* [**Ekaterina Pronizius**](https://pronizius.com/), *UCLouvain, Belgium*
+* [**Jeffrey Stevens**](https://jeffreyrstevens.quarto.pub/), *University of Nebraska-Lincoln, US*
 
 ***
--->
 
 <h4>Previous Conferences</h4>
 
