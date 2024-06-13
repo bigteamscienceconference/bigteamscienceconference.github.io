@@ -34,7 +34,7 @@ title: program
 ## 2024 Program Committee
 * [**Nicolás Alessandroni**](https://scholar.google.com/citations?user=O0JkchsAAAAJ&hl=en), *Concordia University, Canada*
 * [**Harry Clelland**](https://scholar.google.com/citations?user=BfKnTpEAAAAJ&hl=en), *ELTE University, Hungary*
-* [**Ekaterina Pronizius**](https://pronizius.com/), *UCLouvain, Belgium*
+* [**Ekaterina Pronizius**](https://pronizius.com/), *SCAN-Unit, Austria & UCLouvain, Belgium*
 * [**Jeffrey Stevens**](https://jeffreyrstevens.quarto.pub/), *University of Nebraska-Lincoln, US*
 
 <br>
