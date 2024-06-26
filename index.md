@@ -104,7 +104,7 @@ layout: page
       </div>
       <div class="col-sm-8">
         <h3>Bioinformatics Hub of Kenya Initiative</h3>
-        <b>Presenter: TBA
+        <b>Presenter: TBA</b>
       </div>
     </div>
     <div class="row">
