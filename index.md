@@ -195,26 +195,6 @@ layout: page
 ## [Program]({{site.baseurl}}/schedule/) 
 -->
 
-***
-
-## More information about the 2024 BTSCON is coming soon!
-
-<br>
-
-<!--
-***
-
-## Important Dates
-
-* **Submissions Open:** June 7, 2022
-* **Submission Deadline:** ~~July 22, 2022~~ Extended to August 5, 2022
-* **Submission Decisions:** August 5, 2022 (or soon after, for late submissions)
-* **Registration Open:** August, 2022
-* **Conference:** October 27-28, 2022
-
-> View the [BTScon calendar](https://calendar.google.com/calendar/embed?src=bigteamscienceconference%40gmail.com&ctz=America%2FNew_York)
--->
-
 
 ***
 
