@@ -100,7 +100,7 @@ layout: page
     <div class="row">
       <div class="col-sm-4" align="center">
         <br>
-        <a href="https://bhki.org/" target="_blank"><img src="/assets/img/bhki.png" alt="" width="150"></a>
+        <a href="https://bhki.org/" target="_blank"><img src="/assets/img/bhki.png" alt="" height="200"></a>
       </div>
       <div class="col-sm-8">
         <h3>Bioinformatics Hub of Kenya Initiative</h3>
