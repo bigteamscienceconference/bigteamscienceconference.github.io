@@ -7,12 +7,12 @@ title: contact
 Send questions about BTSCON to our [**Conference Email**](mailto:bigteamscienceconference@gmail.com) or to any of the organizers. <br>
 
 ### 2024 Organizers
-* [**Heidi Baumgartner**](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, US - ManyBabies* [[email]](mailto:heidib@stanford.edu)
-* [**Erin Buchanan**](https://www.aggieerin.com/), *Harrisburg University of Science and Technology, US - Psychological Science Accelerator* [[email]](mailto:buchananlab@gmail.com)
-* [**Savannah Lewis**](https://savannahclewis.wordpress.com/), *University of Alabama, US - Psychological Science Accelerator* [[email]](mailto:)
+* [**Heidi Baumgartner**](https://profiles.stanford.edu/heidi-baumgartner), *ManyBabies & Stanford University, USA* [[email]](mailto:heidib@stanford.edu)
+* [**Erin Buchanan**](https://www.aggieerin.com/), *Psychological Science Accelerator & Harrisburg University of Science and Technology, USA* [[email]](mailto:buchananlab@gmail.com)
+* [**Savannah Lewis**](https://savannahclewis.wordpress.com/), *Psychological Science Accelerator & University of Alabama, USA* [[email]](mailto:)
 * [**Deborah Udoh**](https://www.we-are-ols.org/people#npdebs), *OLS, Nigeria* [[email]](mailto:debs@we-are-ols.org)
 * [**Yo Yehudi**](http://we-are-ols.org), *OLS, UK* [[email]](mailto:yo@we-are-ols.org)
-* [**Nicholas Coles**](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, US* [[email]](mailto:ncoles@stanford.edu)
+* [**Nicholas Coles**](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, USA* [[email]](mailto:ncoles@stanford.edu)
 
 <!--
 ### 2023 Accessibility Consultant
