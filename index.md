@@ -100,21 +100,6 @@ layout: page
     <div class="row">
       <div class="col-sm-4" align="center">
         <br>
-        <a href="https://bhki.org/" target="_blank"><img src="/assets/img/bhki.png" alt="" height="200"></a>
-      </div>
-      <div class="col-sm-8">
-        <h3>Bioinformatics Hub of Kenya Initiative</h3>
-        <b>Presenter: TBA</b>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-12">
-        <p>    </p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-4" align="center">
-        <br>
         <a href="https://www.metadocencia.org/" target="_blank"><img src="/assets/img/metadocencia.png" alt="" width="200"></a>
       </div>
       <div class="col-sm-8">
@@ -135,6 +120,21 @@ layout: page
       <div class="col-sm-8">
         <h3>Global collaboration in exploring cross-cultural acoustic regularities between music and spoken language</h3>
         <b>Presenter: <a href="https://scholar.google.com/citations?user=qtxOpmMAAAAJ&hl=en&oi=ao" target="_blank">Yuto Ozaki</a></b>, <i>Keio University, Japan</i>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12">
+        <p>    </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-4" align="center">
+        <br>
+        <a href="https://bhki.org/" target="_blank"><img src="/assets/img/bhki.png" alt="" height="200"></a>
+      </div>
+      <div class="col-sm-8">
+        <h3>Bioinformatics Hub of Kenya Initiative</h3>
+        <b>Presenter: TBA</b>
       </div>
     </div>
   </div>
