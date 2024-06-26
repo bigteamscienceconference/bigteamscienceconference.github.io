@@ -100,6 +100,21 @@ layout: page
     <div class="row">
       <div class="col-sm-4" align="center">
         <br>
+        <a href="https://bhki.org/" target="_blank"><img src="/assets/img/bhki.png" alt="" width="200"></a>
+      </div>
+      <div class="col-sm-8">
+        <h3>Bioinformatics Hub of Kenya Initiative</h3>
+        <b>Presenter: TBA
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12">
+        <p>    </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-4" align="center">
+        <br>
         <a href="https://www.metadocencia.org/" target="_blank"><img src="/assets/img/metadocencia.png" alt="" width="200"></a>
       </div>
       <div class="col-sm-8">
