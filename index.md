@@ -134,7 +134,7 @@ layout: page
       </div>
       <div class="col-sm-8">
         <h3>Sensitize-Train-Hack-Sustain-Collaborate-Community: A lightweight framework to empower, build, and sustain communities</h3>
-        <b>Presenter: <a href="https://bhki.org/" target="_blank">Karega Pauline</a></b>, <i>Bioinformatics Hub of Kenya Initiative, Kenya</i>
+        <b>Presenter: <a href="https://bhki.org/about" target="_blank">Pauline Karega</a></b>, <i>Bioinformatics Hub of Kenya Initiative, Kenya</i>
       </div>
     </div>
   </div>
