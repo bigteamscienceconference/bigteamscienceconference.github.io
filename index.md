@@ -133,8 +133,8 @@ layout: page
         <a href="https://bhki.org/" target="_blank"><img src="/assets/img/bhki.png" alt="" height="200"></a>
       </div>
       <div class="col-sm-8">
-        <h3>Bioinformatics Hub of Kenya Initiative</h3>
-        <b>Presenter: TBA</b>
+        <h3>Sensitize-Train-Hack-Sustain-Collaborate-Community: A lightweight framework to empower, build, and sustain communities</h3>
+        <b>Presenter: <a href="https://bhki.org/" target="_blank">Karega Pauline</a></b>, <i>Bioinformatics Hub of Kenya Initiative, Kenya</i>
       </div>
     </div>
   </div>
