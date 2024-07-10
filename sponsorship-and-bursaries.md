@@ -4,11 +4,11 @@ title: Participation bursary and sponsorship
 <!--cover-img: /assets/img/events_blank.png-->
 ---
 
-We’re excited this year to launch our participation support bursary! We recognise that participation in online events can be challenging for people in different ways, and we’d like to remove these barriers as much as possible. 
+We’re excited this year to launch our participation support bursary (also known as a microgrant)! We recognise that participation in online events can be challenging for people in different ways, and we’d like to remove these barriers as much as possible. 
 
 ## FAQ for BTSCon Participants: :
 
-**Q:** What can I ask for?
+**Q:** What can I ask for?  
 **A:** Generally, we offer support in the form of one or more of the following: 
 - Small hardware: Headset, microphone, webcam, ring lighting.
 - Internet: 1 month of high-speed internet 
@@ -18,22 +18,23 @@ We’re excited this year to launch our participation support bursary! We recogn
 
 [OLS](https://we-are-ols.org) will administer the microgrants - for more information, see OLS’s microgrant policies: https://openlifesci.org/openseeds/cohort-procedures-and-templates/microgrants.html#microgrant-recommendations-and-tips 
 
-**Q:** Will I have to justify my request, write a blog, have an accepted session, or any other obligation from requesting a bursary? 
+**Q:** Will I have to justify my request, write a blog, have an accepted session, or any other obligation from requesting a bursary?    
 **A:** No :) Our goal is to make this as pain-free as possible. If you _want_ to write a blog, or submit a talk - please do so! 
 
-**Q:** I can't afford to pay for X and get reimbursed. Can I still apply? 
+**Q:** I can't afford to pay for X and get reimbursed. Can I still apply?   
 **A:** Please do! We offer three ways to get microgrants/bursaries:
 1. Share a purchase link and we'll ship it to your house on your behalf. 
 2. Purchase an item yourself, share a receipt, and we'll reimburse you. 
 3. Money up-front, if neither of the previous options work. 
 
-**Q:** Is there a $£€ limit to what I can ask for? 
+**Q:** Is there a $£€ limit to what I can ask for?   
 **A:** Generally no - we try not to quibble over reasonable requests, because we recognise that supply chains and fluctuating currencies make it hard to predict costs. The main exception: For a short conference, we're unable to pay for more than one month of internet or for large items like a laptop, monitor, or phone. If you go for top-of-the-line items, we might ask for you to come back with a cheaper (but still decent quality) alternative. 
-
+  
 How to request a bursary: Please email bigteamscienceconference@gmail.com with a rough budget and the items you need. 
+  
+## Information for sponsors  
 
-## Information for sponsors
-**Q:** How much can I donate, and what will it be used for? 
+**Q:** How much can I donate, and what will it be used for?   
 **A:** Anything you offer can be helpful. We offer the following tiers (in USD) : 
 
 | Sponsorship tier | What this might support*  | 
