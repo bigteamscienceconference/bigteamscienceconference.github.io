@@ -198,8 +198,8 @@ layout: page
 ***
 
 <h2 id="sponsors">Sponsor Organizations</h2>
-
 <section>
+	<div>If you're interested in sponsoring the conference, especially if you're interested in supporting diversity bursaries, please visit our <a href="sponsorship-and-bursaries.md">bursary and sponsorship page</a>. </div>
 	<br>
 	<div class="container">
 		<div class="row justify-content-around">
