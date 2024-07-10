@@ -45,4 +45,4 @@ How to request a bursary: Please email bigteamscienceconference@gmail.com with a
 |$3000| Gold sponsor + Logo on the website - *Microgrant bursaries for around 15-20 people* |
 |$5000| Platinum sponsor + Logo on the website - *Microgrant bursaries for around 25-30 people* |
 
-To discuss a sponsoring donation, please email [bigteamscienceconference@gmail.com](emailto:bigteamscienceconference@gmail.com).
+To discuss a sponsoring donation, please email [bigteamscienceconference@gmail.com](mailto:bigteamscienceconference@gmail.com).
