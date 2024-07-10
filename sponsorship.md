@@ -30,7 +30,7 @@ We’re excited this year to launch our participation support bursary (also know
 **Q:** Is there a $£€ limit to what I can ask for?   
 **A:** Generally no - we try not to quibble over reasonable requests, because we recognise that supply chains and fluctuating currencies make it hard to predict costs. The main exception: For a short conference, we're unable to pay for more than one month of internet or for large items like a laptop, monitor, or phone. If you go for top-of-the-line items, we might ask for you to come back with a cheaper (but still decent quality) alternative. 
   
-How to request a bursary: Please email bigteamscienceconference@gmail.com with a rough budget and the items you need. 
+How to request a bursary: Please email [bigteamscienceconference@gmail.com](mailto:bigteamscienceconference@gmail.com) with a rough budget and the items you need. 
   
 ## Information for sponsors  
 
