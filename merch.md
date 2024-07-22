@@ -22,6 +22,9 @@ We welcome conference attendees to create their own merch using our official gra
       <div class="col-sm-5">
         <img src="/assets/img/BTScon2024_round.png" alt="BTSCON2024 logo">
       </div>
+      <div class="col-sm-2">
+        <p>   </p>
+      </div>
       <div class="col-sm-5">
         <img src="/assets/img/BTSCON.png" alt="BTSCON logo">
       </div>
@@ -40,6 +43,9 @@ We welcome conference attendees to create their own merch using our official gra
       <div class="col-sm-5">
         <img src="/assets/img/BTSCON23_merch_darkbg.png" alt="2023 BTSCON graphic for dark backgrounds">
       </div>
+      <div class="col-sm-2">
+        <p>   </p>
+      </div>
       <div class="col-sm-5">
         <img src="/assets/img/BTSCON23_merch_lightbg.png" alt="2023 BTSCON graphic for dark backgrounds">
       </div>
@@ -52,6 +58,9 @@ We welcome conference attendees to create their own merch using our official gra
     <div class="row">
       <div class="col-sm-5">
         <img src="/assets/img/BTSCON_merch_logo.png" alt="BTSCON logo with website">
+      </div>
+      <div class="col-sm-2">
+        <p>   </p>
       </div>
       <div class="col-sm-5">
         <img src="/assets/img/2023sponsors.png" alt="BTSCON sponsor organizations graphic">
