@@ -16,6 +16,8 @@ title: merch
 We welcome conference attendees to create their own merch using our official graphics *(simply right click on an image and choose "Save Image As...")*. We'd love to see pictures of any merch you create, so make sure to [share them with us](mailto:bigteamscienceconference@gmail.com)!
 <br>
 
+>[more 2024 images coming soon!]
+
 <section>
   <div class="container">
     <div class="row">
@@ -32,7 +34,6 @@ We welcome conference attendees to create their own merch using our official gra
   </div>
 </section>
 
->[more 2024 images coming soon!]
 
 ***
 ## 2023 BTSCON 
