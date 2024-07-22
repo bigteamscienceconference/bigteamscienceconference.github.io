@@ -6,6 +6,9 @@ title: merch
 
 ## Visit the official <a href="https://www.bonfire.com/store/psychological-science-accelerator-store/" target="_blank">2024 BTSCON Merch Store</a>!
 
+> Hosted by the Psychological Science Accelerator
+
+<img src="/assets/img/BTSCON2024_store.png" alt="screenshot of BTSCON Bonfire store" />
 
 <br>
 
