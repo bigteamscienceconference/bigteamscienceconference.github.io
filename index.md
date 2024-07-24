@@ -212,7 +212,7 @@ layout: page
 			  <a href="https://psysciacc.org/" class="image" target="_blank"><img src="/assets/img/psa_logo.png" alt="PSA" width="100" height="100"></a>
 		  </div>
 		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
-			  <a href="https://openlifesci.org//" class="image" target="_blank"><img src="/assets/img/ols-logo.png" alt="Open Life Science logo" width="100" height="100"></a>
+			  <a href="http://we-are-ols.org/" class="image" target="_blank"><img src="/assets/img/ols-logo.png" alt="Open Life Science logo" width="100" height="100"></a>
 		  </div>
 	  </div>
 	</div>
