@@ -27,7 +27,7 @@ layout: page
 * <b><a href="#sponsors">Sponsor organizations</a></b>
 * <b><a href="{{site.baseurl}}/contact/">Contact us</a></b>
 
-
+<br>
 ***
 
 <h2 id="keynotes">2024 Keynote Presenters</h2>
