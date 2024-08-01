@@ -12,7 +12,7 @@ Submissions for all <a href="#sessions">session types</a> are now open!
 * *Talks, lightning talks, and unconferences:* maximum 250 words
 -->
 
-<h3 align="center">Deadline: July 31, 2024</h3>
+<h3 align="center">Extended Deadline: August 9, 2024</h3>
 
 
 <br>
