@@ -12,7 +12,7 @@ layout: page
 
 <h2 align="center"><a href="{{site.baseurl}}/submissions/">Submissions</a> and <a href="{{site.baseurl}}/registration/">Registration</a> are now open!</h2>
 
-
+<p> </p>
 <!--
 <p>Thanks to everyone who presented and attended for making the <a href="{{site.baseurl}}/2023btscon/">2023 BTSCON</a> a fantastic event. We look forward to seeing you all at the 2024 conference!</p>
 -->
