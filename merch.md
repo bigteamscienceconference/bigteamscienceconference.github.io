@@ -25,29 +25,29 @@ We welcome conference attendees to create their own merch using our official gra
   <div class="container">
     <div class="row">
       <div class="col-sm-5">
-        <img src="/assets/img/2024-logo-round.png" alt="BTSCON2024 logo" width=200>
+        <img src="/assets/img/2024-logo-round.png" alt="BTSCON2024 logo">
       </div>
       <div class="col-sm-2">
         <p>   </p>
       </div>
       <div class="col-sm-5">
-        <img src="/assets/img/BTSCON.png" alt="BTSCON logo" width=200>
+        <img src="/assets/img/BTSCON.png" alt="BTSCON logo">
       </div>
     </div>
     <div class="row">
       <div class="col-sm-5">
-        <img src="/assets/img/2024-logo-groovy.png" alt="BTSCON2024 logo" width=200>
+        <img src="/assets/img/2024-logo-groovy.png" alt="BTSCON2024 logo">
       </div>
       <div class="col-sm-2">
         <p>   </p>
       </div>
       <div class="col-sm-5">
-        <img src="/assets/img/2024-logo-btscon.png" alt="BTSCON logo" width=200>
+        <img src="/assets/img/2024-logo-btscon.png" alt="BTSCON logo">
       </div>
     </div>
     <div class="row">
       <div class="col-sm-5">
-        <img src="/assets/img/2024-logo-orgs.png" alt="BTSCON2024 logo" width=200>
+        <img src="/assets/img/2024-logo-orgs.png" alt="BTSCON2024 logo">
       </div>
       <div class="col-sm-2">
         <p>   </p>
