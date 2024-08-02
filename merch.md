@@ -35,6 +35,11 @@ We welcome conference attendees to create their own merch using our official gra
       </div>
     </div>
     <div class="row">
+      <div class="col-sm-12">
+        <p>   </p>
+      </div>
+    </div>
+    <div class="row">
       <div class="col-sm-5">
         <img src="/assets/img/2024-logo-groovy.png" alt="BTSCON2024 logo">
       </div>
