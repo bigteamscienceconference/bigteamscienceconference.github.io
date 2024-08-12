@@ -4,9 +4,13 @@ title: submissions
 ---
 
 
+<!--
 <h2 align="center"> >>> <a href="https://docs.google.com/forms/d/e/1FAIpQLSe7NNvWpghj1yrqIJjj1M_AcXIG1vOruYEkkPthZ8c8puuo3Q/viewform?usp=sf_link" target="_blank">Submit your abstract here!</a> <<< </h2> 
 
 Submissions for all <a href="#sessions">session types</a> are now open! 
+-->
+<h2>Submissions for the 2024 BTSCON are closed.</h2>
+
 
 * *Panels, hackathons, and symposia:* maximum 500 words
 * *Talks, lightning talks, and unconferences:* maximum 250 words
