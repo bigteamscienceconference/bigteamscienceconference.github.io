@@ -10,7 +10,7 @@ layout: page
 
 <p>The third annual Big Team Science Conference will be held virtually via Zoom <b>October 8-10, 2024</b>. The goal of this three-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. </p>
 
-<h2 align="center"><a href="{{site.baseurl}}/submissions/">Submissions</a> and <a href="{{site.baseurl}}/registration/">Registration</a> are now open!</h2>
+<h2 align="center"><a href="{{site.baseurl}}/registration/">Register</a> now!</h2>
 
 <p> </p>
 <!--
