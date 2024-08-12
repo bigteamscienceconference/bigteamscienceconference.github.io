@@ -23,8 +23,7 @@ navbar-links:
     - Accessibility: "access"
     - Sponsorship: "sponsorship"
     - Merch: "merch"
-    - 2022 Meeting: "2022btscon"
-    - 2023 Meeting: "2023btscon"
+    - Previous Meetings: "previous-meetings"
   Contact: "contact"
   
 #  About Me: "aboutme"
