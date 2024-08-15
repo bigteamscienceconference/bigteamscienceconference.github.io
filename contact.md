@@ -14,10 +14,12 @@ Send questions about BTSCON to our [**Conference Email**](mailto:bigteamsciencec
 * [**Yo Yehudi**](http://we-are-ols.org), *OLS, UK* [[email]](mailto:yo@we-are-ols.org)
 * [**Nicholas Coles**](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, USA* [[email]](mailto:ncoles@stanford.edu)
 
-<!--
-### 2023 Accessibility Consultant
+***
+
+### Accessibility Consultant
 * [**Liz Hare**](http://www.doggenetics.com/), *ManyDogs* [[email]](mailto:LizHare@DogGenetics.com)
 
+<!--
 ### 2023 Program Committee
 * [**Haixin Dang**](http://www.haixindang.com/), *Philosophy of Science, University of Nebraska, US* [[email]](mailto:haixindang@unomaha.edu)
 * [**Aishwarya Iyer**](https://scholar.google.com/citations?user=zkHndXUAAAAJ&hl=en), *Psychology, Christ University, India* [[email]](iyeraishwarya.work@gmail.com)

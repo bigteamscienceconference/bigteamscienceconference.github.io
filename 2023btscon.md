@@ -155,6 +155,11 @@ The 2023 BTSCON program consisted of amazing keynotes, hackathons, panels, and t
 
 ***
 
+### Accessibility Consultant
+* [**Liz Hare**](http://www.doggenetics.com/), *ManyDogs* [[email]](mailto:LizHare@DogGenetics.com)
+
+***
+
 ### 2023 Program Committee
 * [**Haixin Dang**](http://www.haixindang.com/), *Philosophy of Science, University of Nebraska, US*
 * [**Aishwarya Iyer**](https://scholar.google.com/citations?user=zkHndXUAAAAJ&hl=en), *Psychology, Christ University, India*
