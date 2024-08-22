@@ -4,19 +4,26 @@ title: accessibility
 <!--cover-img: /assets/img/events_blank.png-->
 ---
 
-**We are striving to make the Big Team Science Conference as accessible as possible. Please [contact us](mailto:bigteamscienceconference@gmail.com) as soon as possible if you have any questions about accessibility or would like to notify us of accessibility needs.** 
+**We are striving to make the Big Team Science Conference as accessible as possible. Please [contact us](mailto:bigteamscienceconference@gmail.com) with any questions or comments about accessibility.** 
 
 ## Conference platform
 
-We will be using Zoom as our primary conference platform. 
+* We will be using Zoom as our primary conference platform.
+* We will be using captions provided by the Zoom platform.
+* We will be using [Framapad](https://framapad.org/abc/en/) for collaborative text editing during hackathons and other coworking sessions. While some less accessible visual co-working tools (e.g., Miro) may be used at the discretion of session chairs, the main communication will take place in the Framapad.
 
 ## Slide sharing
 
-Following best practices in accessibility and inclusivity for all attendees, the expectation is that presenters will upload accessible copies of their presentation and materials (i.e., slides) to their landing page prior to their presentation time. 
+Following best practices in accessibility and inclusivity for all attendees, the expectation is that presenters will share a link to their presentation and materials (i.e., slides) prior to their presentation time. Links to slides will be added to the conference program. 
 
 Here is a [guide to making accessible PDFs](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-pdf-author-guide/).
 
 Here is a [guide to making accessible presentations](https://www.w3.org/WAI/teach-advocate/accessible-presentations/).
+
+## Session recordings
+
+Sessions will be recorded and shared with conference registrants. An email will be sent to all registrants after the conference with instructions on how to access recordings.
+
 
 ## Note to all attendees
 
