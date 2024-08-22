@@ -9,9 +9,10 @@ title: accessibility
 
 ## Conference platform
 
-* We will be using Zoom as our primary conference platform.
-* We will be using captions provided by the Zoom platform.
-* We will be using [Framapad](https://framapad.org/abc/en/) for collaborative text editing during hackathons and other coworking sessions. While some less accessible visual co-working tools (e.g., Miro) may be used at the discretion of session chairs, the main communication will take place in the Framapad.
+* Primary conference platform: Zoom.
+* Captions: provided by the Zoom platform
+* Collaborative text editing: [Framapad](https://framapad.org/abc/en/)
+  * We will be using Framapad for collaborative text editing during hackathons and other coworking sessions. While some less accessible visual co-working tools (e.g., Miro) may be used at the discretion of session chairs, the main communication will take place in the Framapad.
 
 
 ## Slide sharing
