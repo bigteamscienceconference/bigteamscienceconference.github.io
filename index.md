@@ -64,7 +64,7 @@ layout: page
       <div class="col-sm-8">
         <h3><a href="https://sites.google.com/site/annadreber/" target="_blank">Anna Dreber Almenberg, Ph.D.</a></h3>
         <i>Board member of the <a href="https://i4replication.org/" target="_blank">Institute for Replication</a> & Johan Björkman Professor of Economics | Stockholm School of Economics, Sweden</i>
-        <h4>Replication by plebiscite: Examining the replicability of online experiments selected by a decision market</h4>
+        <h4>Replications, prediction markets, and many designs</h4>
       </div>
     </div>
     <div class="row">
