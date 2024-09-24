@@ -17,8 +17,9 @@ title: program
 
 
 
-<h2 align="center"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS07u1bk8Itj-zBdPlprVMgsJvAlEj7HMoM5VCxpPiqmRhzuP_Lz-NJNzNEnqidWdQ6S3FPjgMIknfX/pubhtml?gid=0&single=true" target="_blank">View the 2024 Big Team Science Conference schedule</a></h2>
+<h2 align="center"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS07u1bk8Itj-zBdPlprVMgsJvAlEj7HMoM5VCxpPiqmRhzuP_Lz-NJNzNEnqidWdQ6S3FPjgMIknfX/pubhtml?gid=0&single=true" target="_blank">2024 Big Team Science Conference schedule</a></h2>
 
+<iframe width='100%' height='800' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS07u1bk8Itj-zBdPlprVMgsJvAlEj7HMoM5VCxpPiqmRhzuP_Lz-NJNzNEnqidWdQ6S3FPjgMIknfX/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 <h2 align="center">Full conference program will be released soon!</h2>
 
