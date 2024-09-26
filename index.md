@@ -80,7 +80,7 @@ layout: page
       <div class="col-sm-8">
         <h3><a href="https://poldrack.github.io/" target="_blank">Russell Poldrack, Ph.D.</a></h3>
         <i>Director of the <a href="https://datascience.stanford.edu/cores" target="_blank">SDS Center for Open and Reproducible Science</a> & Professor of Psychology | Stanford University, US</i>
-        <h4>Developing standards as a community: The Brain Imaging Data Structure</h4>
+        <h4>Building an open science community for neuroimaging research</h4>
       </div>
     </div>
   </div>
