@@ -8,14 +8,14 @@ layout: page
 
 
 
-<p>The third annual Big Team Science Conference will be held virtually via Zoom <b>October 8-10, 2024</b>. The goal of this three-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. </p>
+<!--p>The third annual Big Team Science Conference will be held virtually via Zoom <b>October 8-10, 2024</b>. The goal of this three-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. </p>
 
 <h2 align="center"><a href="{{site.baseurl}}/registration/">Register</a> now!</h2>
 
-<p> </p>
-<!--
-<p>Thanks to everyone who presented and attended for making the <a href="{{site.baseurl}}/2023btscon/">2023 BTSCON</a> a fantastic event. We look forward to seeing you all at the 2024 conference!</p>
--->
+<p> </p-->
+
+<p>Thanks to everyone who presented and attended for making the <!--a href="{{site.baseurl}}/2023btscon/"-->2024 BTSCON<!--/a--> a fantastic event. We look forward to seeing you all at the 2025 conference!</p>
+
 
 
 ### Quick Links:
@@ -215,8 +215,11 @@ layout: page
 			  <a href="http://we-are-ols.org/" class="image" target="_blank"><img src="/assets/img/ols-logo.png" alt="Open Life Science logo" width="100" height="100"></a>
 		  </div>
 	  </div>
-	</div>
-</section>
+		<div class="row justify-content-around">
+		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
+        <br><h3>Bronze Sponsor:</h3>
+		    <a href="https://software.ac.uk" class="image" target="_blank"><img src="/assets/img/sponsor-logo-ssi.svg" alt="Software Sustainability Institute" width="100" height="100"></a>
+		  </div>
+    </div>
 
-<br>
 
