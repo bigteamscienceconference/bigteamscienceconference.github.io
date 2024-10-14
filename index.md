@@ -19,8 +19,7 @@ layout: page
 
 
 ### Quick Links:
-* <b><a href="{{site.baseurl}}/registration/">Registration</a></b>
-* <b><a href="{{site.baseurl}}/program/">Program</a></b>
+* <b><a href="{{site.baseurl}}/program/">2024 Program</a></b>
 * <b><a href="https://www.bonfire.com/store/psychological-science-accelerator-store/" target="_blank">BTSCON store</a></b>
 * <b><a href="{{site.baseurl}}/codeofconduct/">Code of conduct & meeting rules</a></b>
 * <b><a href="{{site.baseurl}}/access/">Accessibility information</a></b>

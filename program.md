@@ -17,7 +17,7 @@ title: program
 
 
 
-<h2>Program at a glance</h2>
+<h2>2024 Program at a glance</h2>
 
 >[Link to schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vS7QRHWnnyVJnIESN2lVz8cPo27UzGdvkvDXm86YQFLeO9apf0YcQGkAZEIqPyeJPUPh3s2vxopVdkb/pubhtml?gid=1014562965&single=true)
 

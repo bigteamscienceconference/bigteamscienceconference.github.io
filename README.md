@@ -1,4 +1,4 @@
-# bigteamscience.github.io
+# bigteamscienceconference.github.io
 
 Big Team Science conference website :) 
 

@@ -4,14 +4,16 @@ title: registration
 ---
 
 
-<h2 align="center"> >>> <a href="https://harrisburgu.qualtrics.com/jfe/form/SV_0p7XbKBocKmZfD0" target="_blank">Register Here!</a> <<< </h2>
-
-
 <!--
+<h2 align="center"> >>> <a href="https://harrisburgu.qualtrics.com/jfe/form/SV_0p7XbKBocKmZfD0" target="_blank">Register Here!</a> <<< </h2>
+-->
+<h2>Registration for the 2024 BTSCON is now closed.</h2>
+
 ***
 
-> If you would like to support the big team science efforts of our sponsor organizations before the next conference, you can make a tax-deductible donation to the [ManyBabies financial collective](https://opencollective.com/manybabiesoce) and/or [Psychological Science Accelerator financial collective](https://opencollective.com/psysciacc). 
--->
+
+> If you would like to support the big team science efforts of our sponsor organizations before the next conference, you can make a tax-deductible donation to the [ManyBabies financial collective](https://opencollective.com/manybabiesoce) and/or [Psychological Science Accelerator financial collective](https://psysciacc.org/). 
+
 
 ***
 
