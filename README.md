@@ -1,9 +1,7 @@
-# bigteamsciencelab.github.io
-Stanford BiTS Lab website
+# bigteamscience.github.io
 
-<!---
-Visible at http://bits.stanford.edu.
---->
+Big Team Science conference website :) 
+
 
 ## Run locally to preview changes
 
