@@ -9,7 +9,7 @@
 title: Big Team Science Conference
 
 # Your name to show in the footer
-author: Heidi Baumgartner
+author: BTSCON
 
 # --- List of links in the navigation bar --- #
 
@@ -21,7 +21,6 @@ navbar-links:
     - Program: "program"
     - Code of Conduct: "codeofconduct"
     - Accessibility: "access"
-    - Sponsorship: "sponsorship"
     - Merch: "merch"
     - Previous Meetings: "previous-meetings"
   Contact: "contact"
