@@ -13,7 +13,7 @@ title: program
 <h3><a href="https://docs.google.com/document/d/1oaoYdM5wclx9PRBcThPSmPXMQvmGHZB2qbF-h7c_vok/edit?usp=sharing" target="blank">View the 2023 BTS Conference Program here</a></h3>
 
 > Note: Session times subject to change
--->
+
 
 
 
@@ -26,7 +26,7 @@ title: program
 >Full conference program with meeting info and abstracts for all sessions will be sent to registrants soon!
 
 <br>
-
+-->
 
 
 ***
@@ -39,6 +39,7 @@ title: program
 
 ***
 
+<!--
 ## 2024 Program Committee
 * [**Nicolás Alessandroni**](https://scholar.google.com/citations?user=O0JkchsAAAAJ&hl=en), *Concordia University, Canada*
 * [**Harry Clelland**](https://scholar.google.com/citations?user=BfKnTpEAAAAJ&hl=en), *ELTE University, Hungary*
@@ -46,20 +47,22 @@ title: program
 * [**Jeffrey Stevens**](https://jeffreyrstevens.quarto.pub/), *University of Nebraska-Lincoln, US*
 
 <br>
+-->
 
 ***
 
 ## Previous Conferences
 
-* <a href="https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing" target="blank"><b>2022 BTS Conference Program</b></a>
+* <a href="https://docs.google.com/document/d/e/2PACX-1vRLOKvaZdo58azXRvuO6jT-9YdvJ6TqJa5Yz-rcp3nfI4w-FJlg_0T3zDk_W0vqPXD-NVonQdxa1-M5/pub" target="blank"><b>2024 BTS Conference Program</b></a>
 * <a href="https://docs.google.com/document/d/1oaoYdM5wclx9PRBcThPSmPXMQvmGHZB2qbF-h7c_vok/edit?usp=sharing" target="blank"><b>2023 BTS Conference Program</b></a>
+* <a href="https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing" target="blank"><b>2022 BTS Conference Program</b></a>
 
 <br>
 
 ***
 
 ### Contact us
-If you have any questions about BTSCON, [**contact us**](mailto:bigteamscienceconference@gmail.com).
+If you have any questions about BTSCON, [**contact us**]({{site.baseurl}}/contact/).
 
 <br>
 <br>
