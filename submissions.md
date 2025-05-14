@@ -5,7 +5,7 @@ title: submissions
 
 
 
-<h2>Submissions for the 2024 BTSCON are closed.</h2>
+<h2>The submission portal for the 2025 BTSCON will open this summer</h2>
 
 <!--
 <h2 align="center"> >>> <a href="https://docs.google.com/forms/d/e/1FAIpQLSe7NNvWpghj1yrqIJjj1M_AcXIG1vOruYEkkPthZ8c8puuo3Q/viewform?usp=sf_link" target="_blank">Submit your abstract here!</a> <<< </h2> 
