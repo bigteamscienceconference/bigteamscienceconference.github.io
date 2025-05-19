@@ -51,6 +51,9 @@ layout: page
 		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
 			  <a href="https://psysciacc.org/" class="image" target="_blank"><img src="/assets/img/psa_logo.png" alt="PSA" width="100" height="100"></a>
 		  </div>
+		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
+			  <a href="https://abrirpsy.org/" class="image" target="_blank"><img src="/assets/img/abrir.png" alt="ABRIR" height="100"></a>
+		  </div>
 	  </div>
   </div>
 </section>
