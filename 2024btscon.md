@@ -157,6 +157,7 @@ The 2024 BTSCON program consisted of amazing keynotes, hackathons, panels, and t
 <h2 id="sponsors">Sponsor Organizations</h2>
 <section>
 	<div class="container">
+	<br>
 		<div class="row justify-content-around">
 		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
 		    <a href="https://manybabies.github.io" class="image" target="_blank"><img src="/assets/img/MB_logo.png" alt="ManyBabies" width="100" height="100"></a>
