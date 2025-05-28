@@ -173,6 +173,6 @@ The 2024 BTSCON program consisted of amazing keynotes, hackathons, panels, and t
 		<div class="row justify-content-around">
 		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
         <br><h3>Bronze Sponsor:</h3>
-		    <a href="https://software.ac.uk" class="image" target="_blank"><img src="/assets/img/sponsor-logo-ssi.svg" alt="Software Sustainability Institute" width="100" height="100"></a>
+		    <a href="https://software.ac.uk" class="image" target="_blank"><img src="/assets/img/sponsor-logo-ssi.svg" alt="Software Sustainability Institute" width="200" height="200"></a>
 		  </div>
     </div>
