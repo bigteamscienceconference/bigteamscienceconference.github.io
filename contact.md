@@ -18,7 +18,7 @@ Send questions about BTSCON to our [**Conference Email**](mailto:bigteamsciencec
 ***
 
 ### Accessibility Consultant
-* [**Liz Hare**](http://www.doggenetics.com/), *ManyDogs* [[email]](mailto:LizHare@DogGenetics.com)
+* [**Liz Hare**](http://www.doggenetics.com/), *ManyDogs, USA* [[email]](mailto:LizHare@DogGenetics.com)
 
 <!--
 ### 2025 Program Committee
