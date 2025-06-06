@@ -12,7 +12,7 @@ Send questions about BTSCON to our [**Conference Email**](mailto:bigteamsciencec
 * [**Erin Buchanan**](https://www.aggieerin.com/), *Psychological Science Accelerator & Harrisburg University of Science and Technology, USA* [[email]](mailto:buchananlab@gmail.com)
 * [**Brendan Ch'ng**](https://brendanchng.com/), *ABRIR, Malaysia* [[email]](mailto:brendanchng@protonmail.com)
 * [**Nadia Corral-Frías**](https://investigadores.unison.mx/en/persons/nadia-sarai-corral-frias), *ABRIR & Universidad de Sonora, Mexico* [[email]](mailto:nadia.corral@unison.mx)
-* [**Alma Jeftic**](https://orcid.org/0000-0002-9285-2061), *ABRIR & Peace Research Institute at International Christian University, Japan* [[email]](mailto:)
+* [**Alma Jeftic**](https://orcid.org/0000-0002-9285-2061), *ABRIR, University of Geneva, & Peace Research Institute at International Christian University, Japan* [[email]](mailto:alma.jeftic@gmail.com)
 * [**Savannah Lewis**](https://savannahclewis.wordpress.com/), *Psychological Science Accelerator & University of Alabama, USA* [[email]](mailto:slewis20@crimson.ua.edu)
 
 ***
