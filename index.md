@@ -13,7 +13,7 @@ layout: page
 <h2 align="center"><a href="{{site.baseurl}}/registration/">Register</a> now!</h2>
 -->
 
-<h2 align="center><a href="{{site.baseurl}}/submissions/">Submit an abstract to present at this year's BTSCON!</a></h2>
+<h2 align="center"><a href="{{site.baseurl}}/submissions/">Submit an abstract to present at this year's BTSCON!</a></h2>
 
 
 ### Quick Links:
