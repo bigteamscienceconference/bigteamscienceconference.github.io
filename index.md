@@ -32,10 +32,6 @@ layout: page
 
 <br>
 
-<!--
-* <b><a href="{{site.baseurl}}/program/">2025 Program</a></b>
--->
-
 ***
 ### 2025 Keynote Speakers
 
