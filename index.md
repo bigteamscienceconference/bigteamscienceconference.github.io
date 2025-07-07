@@ -31,8 +31,9 @@ layout: page
 * <b><a href="{{site.baseurl}}/previous-meetings/">Previous meetings</a></b>
 
 <br>
+
 <!--
-* <b><a href="{{site.baseurl}}/program/">2024 Program</a></b>
+* <b><a href="{{site.baseurl}}/program/">2025 Program</a></b>
 -->
 
 ***
