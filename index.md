@@ -13,19 +13,18 @@ layout: page
 <h2 align="center"><a href="{{site.baseurl}}/registration/">Register</a> now!</h2>
 -->
 
-<p> </p>
-
-<p>More information about the 2025 conference is coming soon!</p>
+<h2 align="center><a href="{{site.baseurl}}/submissions/">Submit an abstract to present at this year's BTSCON!</a></h2>
 
 
 ### Quick Links:
 
-* <b><a href="{{site.baseurl}}/previous-meetings/">Previous meetings</a></b>
+* <b><a href="{{site.baseurl}}/submissions/">Submission info</a></b>
 * <b><a href="{{site.baseurl}}/codeofconduct/">Code of conduct & meeting rules</a></b>
 * <b><a href="{{site.baseurl}}/access/">Accessibility information</a></b>
 * <b><a href="#sponsors">Sponsor organizations</a></b>
 * <b><a href="https://www.bonfire.com/store/psychological-science-accelerator-store/" target="_blank">BTSCON store</a></b>
 * <b><a href="{{site.baseurl}}/contact/">Contact us</a></b>
+* <b><a href="{{site.baseurl}}/previous-meetings/">Previous meetings</a></b>
 
 <!--
 * <b><a href="{{site.baseurl}}/program/">2024 Program</a></b>
