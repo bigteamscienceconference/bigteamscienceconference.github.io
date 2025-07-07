@@ -11,7 +11,7 @@ layout: page
 
 ***
 
-<h2 align="center"><a href="{{site.baseurl}}/registration/">Register</a> now! *(all fees are optional!)*</h2>
+<h2 align="center"><a href="{{site.baseurl}}/registration/">Register</a> now! <i>(all fees are optional!)</i></h2>
 
 ***
 
