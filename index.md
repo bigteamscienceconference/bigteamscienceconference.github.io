@@ -70,7 +70,7 @@ layout: page
       <div class="col-sm-8">
         <h3><a href="https://www.physics.harvard.edu/people/facpages/stubbs" target="_blank">Christopher Stubbs, Ph.D.</a></h3>
         <i>Author of <a href="https://mitpress.mit.edu/9780262547963/going-big/" target="_blank">"Going Big: A Scientist's Guide to Large Projects and Collaborations"</a> & Professor of Physics and of Astronomy | Harvard University, US</i>
-        <h4>Replications, prediction markets, and many designs</h4>
+        <h4>Title coming soon</h4>
       </div>
     </div>
     <div class="row">
