@@ -73,11 +73,6 @@ layout: page
         <h4>Title coming soon</h4>
       </div>
     </div>
-    <div class="row">
-      <div class="col-sm-12">
-        <p>    </p>
-      </div>
-    </div>
   </div>
 </section>
 <br>
