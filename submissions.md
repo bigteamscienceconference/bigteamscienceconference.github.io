@@ -4,11 +4,9 @@ title: submissions
 ---
 
 
-
-
 <h2 align="center"> >>> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdIfHkVRsmgCAL2YUzbDfyI91gElCtlXPkIPUwoOcxLZIeIYw/viewform?usp=dialog" target="_blank">Submit your abstract here!</a> <<< </h2> 
 
-Submissions for all <a href="#sessions">session types</a> are now open! 
+<h4 align="center">Submissions for all <a href="#sessions">session types</a> are now open!</h4>
 
 
 * *Panels, hackathons, and symposia:* maximum 500 words
