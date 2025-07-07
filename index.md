@@ -30,11 +30,10 @@ layout: page
 * <b><a href="{{site.baseurl}}/contact/">Contact us</a></b>
 * <b><a href="{{site.baseurl}}/previous-meetings/">Previous meetings</a></b>
 
+<br>
 <!--
 * <b><a href="{{site.baseurl}}/program/">2024 Program</a></b>
 -->
-
-<br>
 
 ***
 ### 2025 Keynote Speakers
