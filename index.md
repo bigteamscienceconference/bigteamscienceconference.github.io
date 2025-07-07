@@ -84,6 +84,10 @@ layout: page
 
 ***
 
+> More information about invited speakers and sessions is coming soon!
+
+***
+
 <h2 id="sponsors">Sponsor Organizations</h2>
 <section>
 	<div>If you're interested in sponsoring the conference, especially if you're interested in supporting diversity bursaries, please <a href="{{site.baseurl}}/contact/">contact us</a>. </div>
