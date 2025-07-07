@@ -77,6 +77,8 @@ layout: page
 
 > More information about invited speakers and sessions is coming soon!
 
+<br>
+
 ***
 
 <h2 id="sponsors">Sponsor Organizations</h2>
