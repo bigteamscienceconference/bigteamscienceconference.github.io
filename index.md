@@ -37,8 +37,50 @@ layout: page
 <br>
 
 ***
+### 2025 Keynote Speakers
 
-
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <p>    </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-4 col-xs-6" align="center">
+        <br>
+        <a href="https://angeladuckworth.com/" target="_blank"><img src="/assets/img/duckworth_headshot.jpg" alt="Angela Duckworth, Ph.D." width="200" height="200"></a>
+      </div>
+      <div class="col-sm-8">
+        <h3><a href="https://angeladuckworth.com/" target="_blank">Angela Duckworth, Ph.D.</a></h3>
+        <i>Co-director of the Penn-Wharton <a href="https://www.wwhge.org/" target="_blank">Behavior Change for Good Initiative</a> & Professor of Psychology | University of Pennsylvania, US</i>
+        <h4>Title coming soon</h4>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12">
+        <p>    </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-4 col-xs-6" align="center">
+        <br>
+        <a href="https://www.physics.harvard.edu/people/facpages/stubbs" target="_blank"><img src="/assets/img/stubbs_headshot.jpg" alt="Christopher Stubbs, Ph.D." width="200" height="200"></a>
+      </div>
+      <div class="col-sm-8">
+        <h3><a href="https://www.physics.harvard.edu/people/facpages/stubbs" target="_blank">Christopher Stubbs, Ph.D.</a></h3>
+        <i>Author of <a href="https://mitpress.mit.edu/9780262547963/going-big/" target="_blank">"Going Big: A Scientist's Guide to Large Projects and Collaborations"</a> & Professor of Physics and of Astronomy | Harvard University, US</i>
+        <h4>Replications, prediction markets, and many designs</h4>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12">
+        <p>    </p>
+      </div>
+    </div>
+  </div>
+</section>
+<br>
 
 ***
 
