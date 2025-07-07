@@ -15,8 +15,8 @@ title: registration
 
 ***
 
-### 2024 BTSCON Registration Info
-To balance inclusivity with our funding needs, *registration fees for the 2024 Big Team Science Conference are optional*. You can pay what you want, and we have provided a list of **suggested** fees:
+### BTSCON Registration Info
+To balance inclusivity with our funding needs, *registration fees for the Big Team Science Conference are optional*. You can pay what you want, and we have provided a list of **suggested** fees:
 
 #### USA, Canada, Western Europe, Australia, New Zealand
 * Faculty: **$50**
