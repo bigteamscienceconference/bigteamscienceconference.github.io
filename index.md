@@ -9,9 +9,9 @@ layout: page
 
 <p>The fourth annual Big Team Science Conference will be held virtually via Zoom <b>October 6-8, 2025</b>. The goal of this three-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. </p>
 
-<!--
+
 <h2 align="center"><a href="{{site.baseurl}}/registration/">Register</a> now!</h2>
--->
+
 
 <h2 align="center"><a href="{{site.baseurl}}/submissions/">Submit an abstract to present at this year's BTSCON!</a></h2>
 

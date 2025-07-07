@@ -4,10 +4,12 @@ title: registration
 ---
 
 
+
+<h2 align="center"> >>> <a href="https://universityofalabama.az1.qualtrics.com/jfe/form/SV_8e5NBEknf2LCuyi" target="_blank">Register for the 2025 BTSCON now!</a> <<< </h2>
+
 <!--
-<h2 align="center"> >>> <a href="https://harrisburgu.qualtrics.com/jfe/form/SV_0p7XbKBocKmZfD0" target="_blank">Register Here!</a> <<< </h2>
+<h2>Registration for the 2025 BTSCON is now closed.</h2>
 -->
-<h2>Registration for the 2024 BTSCON is now closed.</h2>
 
 ***
 
