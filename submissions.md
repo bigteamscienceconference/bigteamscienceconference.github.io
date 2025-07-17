@@ -71,7 +71,7 @@ The conference will feature Symposia, Panel sessions, Hackathons, Talks, Lightni
       </div>
       <div class="col-sm-9" align="left">
         <h3>Symposia</h3>
-        <i>55 minutes</i><br>
+        <i>55 or 85 minutes</i><br>
         <i>3 or 4 thematically-related talks</i> <br>
       </div>
     </div>
