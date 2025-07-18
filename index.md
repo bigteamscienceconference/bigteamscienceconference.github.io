@@ -33,7 +33,7 @@ layout: page
 <br>
 
 ***
-### 2025 Keynote Speakers
+### 2025 Keynote Presentations
 
 <section>
   <div class="container">
