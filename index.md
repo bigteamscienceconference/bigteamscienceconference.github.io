@@ -49,7 +49,7 @@ layout: page
       </div>
       <div class="col-sm-8">
         <h3><a href="https://angeladuckworth.com/" target="_blank">Angela Duckworth, Ph.D.</a></h3>
-        <i>Co-director of the Penn-Wharton <a href="https://www.wwhge.org/" target="_blank">Behavior Change for Good Initiative</a> & Professor of Psychology | University of Pennsylvania, US</i>
+        <i>Co-director of the Penn-Wharton <a href="https://bcfg.wharton.upenn.edu/" target="_blank">Behavior Change for Good Initiative</a> & Professor of Psychology | University of Pennsylvania, US</i>
         <h4>Megastudies: A new paradigm for field studies in social science</h4>
         <i>Monday, October 6 | 15:00-16:00 UTC</i>
       </div>
