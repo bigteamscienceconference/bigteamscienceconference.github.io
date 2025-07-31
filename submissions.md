@@ -13,7 +13,7 @@ title: submissions
 * *Talks, lightning talks, and unconferences:* maximum 250 words
 
 
-<h3 align="center">Deadline: July 31, 2025</h3>
+<h3 align="center">Deadline: August 8, 2025</h3>
 
 
 <br>
