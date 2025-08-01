@@ -9,8 +9,8 @@ title: submissions
 <h4 align="center">Submissions for all <a href="#sessions">session types</a> are now open!</h4>
 
 
-* *Panels, hackathons, and symposia:* maximum 500 words
-* *Talks, lightning talks, and unconferences:* maximum 250 words
+* *Panels, hackathons, unconferences, and symposia:* maximum 500 words
+* *Talks and lightning talks:* maximum 250 words
 
 
 <h3 align="center">Deadline: August 8, 2025</h3>
