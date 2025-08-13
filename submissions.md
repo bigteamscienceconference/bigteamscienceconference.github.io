@@ -3,10 +3,11 @@ layout: page
 title: submissions
 ---
 
-
+<!--
 <h2 align="center"> >>> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdIfHkVRsmgCAL2YUzbDfyI91gElCtlXPkIPUwoOcxLZIeIYw/viewform?usp=dialog" target="_blank">Submit your abstract here!</a> <<< </h2> 
+-->
 
-<h4 align="center">Submissions for all <a href="#sessions">session types</a> are now open!</h4>
+<h4 align="center">Submissions for the 2025 BTSCON are now closed</h4>
 
 
 * *Panels, hackathons, unconferences, and symposia:* maximum 500 words

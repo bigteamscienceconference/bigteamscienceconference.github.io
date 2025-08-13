@@ -16,14 +16,14 @@ layout: page
 <h2 align="center"><a href="{{site.baseurl}}/registration/">Register</a> now! <i>(all fees are optional!)</i></h2>
 
 ***
-
+<!--
 <h2 align="center"><a href="{{site.baseurl}}/submissions/">Submit an abstract</a> to present at this year's BTSCON!</h2>
+-->
 
 ***
 
 ### Quick Links:
 
-* <b><a href="{{site.baseurl}}/submissions/">Submission info</a></b>
 * <b><a href="{{site.baseurl}}/registration/">Registration</a></b>
 * <b><a href="{{site.baseurl}}/codeofconduct/">Code of conduct & meeting rules</a></b>
 * <b><a href="{{site.baseurl}}/access/">Accessibility information</a></b>
