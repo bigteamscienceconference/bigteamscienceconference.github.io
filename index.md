@@ -99,6 +99,7 @@ layout: page
         <h3>Registered Replication Report: Study 3 From Trafimow and Hughes (2012)</h3>
         <i>Monday, October 6 | 16:00-16:30 UTC</i><br>
         <b>Presenter: <a href="https://seanrife.com/" target="_blank">Sean Rife</a></b>, <i>Murray State University</i><br>
+        <br>
       </div>
     </div>
     <div class="row">
@@ -112,7 +113,7 @@ layout: page
         <b>Presenters:</b><br>
         <b><a href="" target="_blank">Amelia Ibarra Mevans</a></b>, <i>University of Arizona</i><br>
         <b><a href="" target="_blank">Diana Núñez</a></b>, <i>Yale University</i><br>
-        <b><a href="" target="_blank">Iris Žeželj</a></b>, <i>University of Belgrade</i>
+        <b><a href="" target="_blank">Iris Žeželj</a></b>, <i>University of Belgrade</i><br>
         <br>
       </div>
     </div>
@@ -130,7 +131,7 @@ layout: page
         <b><a href="" target="_blank">Paola Giusti-Rodriguez</a></b>, <i>Assistant Professor, University of Florida | Executive Committee and Co-founder of the Latin American Genomics Consortium</i><br>
         <b><a href="" target="_blank">Amelia Ibarra Mevans</a></b>, <i>Clinical Psychology Graduate Student, University of Arizona | Co-leader of the Vigilance In LATin America Research Group</i><br>
         <b><a href="" target="_blank">Iris Žeželj</a></b>, <i>Professor of Social Psychology, University of Belgrade | 
-Leader of the "Common drivers of questionable health behaviours identified across 33 countries and five continents" project</i>
+Leader of the "Common drivers of questionable health behaviours identified across 33 countries and five continents" project</i><br>
       </div>
     </div>
   </div>
