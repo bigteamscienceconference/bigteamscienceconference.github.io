@@ -81,7 +81,53 @@ layout: page
 
 ***
 
-> More information about invited speakers and sessions is coming soon!
+### Featured Sessions
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <p>    </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-4" align="center">
+        <br>
+        <img src="/assets/img/globe.jpg" alt="" width="200" style="border-radius: 50%;"></a>
+      </div>
+      <div class="col-sm-8">
+        <h3>Majority world leadership in Big-Team Science: Barriers, opportunities and ways forward</h3>
+        <b>Moderator: <a href="https://investigadores.unison.mx/en/persons/nadia-sarai-corral-frias" target="_blank">Nadia Sarai Corral-Frias</a></b>, <i>Universidad de Sonora, México</i><br>
+        <b>Panelists:<br>
+        <a href="" target="_blank">Adeyemi Adetula</a></b>, <i>Lecturer/Research Scientist, Alex Ekwueme Federal University, Nigeria | Lead researcher Many Labs Africa</i><br>
+        <a href="" target="_blank">Paola Giusti-Rodriguez</a></b>, <i>Assistant Professor, University of Florida | Executive Committee and Co-founder of the Latin American Genomics Consortium</i><br>
+        <a href="" target="_blank">Amelia Ibarra Mevans</a></b>, <i>Clinical Psychology Graduate Student, University of Arizona | Co-leader of the Vigilance In LATin America Research Group</i><br>
+        <a href="" target="_blank">Iris Žeželj</a></b>, <i>Professor of Social Psychology, University of Belgrade | 
+Leader of the "Common drivers of questionable health behaviours identified across 33 countries and five continents" project</i><br>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12">
+        <p>    </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-4" align="center">
+        <br>
+        <img src="/assets/img/forest.png" alt="" width="200" style="border-radius: 50%;"></a>
+      </div>
+      <div class="col-sm-8">
+        <h3>Registered Replication Report: Study 3 From Trafimow and Hughes (2012)</h3>
+        <b>Presenter: <a href="https://seanrife.com/" target="_blank">Sean Rife</a></b>, <i>Murray State University</i><br>
+      </div>
+    </div>
+  </div>
+</section>
+
+<br>
+
+
+> More information about featured sessions is coming soon!
 
 <br>
 
