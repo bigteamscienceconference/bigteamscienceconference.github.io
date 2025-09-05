@@ -108,7 +108,7 @@ layout: page
         <img src="/assets/img/globe.jpg" alt="" width="150" style="border-radius: 50%;">
       </div>
       <div class="col-sm-10">
-        <h3>Big-Team Science projects in the Majority world</h3>
+        <h3>Big Team Science projects in the Majority world</h3>
         <i>Tuesday, October 7 | 15:00-16:30 UTC</i><br>
         <b>Presenters:</b><br>
         <b><a href="" target="_blank">Amelia Ibarra Mevans</a></b>, <i>University of Arizona</i><br>
@@ -123,7 +123,7 @@ layout: page
         <img src="/assets/img/globe.jpg" alt="" width="150" style="border-radius: 50%;">
       </div>
       <div class="col-sm-10">
-        <h3>Majority world leadership in Big-Team Science: Barriers, opportunities and ways forward</h3>
+        <h3>Majority world leadership in Big Team Science: Barriers, opportunities and ways forward</h3>
         <i>Wednesday, October 8 | 15:00-16:00 UTC</i><br>
         <b>Moderator: <a href="https://investigadores.unison.mx/en/persons/nadia-sarai-corral-frias" target="_blank">Nadia Sarai Corral-Frias</a></b>, <i>Universidad de Sonora, México</i><br>
         <b>Panelists:</b><br>
