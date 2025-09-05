@@ -100,9 +100,9 @@ layout: page
         <b>Moderator: <a href="https://investigadores.unison.mx/en/persons/nadia-sarai-corral-frias" target="_blank">Nadia Sarai Corral-Frias</a></b>, <i>Universidad de Sonora, México</i><br>
         <b>Panelists:<br>
         <a href="" target="_blank">Adeyemi Adetula</a></b>, <i>Lecturer/Research Scientist, Alex Ekwueme Federal University, Nigeria | Lead researcher Many Labs Africa</i><br>
-        <a href="" target="_blank">Paola Giusti-Rodriguez</a></b>, <i>Assistant Professor, University of Florida | Executive Committee and Co-founder of the Latin American Genomics Consortium</i><br>
-        <a href="" target="_blank">Amelia Ibarra Mevans</a></b>, <i>Clinical Psychology Graduate Student, University of Arizona | Co-leader of the Vigilance In LATin America Research Group</i><br>
-        <a href="" target="_blank">Iris Žeželj</a></b>, <i>Professor of Social Psychology, University of Belgrade | 
+        <b><a href="" target="_blank">Paola Giusti-Rodriguez</a></b>, <i>Assistant Professor, University of Florida | Executive Committee and Co-founder of the Latin American Genomics Consortium</i><br>
+        <b><a href="" target="_blank">Amelia Ibarra Mevans</a></b>, <i>Clinical Psychology Graduate Student, University of Arizona | Co-leader of the Vigilance In LATin America Research Group</i><br>
+        <b><a href="" target="_blank">Iris Žeželj</a></b>, <i>Professor of Social Psychology, University of Belgrade | 
 Leader of the "Common drivers of questionable health behaviours identified across 33 countries and five continents" project</i><br>
       </div>
     </div>
