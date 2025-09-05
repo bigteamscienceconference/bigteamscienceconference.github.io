@@ -91,11 +91,11 @@ layout: page
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-3" align="center">
+      <div class="col-sm-2" align="center">
         <br>
         <img src="/assets/img/globe.jpg" alt="" width="150" style="border-radius: 50%;">
       </div>
-      <div class="col-sm-9">
+      <div class="col-sm-10">
         <h3>Majority world leadership in Big-Team Science: Barriers, opportunities and ways forward</h3>
         <b>Moderator: <a href="https://investigadores.unison.mx/en/persons/nadia-sarai-corral-frias" target="_blank">Nadia Sarai Corral-Frias</a></b>, <i>Universidad de Sonora, México</i><br>
         <b>Panelists:<br>
@@ -112,11 +112,11 @@ Leader of the "Common drivers of questionable health behaviours identified acros
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-3" align="center">
+      <div class="col-sm-2" align="center">
         <br>
         <img src="/assets/img/forest.png" alt="" width="150">
       </div>
-      <div class="col-sm-9">
+      <div class="col-sm-10">
         <h3>Registered Replication Report: Study 3 From Trafimow and Hughes (2012)</h3>
         <b>Presenter: <a href="https://seanrife.com/" target="_blank">Sean Rife</a></b>, <i>Murray State University</i><br>
       </div>
