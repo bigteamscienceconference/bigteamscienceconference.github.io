@@ -109,10 +109,11 @@ layout: page
       <div class="col-sm-10">
         <h3>Big-Team Science projects in the Majority world</h3>
         <i>Tuesday, October 7 | 15:00-16:30 UTC</i><br>
-        <b>Presenters:<br>
+        <b>Presenters:</b><br>
         <b><a href="" target="_blank">Amelia Ibarra Mevans</a></b>, <i>University of Arizona</i><br>
         <b><a href="" target="_blank">Diana Núñez</a></b>, <i>Yale University</i><br>
         <b><a href="" target="_blank">Iris Žeželj</a></b>, <i>University of Belgrade</i>
+        <br>
       </div>
     </div>
     <div class="row">
