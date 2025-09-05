@@ -113,7 +113,7 @@ layout: page
         <b>Presenters:<br>
         <b><a href="" target="_blank">Amelia Ibarra Mevans</a></b>, <i>University of Arizona</i><br>
         <b><a href="" target="_blank">Diana Núñez</a></b>, <i>Yale University</i><br>
-        <b><a href="" target="_blank">Iris Žeželj</a></b>, <i>University of Belgrade</i><br>
+        <b><a href="" target="_blank">Iris Žeželj</a></b>, <i>University of Belgrade</i>
       </div>
     </div>
     <div class="row">
@@ -133,10 +133,6 @@ layout: page
 Leader of the "Common drivers of questionable health behaviours identified across 33 countries and five continents" project</i><br>
       </div>
     </div>
-    <div class="row">
-      <div class="col-sm-12">
-        <p>    </p>
-      </div>
   </div>
 </section>
 
