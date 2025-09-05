@@ -114,7 +114,7 @@ Leader of the "Common drivers of questionable health behaviours identified acros
     <div class="row">
       <div class="col-sm-4" align="center">
         <br>
-        <img src="/assets/img/forest.png" alt="" width="200" style="border-radius: 50%;"></a>
+        <img src="/assets/img/forest.png" alt="" width="200"></a>
       </div>
       <div class="col-sm-8">
         <h3>Registered Replication Report: Study 3 From Trafimow and Hughes (2012)</h3>
