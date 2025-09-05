@@ -90,6 +90,32 @@ layout: page
         <p>    </p>
       </div>
     </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2" align="center">
+        <br>
+        <img src="/assets/img/forest.png" alt="" width="150">
+      </div>
+      <div class="col-sm-10">
+        <h3>Registered Replication Report: Study 3 From Trafimow and Hughes (2012)</h3>
+        <i>Monday, October 6 | 16:00-16:30 UTC</i><br>
+        <b>Presenter: <a href="https://seanrife.com/" target="_blank">Sean Rife</a></b>, <i>Murray State University</i><br>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2" align="center">
+        <br>
+        <img src="/assets/img/globe.jpg" alt="" width="150" style="border-radius: 50%;">
+      </div>
+      <div class="col-sm-10">
+        <h3>Big-Team Science projects in the Majority world</h3>
+        <i>Tuesday, October 7 | 15:00-16:30 UTC</i><br>
+        <b>Presenters:<br>
+        <b><a href="" target="_blank">Amelia Ibarra Mevans</a></b>, <i>University of Arizona</i><br>
+        <b><a href="" target="_blank">Diana Núñez</a></b>, <i>Yale University</i><br>
+        <b><a href="" target="_blank">Iris Žeželj</a></b>, <i>University of Belgrade</i><br>
+      </div>
+    </div>
     <div class="row">
       <div class="col-sm-2" align="center">
         <br>
@@ -97,6 +123,7 @@ layout: page
       </div>
       <div class="col-sm-10">
         <h3>Majority world leadership in Big-Team Science: Barriers, opportunities and ways forward</h3>
+        <i>Wednesday, October 8 | 15:00-16:00 UTC</i><br>
         <b>Moderator: <a href="https://investigadores.unison.mx/en/persons/nadia-sarai-corral-frias" target="_blank">Nadia Sarai Corral-Frias</a></b>, <i>Universidad de Sonora, México</i><br>
         <b>Panelists:<br>
         <a href="" target="_blank">Adeyemi Adetula</a></b>, <i>Lecturer/Research Scientist, Alex Ekwueme Federal University, Nigeria | Lead researcher Many Labs Africa</i><br>
@@ -110,17 +137,6 @@ Leader of the "Common drivers of questionable health behaviours identified acros
       <div class="col-sm-12">
         <p>    </p>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-2" align="center">
-        <br>
-        <img src="/assets/img/forest.png" alt="" width="150">
-      </div>
-      <div class="col-sm-10">
-        <h3>Registered Replication Report: Study 3 From Trafimow and Hughes (2012)</h3>
-        <b>Presenter: <a href="https://seanrife.com/" target="_blank">Sean Rife</a></b>, <i>Murray State University</i><br>
-      </div>
-    </div>
   </div>
 </section>
 
