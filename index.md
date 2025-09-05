@@ -93,7 +93,7 @@ layout: page
     <div class="row">
       <div class="col-sm-4" align="center">
         <br>
-        <img src="/assets/img/globe.jpg" alt="" width="200" style="border-radius: 50%;"></a>
+        <img src="/assets/img/globe.jpg" alt="" width="200" style="border-radius: 50%;">
       </div>
       <div class="col-sm-8">
         <h3>Majority world leadership in Big-Team Science: Barriers, opportunities and ways forward</h3>
