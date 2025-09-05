@@ -96,7 +96,7 @@ layout: page
         <img src="/assets/img/forest.png" alt="" width="150">
       </div>
       <div class="col-sm-10">
-        <h3>Registered Replication Report: Study 3 From Trafimow and Hughes (2012)</h3>
+        <h3>Registered replication report: Study 3 from Trafimow and Hughes (2012)</h3>
         <i>Monday, October 6 | 16:00-16:30 UTC</i><br>
         <b>Presenter: <a href="https://seanrife.com/" target="_blank">Sean Rife</a></b>, <i>Murray State University</i><br>
         <br>
