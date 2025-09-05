@@ -129,7 +129,7 @@ layout: page
         <b><a href="" target="_blank">Paola Giusti-Rodriguez</a></b>, <i>Assistant Professor, University of Florida | Executive Committee and Co-founder of the Latin American Genomics Consortium</i><br>
         <b><a href="" target="_blank">Amelia Ibarra Mevans</a></b>, <i>Clinical Psychology Graduate Student, University of Arizona | Co-leader of the Vigilance In LATin America Research Group</i><br>
         <b><a href="" target="_blank">Iris Žeželj</a></b>, <i>Professor of Social Psychology, University of Belgrade | 
-Leader of the "Common drivers of questionable health behaviours identified across 33 countries and five continents" project</i><br>
+Leader of the "Common drivers of questionable health behaviours identified across 33 countries and five continents" project</i>
       </div>
     </div>
   </div>
