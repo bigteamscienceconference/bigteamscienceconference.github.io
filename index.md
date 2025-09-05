@@ -90,7 +90,6 @@ layout: page
         <p>    </p>
       </div>
     </div>
-    </div>
     <div class="row">
       <div class="col-sm-2" align="center">
         <br>
