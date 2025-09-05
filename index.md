@@ -125,8 +125,8 @@ layout: page
         <h3>Majority world leadership in Big-Team Science: Barriers, opportunities and ways forward</h3>
         <i>Wednesday, October 8 | 15:00-16:00 UTC</i><br>
         <b>Moderator: <a href="https://investigadores.unison.mx/en/persons/nadia-sarai-corral-frias" target="_blank">Nadia Sarai Corral-Frias</a></b>, <i>Universidad de Sonora, México</i><br>
-        <b>Panelists:<br>
-        <a href="" target="_blank">Adeyemi Adetula</a></b>, <i>Lecturer/Research Scientist, Alex Ekwueme Federal University, Nigeria | Lead researcher Many Labs Africa</i><br>
+        <b>Panelists:</b><br>
+        <b><a href="" target="_blank">Adeyemi Adetula</a></b>, <i>Lecturer/Research Scientist, Alex Ekwueme Federal University, Nigeria | Lead researcher Many Labs Africa</i><br>
         <b><a href="" target="_blank">Paola Giusti-Rodriguez</a></b>, <i>Assistant Professor, University of Florida | Executive Committee and Co-founder of the Latin American Genomics Consortium</i><br>
         <b><a href="" target="_blank">Amelia Ibarra Mevans</a></b>, <i>Clinical Psychology Graduate Student, University of Arizona | Co-leader of the Vigilance In LATin America Research Group</i><br>
         <b><a href="" target="_blank">Iris Žeželj</a></b>, <i>Professor of Social Psychology, University of Belgrade | 
