@@ -41,7 +41,7 @@ title: program
 ***
 
 ## 2025 Program Committee
-* [**Nicolás Alessandroni**](https://scholar.google.com/citations?user=O0JkchsAAAAJ&hl=en){target="_blank"}, *Concordia University, Canada*
+* [**Nicolás Alessandroni**](https://scholar.google.com/citations?user=O0JkchsAAAAJ&hl=en), *Concordia University, Canada*
 * [**W. Matthew Collins**](https://psychology.nova.edu/faculty/profile/collins.html), *Nova Southeastern University, USA*
 * [**Laurent Prétôt**](https://www.pittstate.edu/education/psychology-and-counseling/faculty-and-staff/laurent-pr%C3%A9t%C3%B4t.html), *Pittsburg State University, USA*
 * [**Ekaterina Pronizius**](https://pronizius.com/), *SCAN-Unit, Austria & UCLouvain, Belgium*
