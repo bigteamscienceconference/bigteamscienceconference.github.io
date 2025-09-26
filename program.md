@@ -9,7 +9,7 @@ title: program
 
 ***
 
-<iframe src="<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTZqEKPthc4JIyAoReoZphY2qrMYHzteli_K0sScY7R_42QnYWdz2w8ZDAE3dY4ieDuY3O4S2VC41-n/pubhtml?gid=1014562965&amp;single=true&amp;widget=true&amp;headers=false"></iframe>" width="750" height="500"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTZqEKPthc4JIyAoReoZphY2qrMYHzteli_K0sScY7R_42QnYWdz2w8ZDAE3dY4ieDuY3O4S2VC41-n/pubhtml?gid=1014562965&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 > Note: Session times subject to change
 
@@ -18,10 +18,6 @@ title: program
 
 <!--
 <h3><a href="" target="blank">View the 2025 BTS Conference Program here</a></h3>
-
-
-
-
 
 
 <h2>2025 Program at a glance</h2>
