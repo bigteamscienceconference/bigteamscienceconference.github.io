@@ -4,6 +4,7 @@ title: program
 <!--cover-img: /assets/img/events_blank.png-->
 ---
 
+> Full conference program is coming soon!
 
 <h4 align="center"><i>Note:</i> The live conference schedule with links to sessions will be provided to conference registrants via email. To access the live schedule, <a href="{{site.baseurl}}/registration/">REGISTER NOW</a></h4>
 
