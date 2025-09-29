@@ -9,7 +9,7 @@ title: program
 
 ***
 
-<h2 align="center"> >>> <a href="https://docs.google.com/document/d/1jLYjmY4n-MC09vG3xA-C4ZLvZGdpey23N3dJ6l38hSw/edit?usp=sharing" target="blank">View the 2025 BTS Conference Program</a> <<< </h2>
+<h2 align="center"> >>> <a href="https://docs.google.com/document/d/1jLYjmY4n-MC09vG3xA-C4ZLvZGdpey23N3dJ6l38hSw/edit?usp=sharing" target="blank">View the 2025 BTSCON Program</a> <<< </h2>
 
 ***
 
