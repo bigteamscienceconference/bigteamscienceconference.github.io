@@ -8,6 +8,9 @@ title: program
 <h4 align="center"><i>Note:</i> The live conference schedule with links to sessions will be provided to conference registrants via email. To access the live schedule, <a href="{{site.baseurl}}/registration/">REGISTER NOW</a></h4>
 
 ***
+<h3><a href="https://docs.google.com/document/d/1jLYjmY4n-MC09vG3xA-C4ZLvZGdpey23N3dJ6l38hSw/edit?usp=sharing" target="blank">View the 2025 BTS Conference Program here</a></h3>
+
+***
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTZqEKPthc4JIyAoReoZphY2qrMYHzteli_K0sScY7R_42QnYWdz2w8ZDAE3dY4ieDuY3O4S2VC41-n/pubhtml?gid=1014562965&amp;single=true&amp;widget=true&amp;headers=false" width="750" height="500"></iframe>
 
@@ -17,7 +20,7 @@ title: program
 
 
 <!--
-<h3><a href="" target="blank">View the 2025 BTS Conference Program here</a></h3>
+
 
 
 <h2>2025 Program at a glance</h2>
