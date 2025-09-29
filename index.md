@@ -15,6 +15,10 @@ layout: page
 
 <h2 align="center"><a href="{{site.baseurl}}/registration/">Register</a> now! <i>(all fees are optional!)</i></h2>
 
+***
+
+<h2 align="center"><a href="{{site.baseurl}}/program/">View the Program</a></h2>
+
 <!--
 
 ***
@@ -27,6 +31,7 @@ layout: page
 ### Quick Links:
 
 * <b><a href="{{site.baseurl}}/registration/">Registration</a></b>
+* <b><a href="{{site.baseurl}}/program/">Program & schedule</a></b>
 * <b><a href="{{site.baseurl}}/codeofconduct/">Code of conduct & meeting rules</a></b>
 * <b><a href="{{site.baseurl}}/access/">Accessibility information</a></b>
 * <b><a href="#sponsors">Sponsor organizations</a></b>
