@@ -16,7 +16,6 @@ title: program
 
 > Note: Session times subject to change
 
-> Full conference program with session abstracts is coming soon!
 
 
 <!--
