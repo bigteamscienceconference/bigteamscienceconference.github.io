@@ -157,6 +157,8 @@ The Big Team Science Conference is presented by [CONNECT](https://connect-btss.g
 
 <a href="https://www.sshrc-crsh.gc.ca/" alt="CRSH:Conseil de recherches en sciences humaines du Canada; SSHRC: Social Sciences and Humanities Research Council of Canada" target="_blank"><img src="/assets/img/sshrc-logo.jpg" style="width:50%"></a><br>
 
+*This year's conference is organized by members of ManyBabies, the Psychological Science Accelerator, and ABRIR.*
+
 <section>
 	<div class="container">
 		<div class="row justify-content-around">
