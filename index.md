@@ -144,11 +144,6 @@ Leader of the "Common drivers of questionable health behaviours identified acros
 
 <br>
 
-
-> More information about featured sessions is coming soon!
-
-<br>
-
 ***
 
 <h2 id="sponsors">Sponsor Organizations</h2>
