@@ -165,7 +165,7 @@ The Big Team Science Conference is presented by [CONNECT](https://connect-btss.g
 	<div class="container">
 	  <div class="row justify-content-around">
 	    <div class="col-lg-6" align="center">
-	      <p>The Big Team Science Conference is presented by <a href="https://connect-btss.github.io/" target="_blank><b>CONNECT</b></a>, an <a href="https://www.sshrc-crsh.gc.ca/" target="_blank>SSHRC</a>-funded partnership that unites seven Big Team Social Science (BTSS) networks comprising more than 3,500 researchers from over 70 countries.</p>
+	      <p>The Big Team Science Conference is presented by <b><a href="https://connect-btss.github.io/" target="_blank>CONNECT</a></b>, an <a href="https://www.sshrc-crsh.gc.ca/" target="_blank>SSHRC</a>-funded partnership that unites seven Big Team Social Science (BTSS) networks comprising more than 3,500 researchers from over 70 countries.</p><br>
 		    <a href="https://www.sshrc-crsh.gc.ca/" class="image" target="_blank"><img src="/assets/img/sshrc-logo.jpg" alt="CRSH:Conseil de recherches en sciences humaines du Canada; SSHRC: Social Sciences and Humanities Research Council of Canada" style="width:50%"></a>
 		  </div>
 	  </div>
