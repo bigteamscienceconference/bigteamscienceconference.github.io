@@ -159,8 +159,19 @@ The Big Team Science Conference is presented by [CONNECT](https://connect-btss.g
 
 *This year's conference is organized by members of ManyBabies, the Psychological Science Accelerator, and ABRIR.*
 
+***
+
 <section>
 	<div class="container">
+	  <div class="row justify-content-around">
+	    <div class="col-lg-6" align="center">
+	      <p>The Big Team Science Conference is presented by [CONNECT](https://connect-btss.github.io/), an [SSHRC](https://www.sshrc-crsh.gc.ca/)-funded partnership that unites seven Big Team Social Science (BTSS) networks comprising more than 3,500 researchers from over 70 countries.</p>
+		    <a href="https://www.sshrc-crsh.gc.ca/" class="image" target="_blank"><img src="/assets/img/sshrc-logo.jpg" alt="CRSH:Conseil de recherches en sciences humaines du Canada; SSHRC: Social Sciences and Humanities Research Council of Canada" style="width:50%"></a>
+		  </div>
+	  </div>
+	  <div class="row justify-content-around" align="center">
+	    <p>This year's conference is organized by members of ManyBabies, the Psychological Science Accelerator, and ABRIR.</p>
+	  </div>
 		<div class="row justify-content-around">
 		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
 		    <a href="https://manybabies.github.io" class="image" target="_blank"><img src="/assets/img/MB_logo.png" alt="ManyBabies" width="100" height="100"></a>
