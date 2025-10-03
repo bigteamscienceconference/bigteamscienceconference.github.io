@@ -152,9 +152,12 @@ Leader of the "Common drivers of questionable health behaviours identified acros
 ***
 
 <h2 id="sponsors">Sponsor Organizations</h2>
+
+The Big Team Science Conference is presented by [CONNECT](https://connect-btss.github.io/), an [SSHRC](https://www.sshrc-crsh.gc.ca/)-funded partnership that unites seven Big Team Social Science (BTSS) networks comprising more than 3,500 researchers from over 70 countries.<br>
+
+<a href="https://www.sshrc-crsh.gc.ca/" alt="CRSH:Conseil de recherches en sciences humaines du Canada; SSHRC: Social Sciences and Humanities Research Council of Canada" target="_blank"><img src="/assets/img/sshrc-logo.jpg" style="width:50%"></a><br>
+
 <section>
-	<div>If you're interested in sponsoring the conference, especially if you're interested in supporting diversity bursaries, please <a href="{{site.baseurl}}/contact/">contact us</a>. </div>
-	<br>
 	<div class="container">
 		<div class="row justify-content-around">
 		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
@@ -170,5 +173,5 @@ Leader of the "Common drivers of questionable health behaviours identified acros
   </div>
 </section>
 
-
+> If you're interested in sponsoring the conference, especially if you're interested in supporting diversity bursaries, please <a href="{{site.baseurl}}/contact/">contact us</a>.
 
