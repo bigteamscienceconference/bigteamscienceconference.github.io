@@ -161,17 +161,20 @@ Leader of the "Common drivers of questionable health behaviours identified acros
 	  </div>
 	  <div class="row justify-content-around" align="center">
 	    <br>
-	    <p>This year's conference is organized by members of ManyBabies, the Psychological Science Accelerator, and ABRIR.</p>
+	    <p>This year's conference is organized by members of:</p>
 	  </div>
 		<div class="row justify-content-around">
 		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
 		    <a href="https://manybabies.github.io" class="image" target="_blank"><img src="/assets/img/MB_logo.png" alt="ManyBabies" width="100" height="100"></a>
+		    <h4>ManyBabies</h4>
 		  </div>
 		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
 			  <a href="https://psysciacc.org/" class="image" target="_blank"><img src="/assets/img/psa_logo.png" alt="PSA" width="100" height="100"></a>
+			  <h4>Psychological Science Accelerator</h4>
 		  </div>
 		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
 			  <a href="https://abrirpsy.org/" class="image" target="_blank"><img src="/assets/img/abrir.png" alt="ABRIR" height="100"></a>
+			  <h4>ABRIR</h4>
 		  </div>
 	  </div>
   </div>
