@@ -7,10 +7,12 @@ layout: page
 
 
 
-<p>The fourth annual <b>Big Team Science Conference</b> will be held virtually via Zoom <b>October 6-8, 2025</b>. The goal of this three-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to Big Team Science. </p>
+<p>The fourth annual <b>Big Team Science Conference</b> was  held virtually via Zoom <b>October 6-8, 2025</b>. The goal of this three-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to Big Team Science. </p>
 
-<p>We loosely define <i>Big Team Science</i> as collaborations wherein a comparatively large number of researchers pool their intellectual and/or material resources to pursue a common goal. If your work fits under this definition, we want to hear about it! And if you're curious about large collaborative science and want to learn more, join us in October!</p>
+<p>We loosely define <i>Big Team Science</i> as collaborations wherein a comparatively large number of researchers pool their intellectual and/or material resources to pursue a common goal. If your work fits under this definition, we want to hear about it! And if you're curious about large collaborative science and want to learn more, join us at our next conference!</p>
 
+
+<!--
 ***
 
 <h2 align="center"><a href="{{site.baseurl}}/registration/">Register now!</a> <i>(all fees are optional!)</i></h2>
@@ -19,19 +21,18 @@ layout: page
 
 <h2 align="center"><a href="{{site.baseurl}}/program/">View the Program</a></h2>
 
-<!--
-
 ***
 
 <h2 align="center"><a href="{{site.baseurl}}/submissions/">Submit an abstract</a> to present at this year's BTSCON!</h2>
+
+* <b><a href="{{site.baseurl}}/registration/">Registration</a></b>
 -->
 
 ***
 
 ### Quick Links:
 
-* <b><a href="{{site.baseurl}}/registration/">Registration</a></b>
-* <b><a href="{{site.baseurl}}/program/">Program & schedule</a></b>
+* <b><a href="{{site.baseurl}}/program/">2025 Program & schedule</a></b>
 * <b><a href="{{site.baseurl}}/codeofconduct/">Code of conduct & meeting rules</a></b>
 * <b><a href="{{site.baseurl}}/access/">Accessibility information</a></b>
 * <b><a href="#sponsors">Sponsor organizations</a></b>
@@ -146,7 +147,7 @@ Leader of the "Common drivers of questionable health behaviours identified acros
 
 ***
 
-<h2 id="sponsors">Sponsor Organizations</h2>
+<h2 id="sponsors">2025 Sponsor Organizations</h2>
 
 <section>
 	<div class="container">

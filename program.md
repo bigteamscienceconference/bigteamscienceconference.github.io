@@ -4,9 +4,9 @@ title: program
 <!--cover-img: /assets/img/events_blank.png-->
 ---
 
-
+<!--
 <h4 align="center"><i>Note:</i> The live conference schedule with links to sessions will be provided to conference registrants via email. To access the live schedule, <a href="{{site.baseurl}}/registration/">REGISTER NOW</a></h4>
-
+-->
 ***
 
 <h2 align="center"> >>> <a href="https://docs.google.com/document/d/1jLYjmY4n-MC09vG3xA-C4ZLvZGdpey23N3dJ6l38hSw/edit?usp=sharing" target="blank">View the 2025 BTSCON Program</a> <<< </h2>
@@ -16,21 +16,6 @@ title: program
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTZqEKPthc4JIyAoReoZphY2qrMYHzteli_K0sScY7R_42QnYWdz2w8ZDAE3dY4ieDuY3O4S2VC41-n/pubhtml?gid=1014562965&amp;single=true&amp;widget=true&amp;headers=false" width="750" height="500"></iframe>
 
 > Note: Session times subject to change
-
-
-
-<!--
-
-<h2>2025 Program at a glance</h2>
-
->[Link to schedule]()
-
-<iframe width='100%' height='500' src=""></iframe>
-
->Full conference program with meeting info and abstracts for all sessions will be sent to registrants soon!
-
-<br>
--->
 
 
 ***

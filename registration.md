@@ -3,15 +3,16 @@ layout: page
 title: registration
 ---
 
-<h2 align="center"> >>> <a href="https://universityofalabama.az1.qualtrics.com/jfe/form/SV_8e5NBEknf2LCuyi" target="_blank">Register for the 2025 BTSCON now!</a> <<< </h2>
-
 <!--
-<h2>Registration for the 2025 BTSCON is now closed.</h2>
+<h2 align="center"> >>> <a href="https://universityofalabama.az1.qualtrics.com/jfe/form/SV_8e5NBEknf2LCuyi" target="_blank">Register for the 2025 BTSCON now!</a> <<< </h2>
+-->
+
+<h2>Registration for the 2025 BTSCON is now closed. We'll see you in 2026!</h2>
 
 ***
 
 > If you would like to support the big team science efforts of our sponsor organizations before the next conference, you can make a tax-deductible donation to the [ManyBabies financial collective](https://opencollective.com/manybabiesoce) and/or [Psychological Science Accelerator financial collective](https://psysciacc.org/). 
--->
+
 
 ***
 
@@ -32,6 +33,3 @@ To balance inclusivity with our funding needs, *registration fees for the Big Te
 
 > All proceeds will be used to develop and improve upon future big team science projects.
 
-<!--
-# [Donate Here!](https://opencollective.com/psysciacc/events/test-event-23392c94/contribute/registration-2022-big-team-science-conference-40278)
--->
