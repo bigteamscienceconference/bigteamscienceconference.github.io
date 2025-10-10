@@ -6,7 +6,7 @@ layout: page
 <img src="/assets/img/BTSCon2025_logo.png" alt="2025 Big Team Science Conference; hosted virtually" />
 -->
 
-<p>The goal of this virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to Big Team Science. The fifth annual <b>Big Team Science Conference</b> will be held virtually via Zoom in autumn, 2026.</p>
+<p>The goal of the **Big Team Science Conference** is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to Big Team Science. The fifth annual <b>Big Team Science Conference</b> will be held virtually via Zoom in autumn, 2026.</p>
 
 <p>We loosely define <i>Big Team Science</i> as collaborations wherein a comparatively large number of researchers pool their intellectual and/or material resources to pursue a common goal. If your work fits under this definition, we want to hear about it! And if you're curious about large collaborative science and want to learn more, join us at our next conference!</p>
 
