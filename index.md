@@ -7,7 +7,7 @@ layout: page
 
 
 
-<p>The fourth annual <b>Big Team Science Conference</b> was  held virtually via Zoom <b>October 6-8, 2025</b>. The goal of this three-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to Big Team Science. </p>
+<p>The fourth annual <b>Big Team Science Conference</b> was held virtually via Zoom <b>October 6-8, 2025</b>. The goal of this three-day virtual conference is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to Big Team Science. </p>
 
 <p>We loosely define <i>Big Team Science</i> as collaborations wherein a comparatively large number of researchers pool their intellectual and/or material resources to pursue a common goal. If your work fits under this definition, we want to hear about it! And if you're curious about large collaborative science and want to learn more, join us at our next conference!</p>
 
