@@ -7,11 +7,11 @@ title: registration
 <h2 align="center"> >>> <a href="https://universityofalabama.az1.qualtrics.com/jfe/form/SV_8e5NBEknf2LCuyi" target="_blank">Register for the 2025 BTSCON now!</a> <<< </h2>
 -->
 
-<h2>Registration for the 2025 BTSCON is now closed. We'll see you in 2026!</h2>
+<h2>Registration for the 2026 BTSCON will open soon!</h2>
 
 ***
 
-> If you would like to support the big team science efforts of our sponsor organizations before the next conference, you can make a tax-deductible donation to the [ManyBabies financial collective](https://opencollective.com/manybabiesoce) and/or [Psychological Science Accelerator financial collective](https://psysciacc.org/). 
+> If you would like to support the big team science efforts of our sponsor organizations before the next conference, you can make a tax-deductible donation to the [ManyBabies financial collective](https://opencollective.com/manybabiesoce) and/or [Psychological Science Accelerator](https://www.paypal.com/fundraiser/charity/5217974). 
 
 
 ***
