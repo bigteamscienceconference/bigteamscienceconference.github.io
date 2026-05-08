@@ -19,7 +19,7 @@ title: program
 
 -->
 
-## The 2026 BTSCON Program will be released in September
+<h2 align="center">The 2026 BTSCON Program will be released in September</h2>
 
 <br>
 
