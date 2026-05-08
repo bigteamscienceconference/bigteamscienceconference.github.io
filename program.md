@@ -44,10 +44,10 @@ title: program
 
 ## Previous Conference Programs
 
-* <a href="https://docs.google.com/document/d/1jLYjmY4n-MC09vG3xA-C4ZLvZGdpey23N3dJ6l38hSw/edit?usp=sharing" target="blank"><b>2025 BTS Conference Program</b></a>
-* <a href="https://docs.google.com/document/d/e/2PACX-1vRLOKvaZdo58azXRvuO6jT-9YdvJ6TqJa5Yz-rcp3nfI4w-FJlg_0T3zDk_W0vqPXD-NVonQdxa1-M5/pub" target="blank"><b>2024 BTS Conference Program</b></a>
-* <a href="https://docs.google.com/document/d/1oaoYdM5wclx9PRBcThPSmPXMQvmGHZB2qbF-h7c_vok/edit?usp=sharing" target="blank"><b>2023 BTS Conference Program</b></a>
-* <a href="https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing" target="blank"><b>2022 BTS Conference Program</b></a>
+* <a href="https://docs.google.com/document/d/1jLYjmY4n-MC09vG3xA-C4ZLvZGdpey23N3dJ6l38hSw/edit?usp=sharing" target="blank"><b>2025 BTSCON Program</b></a>
+* <a href="https://docs.google.com/document/d/e/2PACX-1vRLOKvaZdo58azXRvuO6jT-9YdvJ6TqJa5Yz-rcp3nfI4w-FJlg_0T3zDk_W0vqPXD-NVonQdxa1-M5/pub" target="blank"><b>2024 BTSCON Program</b></a>
+* <a href="https://docs.google.com/document/d/1oaoYdM5wclx9PRBcThPSmPXMQvmGHZB2qbF-h7c_vok/edit?usp=sharing" target="blank"><b>2023 BTSCON Program</b></a>
+* <a href="https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit?usp=sharing" target="blank"><b>2022 BTSCON Program</b></a>
 
 <br>
 
