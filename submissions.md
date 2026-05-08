@@ -7,15 +7,15 @@ title: submissions
 <h2 align="center"> >>> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdIfHkVRsmgCAL2YUzbDfyI91gElCtlXPkIPUwoOcxLZIeIYw/viewform?usp=dialog" target="_blank">Submit your abstract here!</a> <<< </h2> 
 -->
 
-<h2 align="center">Submissions for the 2025 BTSCON are now closed</h2>
+<h2 align="center">Submissions for the 2026 BTSCON will open soon!</h2>
 
 
 * *Panels, hackathons, unconferences, and symposia:* maximum 500 words
 * *Talks and lightning talks:* maximum 250 words
 
-
+<!--
 <h3 align="center">Deadline: August 8, 2025</h3>
-
+-->
 
 <br>
 
