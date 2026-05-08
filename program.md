@@ -6,7 +6,7 @@ title: program
 
 <!--
 <h4 align="center"><i>Note:</i> The live conference schedule with links to sessions will be provided to conference registrants via email. To access the live schedule, <a href="{{site.baseurl}}/registration/">REGISTER NOW</a></h4>
--->
+
 ***
 
 <h2 align="center"> >>> <a href="https://docs.google.com/document/d/1jLYjmY4n-MC09vG3xA-C4ZLvZGdpey23N3dJ6l38hSw/edit?usp=sharing" target="blank">View the 2025 BTSCON Program</a> <<< </h2>
@@ -17,6 +17,8 @@ title: program
 
 > Note: Session times subject to change
 
+-->
+<h2 align="center">The 2026 program will be released in September. <a href="{{site.baseurl}}/previous-meetings/"><i>(View previous year programs)</i></a></h2>
 
 ***
 
@@ -28,12 +30,9 @@ title: program
 
 ***
 
-## 2025 Program Committee
-* [**Nicolás Alessandroni**](https://scholar.google.com/citations?user=O0JkchsAAAAJ&hl=en), *Concordia University, Canada*
-* [**W. Matthew Collins**](https://psychology.nova.edu/faculty/profile/collins.html), *Nova Southeastern University, USA*
-* [**Laurent Prétôt**](https://www.pittstate.edu/education/psychology-and-counseling/faculty-and-staff/laurent-pr%C3%A9t%C3%B4t.html), *Pittsburg State University, USA*
-* [**Ekaterina Pronizius**](https://pronizius.com/), *SCAN-Unit, Austria & UCLouvain, Belgium*
-* [**Christian Stephens**](https://www.linkedin.com/in/christian-stephens-30557722b/), *Iowa State University, USA*
+## 2026 Program Committee
+
+> Coming soon
 
 <br>
 
