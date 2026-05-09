@@ -10,7 +10,7 @@ title: Previous meetings
 
 <h3 align="center">2025 BTSCON</h3>
 
-<a href="{{site.baseurl}}/2025btscon/"><img src="/assets/img/BTSCon2025_logo.png" alt="2025 BTS-con" width="300"></a>
+<a href="{{site.baseurl}}/2025btscon/"><img src="/assets/img/BTSCon2025_logo.png" alt="2025 BTS-con" width="300" align="center"></a>
 
 <br>
 
@@ -21,7 +21,7 @@ title: Previous meetings
 <br>
 
 
-
+***
 
 <section>
   <div class="container" align="center">
