@@ -17,7 +17,7 @@ title: Previous meetings
 </style>
 
 
-<a href="{{site.baseurl}}/2025btscon/"><img src="/assets/img/BTSCon2025_logo.png" class="center-img" alt="2025 BTS-con" width="300"></a><br>
+<a href="{{site.baseurl}}/2025btscon/"><img src="/assets/img/BTSCon2025_logo.png" class="center-img" alt="2025 BTS-con" width="300"></a>
 
 <a href="{{site.baseurl}}/2024btscon/"><img src="/assets/img/BTSCon2024_logo.png" class="center-img" alt="2024 BTS-con" width="300"></a>
 
