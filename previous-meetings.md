@@ -8,8 +8,22 @@ title: Previous meetings
 
 ***
 
+<style>
+  .center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; /* Optional: defines how much space the image takes */
+  }
+</style>
+
+<a href="{{site.baseurl}}/2025btscon/"><img src="{{site.baseurl}}/2025btscon/" class="center-img" alt="2025 BTS-con" width="300"></a>
+
+
+
 <h3 align="center">2025 BTSCON</h3>
 
+<div>
 <a href="{{site.baseurl}}/2025btscon/"><img src="/assets/img/BTSCon2025_logo.png" alt="2025 BTS-con" width="300" align="center"></a>
 
 <br>
