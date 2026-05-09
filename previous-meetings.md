@@ -4,7 +4,6 @@ title: Previous meetings
 <!--cover-img: /assets/img/events_blank.png-->
 ---
 
-> Click on the thumbnail to view content from previous meetings
 
 ***
 
