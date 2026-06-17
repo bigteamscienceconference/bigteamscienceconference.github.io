@@ -38,8 +38,9 @@ layout: page
 * <b><a href="{{site.baseurl}}/access/">Accessibility information</a></b>
 * <b><a href="#sponsors">Sponsor organizations</a></b>
 * <b><a href="https://www.bonfire.com/store/psychological-science-accelerator-store/" target="_blank">BTSCON store</a></b>
-* <b><a href="{{site.baseurl}}/contact/">Contact us</a></b>
 * <b><a href="{{site.baseurl}}/previous-meetings/">Previous meetings</a></b>
+* <b><a href="{{site.baseurl}}/contact/">Contact us</a></b>
+
 
 <br>
 
