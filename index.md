@@ -81,8 +81,6 @@ layout: page
 	  </div>
 	  <div class="row justify-content-around" align="center">
 	    <p>This year's conference is organized by members of:</p>
-	    <br>
-	    <br>
 	  </div>
 		<div class="row justify-content-around">
 		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
