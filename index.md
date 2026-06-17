@@ -79,6 +79,8 @@ layout: page
 		  </div>
 		  <p> </p>
 	  </div>
+  </div>
+  <div class="container">
 	  <div class="row justify-content-around" align="center">
 	    <p>This year's conference is organized by members of:</p>
 	  </div>
