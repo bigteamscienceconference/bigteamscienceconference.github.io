@@ -25,7 +25,6 @@ layout: page
         <a href="{{site.baseurl}}/submissions/"><img src="/assets/img/submit.png" alt="submission icon, with an arrow pointing up" height="100"></a>
       </div>
       <div class="col-sm-9">
-        <br>
         <h2><a href="{{site.baseurl}}/submissions/">Submit an abstract for the 2026 BTSCON</a></h2>
       </div>
     </div>
