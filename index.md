@@ -77,8 +77,7 @@ layout: page
 		  <div class="col-lg-6" align="center">
 			  <a href="https://www.sshrc-crsh.gc.ca/" class="image" target="_blank"><img src="/assets/img/sshrc-logo.jpg" alt="CRSH:Conseil de recherches en sciences humaines du Canada; SSHRC: Social Sciences and Humanities Research Council of Canada" height="100"></a>
 		  </div>
-		  <br>
-		  <br>
+		  <p> </p>
 	  </div>
 	  <div class="row justify-content-around" align="center">
 	    This year's conference is organized by members of:
