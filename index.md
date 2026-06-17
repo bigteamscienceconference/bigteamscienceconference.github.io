@@ -41,7 +41,6 @@ layout: page
     </div>
   </div>
 </section>
-<br>
 
 ***
 
