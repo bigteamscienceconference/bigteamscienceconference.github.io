@@ -55,7 +55,6 @@ layout: page
 * <b><a href="{{site.baseurl}}/contact/">Contact us</a></b>
 
 
-<br>
 
 ***
 ### 2026 Keynote Presentations
@@ -70,6 +69,7 @@ layout: page
 	<div class="container">
 	  <div class="row justify-content-around" align="center">
       <p>The Big Team Science Conference is presented by <b><a href="https://connect-btss.github.io/" target="_blank">CONNECT</a></b>, an <a href="https://www.sshrc-crsh.gc.ca/" target="_blank">SSHRC</a>-funded partnership that unites seven Big Team Social Science (BTSS) networks comprising more than 3,500 researchers from over 70 countries.</p>
+      <a href="https://connect-btss.github.io/" class="image" target="_blank"><img src="/assets/img/connect-logo.png" alt="CONNECT logo of interwoven lines" style="width:30%"></a> 
 	    <a href="https://www.sshrc-crsh.gc.ca/" class="image" target="_blank"><img src="/assets/img/sshrc-logo.jpg" alt="CRSH:Conseil de recherches en sciences humaines du Canada; SSHRC: Social Sciences and Humanities Research Council of Canada" style="width:30%"></a><br>
 	    <br>
 	  </div>
