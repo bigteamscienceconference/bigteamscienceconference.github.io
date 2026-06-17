@@ -80,7 +80,7 @@ layout: page
 		  <p> </p>
 	  </div>
 	  <div class="row justify-content-around" align="center">
-	    This year's conference is organized by members of:
+	    <p>This year's conference is organized by members of:</p>
 	    <br>
 	    <br>
 	  </div>
