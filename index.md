@@ -24,7 +24,6 @@ layout: page
 
 <h2 align="center"><a href="{{site.baseurl}}/submissions/">Submit an abstract</a> to present at this year's BTSCON!</h2>
 
-* <b><a href="{{site.baseurl}}/registration/">Registration</a></b>
 
 
 ***
@@ -34,6 +33,7 @@ layout: page
 * <b><a href="{{site.baseurl}}/program/">2026 Program & schedule</a></b>
 -->
 * <b><a href="{{site.baseurl}}/submissions/">Submissions</a></b>
+* <b><a href="{{site.baseurl}}/registration/">Registration</a></b>
 * <b><a href="{{site.baseurl}}/codeofconduct/">Code of conduct & meeting rules</a></b>
 * <b><a href="{{site.baseurl}}/access/">Accessibility information</a></b>
 * <b><a href="#sponsors">Sponsor organizations</a></b>
