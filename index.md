@@ -22,7 +22,6 @@ layout: page
   <div class="container">
     <div class="row">
       <div class="col-sm-3" align="center">
-        <br>
         <a href="{{site.baseurl}}/submissions/"><img src="/assets/img/submit.png" alt="submission icon, with an arrow pointing up" height="100"></a>
       </div>
       <div class="col-sm-9">
@@ -33,7 +32,6 @@ layout: page
     <hr>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <br>
         <a href="{{site.baseurl}}/registration/"><img src="/assets/img/register.png" alt="" height="100"></a>
       </div>
       <div class="col-sm-9">
