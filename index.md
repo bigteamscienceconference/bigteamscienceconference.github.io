@@ -13,18 +13,13 @@ layout: page
 
 <!--
 ***
-
-<h2 align="center"><a href="{{site.baseurl}}/registration/">Register now!</a> <i>(all fees are optional!)</i></h2>
-
-***
-
 <h2 align="center"><a href="{{site.baseurl}}/program/">View the Program</a></h2>
 -->
+
 ***
 
-<h2 align="center"><a href="{{site.baseurl}}/submissions/">Submit an abstract</a> to present at this year's BTSCON!</h2>
-
-
+* <h2 align="center"><a href="{{site.baseurl}}/submissions/">Submit an abstract</a> to present at this year's BTSCON!</h2>
+* <h2 align="center"><a href="{{site.baseurl}}/registration/">Register now!</a> <i>(all fees are optional!)</i></h2>
 
 ***
 
