@@ -71,10 +71,10 @@ layout: page
       <p>The Big Team Science Conference is presented by <b><a href="https://connect-btss.github.io/" target="_blank">CONNECT</a></b>, an <a href="https://www.sshrc-crsh.gc.ca/" target="_blank">SSHRC</a>-funded partnership that unites seven Big Team Social Science (BTSS) networks comprising more than 3,500 researchers from over 70 countries.</p>
     </div>
     <div class="row justify-content-around">
-		  <div class="col-lg-4" align="center">
+		  <div class="col-lg-6" align="center">
 		    <a href="https://connect-btss.github.io/" class="image" target="_blank"><img src="/assets/img/connect-logo.png" alt="CONNECT logo of interwoven lines"></a>
 		  </div>
-		  <div class="col-lg-4" align="center">
+		  <div class="col-lg-6" align="center">
 			  <a href="https://www.sshrc-crsh.gc.ca/" class="image" target="_blank"><img src="/assets/img/sshrc-logo.jpg" alt="CRSH:Conseil de recherches en sciences humaines du Canada; SSHRC: Social Sciences and Humanities Research Council of Canada"></a>
 		  </div>
 		  <br>
