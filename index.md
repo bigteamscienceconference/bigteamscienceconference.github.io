@@ -38,7 +38,7 @@ layout: page
       </div>
       <div class="col-sm-9">
         <h2><a href="{{site.baseurl}}/registration/">Register now</a></h2>
-        <h4><i>(all fees are optional!)</i></h4>
+        <h3><i>(all fees are optional!)</i></h3>
       </div>
     </div>
   </div>
