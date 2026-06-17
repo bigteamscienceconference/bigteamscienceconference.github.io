@@ -37,7 +37,8 @@ layout: page
         <a href="{{site.baseurl}}/registration/"><img src="/assets/img/register.png" alt="" height="100"></a>
       </div>
       <div class="col-sm-9">
-        <h2><a href="{{site.baseurl}}/registration/">Register now!</a> <i>(all fees are optional!)</i></h2>
+        <h2><a href="{{site.baseurl}}/registration/">Register now</a></h2>
+        <h4><i>(all fees are optional!)</i></h4>
       </div>
     </div>
   </div>
