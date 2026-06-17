@@ -72,11 +72,12 @@ layout: page
     </div>
     <div class="row justify-content-around">
 		  <div class="col-lg-4" align="center">
-		    <a href="https://connect-btss.github.io/" class="image" target="_blank"><img src="/assets/img/connect-logo.png" alt="CONNECT logo of interwoven lines" height="100"></a>
+		    <a href="https://connect-btss.github.io/" class="image" target="_blank"><img src="/assets/img/connect-logo.png" alt="CONNECT logo of interwoven lines"></a>
 		  </div>
 		  <div class="col-lg-4" align="center">
-			  <a href="https://www.sshrc-crsh.gc.ca/" class="image" target="_blank"><img src="/assets/img/sshrc-logo.jpg" alt="CRSH:Conseil de recherches en sciences humaines du Canada; SSHRC: Social Sciences and Humanities Research Council of Canada" height="100"></a>
+			  <a href="https://www.sshrc-crsh.gc.ca/" class="image" target="_blank"><img src="/assets/img/sshrc-logo.jpg" alt="CRSH:Conseil de recherches en sciences humaines du Canada; SSHRC: Social Sciences and Humanities Research Council of Canada"></a>
 		  </div>
+		  <br>
 		  <br>
 	  </div>
 	  <div class="row justify-content-around" align="center">
