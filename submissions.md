@@ -6,7 +6,7 @@ title: submissions
 
 <h2 align="center"> >>> <a href="https://docs.google.com/forms/d/e/1FAIpQLSczrognsXpKF4Ry6pvdpr7RJ2gkMQDy-AfipdOmMC-HBlo-Yg/viewform?usp=publish-editor" target="_blank">Submit your abstract here!</a> <<< </h2> 
 
-
+<br>
 
 * *Panels, hackathons, unconferences, and symposia:* maximum 500 words
 * *Talks and lightning talks:* maximum 250 words
