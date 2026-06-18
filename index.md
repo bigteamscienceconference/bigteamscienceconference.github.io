@@ -88,19 +88,19 @@ layout: page
 		<div class="row justify-content-around">
 		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
 		    <a href="https://manybabies.github.io" class="image" target="_blank"><img src="/assets/img/MB_logo.png" alt="ManyBabies" width="100" height="100"></a>
-		    <h4>ManyBabies</h4>
+		    <a href="https://manybabies.github.io" target="_blank"><h4>ManyBabies</h4></a>
 		  </div>
 		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
 			  <a href="https://psysciacc.org/" class="image" target="_blank"><img src="/assets/img/psa_logo.png" alt="PSA" width="100" height="100"></a>
-			  <h4>Psychological Science Accelerator</h4>
+			  <a href="https://psysciacc.org/" target="_blank"><h4>Psychological Science Accelerator</h4></a>
 		  </div>
 		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
 			  <a href="https://abrirpsy.org/" class="image" target="_blank"><img src="/assets/img/abrir.png" alt="ABRIR" height="100"></a>
-			  <h4>ABRIR</h4>
+			  <a href="https://abrirpsy.org/" target="_blank"><h4>ABRIR</h4></a>
 		  </div>
 		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
 			  <a href="https://forrt.org/" class="image" target="_blank"><img src="/assets/img/forrt-logo.png" alt="FORRT" height="100"></a>
-			  <h4>FORRT</h4>
+			  <a href="https://forrt.org/" target="_blank"><h4>FORRT</h4></a>
 		  </div>
 	  </div>
   </div>
