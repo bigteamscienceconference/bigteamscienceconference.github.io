@@ -14,6 +14,7 @@ title: registration
 > If you would like to support the big team science efforts of our sponsor organizations before the next conference, you can make a tax-deductible donation to the [ManyBabies financial collective](https://opencollective.com/manybabiesoce) and/or [Psychological Science Accelerator](https://www.paypal.com/fundraiser/charity/5217974). 
 -->
 
+<br>
 
 ***
 
