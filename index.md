@@ -63,7 +63,7 @@ layout: page
   <div class="container">
     <div class="row">
       <div class="col-sm-5">
-        <i>Symposium:</i><br>
+        <h4><i>Symposium:</i></h4>
         <a href="https://www.cos.io/score" target="_blank"><img src="/assets/img/score.png" alt="Lessons learned from SCORE: Systematizing Confidence in Open Research and Evidence"></a>
       </div>
       <div class="col-sm-7">
