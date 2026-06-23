@@ -112,10 +112,10 @@ layout: page
       <div class="col-sm-9">
         <h3>Statistical Treatment of Analytical Variability</h3>
         <h4><a href="https://www.uva.nl/en/profile/s/a/a.s.g.sarafoglou/a.s.g.sarafoglou.html?cb" target="_blank">Alexandra Sarafoglou</a></h4>
-        <i>Department of Psychology, University of Amsterdam, The Netherlands</i>
+        <i>Department of Psychology, University of Amsterdam, The Netherlands</i><br>
+        <hr>
       </div>
     </div>
-    <hr>
     <div class="row">
       <div class="col-sm-8">
         <h4><i>Talk:</i></h4>
@@ -136,7 +136,7 @@ layout: page
       </div>
       <div class="col-sm-9">
         <h4><a href="https://lira.f.bg.ac.rs/ljiljana-lazarevic-en/" target="_blank">Ljiljana Lazarević</a></h4>
-        <i>Institute of Psychology, Faculty of Philosophy, University of Belgrade, Serbia</i>      
+        <i>Institute of Psychology, Faculty of Philosophy, University of Belgrade, Serbia</i>
       </div>
     </div>
   </div>
