@@ -114,9 +114,9 @@ layout: page
         <i>Department of Psychology, University of Amsterdam, The Netherlands</i>
       </div>
     </div>
+    <hr>
+    <br>
     <div class="row">
-      <hr>
-      <br>
       <div class="col-sm-5">
         <a href="https://www.cos.io/score" target="_blank"><img src="/assets/img/score.png" alt="Lessons learned from SCORE: Systematizing Confidence in Open Research and Evidence"></a>
       </div>
