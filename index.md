@@ -124,6 +124,7 @@ layout: page
         <br>
         <h2 style="color:#203664;">Big Questions about Analytical Robustness</h2>
       </div>
+    </div>
   </div>
 </section>
 <br>
