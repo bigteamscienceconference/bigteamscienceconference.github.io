@@ -115,13 +115,26 @@ layout: page
       </div>
     </div>
     <hr>
-    <br>
     <div class="row">
       <div class="col-sm-5">
         <a href="https://www.crep-psych.org/" target="_blank"><img src="https://www.crep-psych.org/wp-content/uploads/2023/03/CREP-Logo-3.png" alt="The Collaborative Replication and Education Project"></a>
       </div>
       <div class="col-sm-7">
         <h2 style="color:#203664;">CREP: The Collaborative Replication and Education Project</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-1">
+        <p> </p>
+      </div>
+      <div class="col-sm-2">
+        <br>
+        <a href="https://lira.f.bg.ac.rs/ljiljana-lazarevic-en/" target="_blank"><img src="/assets/img/lazarevic_headshot.jpg" alt=""></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="https://lira.f.bg.ac.rs/ljiljana-lazarevic-en/" target="_blank">Ljiljana Lazarević</a></h4>
+        <i>Institute of Psychology, Faculty of Philosophy, University of Belgrade, Serbia</i>
+        <hr>
       </div>
     </div>
   </div>
