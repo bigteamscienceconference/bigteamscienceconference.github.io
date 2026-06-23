@@ -70,6 +70,19 @@ layout: page
         <h2>Big Questions about Analytical Robustness</h2><br>
       </div>
     </div>
+    <div class="row">
+      <div class="col-sm-2">
+        <p>  </p>
+      </div>
+      <div class="col-sm-2">
+        <a href="" target="_blank"><img src="/assets/img/sarafoglou_headshot.jpg" alt="Alexandra Sarafoglou"></a>
+      </div>
+      <div class="col-sm-8">
+        <h3>Alexandra Sarafoglou</h3><br>
+        <i>Department of Psychology, University of Amsterdam, The Netherlands</i>
+        <h4>Statistical Treatment of Analytical Variability</h4>
+      </div>
+    </div>
   </div>
 </section>
 <br>
