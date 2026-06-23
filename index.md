@@ -62,11 +62,11 @@ layout: page
 <section>
   <div class="container">
     <div class="row">
-      <div class="col-sm-3">
+      <div class="col-sm-4">
         <br>
         <a href="https://www.cos.io/score" target="_blank"><img src="/assets/img/score.png" alt="Lessons learned from SCORE: Systematizing Confidence in Open Research and Evidence"></a>
       </div>
-      <div class="col-sm-9">
+      <div class="col-sm-8">
         <h2>Big Questions about Analytical Robustness</h2>
       </div>
     </div>
@@ -76,11 +76,11 @@ layout: page
       </div>
       <div class="col-sm-2">
         <br>
-        <a href="" target="_blank"><img src="/assets/img/szaszi_headshot.jpg" alt="Barnabas Szaszi"></a>
+        <a href="https://www.barnabasszaszi.com/" target="_blank"><img src="/assets/img/szaszi_headshot.jpg" alt="Barnabas Szaszi"></a>
       </div>
       <div class="col-sm-9">
         <h3>Empirical Results on Analytical Variability</h3>
-        <h4>Barnabas Szaszi</h4>
+        <h4><a href="https://www.barnabasszaszi.com/" target="_blank">Barnabas Szaszi</a></h4>
         <i>Institute of Operations and Decision Sciences, Corvinus Institute for Advanced Studies, Corvinus University of Budapest; Institute of Psychology, ELTE Eötvös Loránd University, Budapest, Hungary</i>
         <hr>
       </div>
@@ -91,11 +91,11 @@ layout: page
       </div>
       <div class="col-sm-2">
         <br>
-        <a href="" target="_blank"><img src="/assets/img/aczel_headshot.jpg" alt="Balazs Aczel"></a>
+        <a href="https://metasciencelab.elte.hu/members/balazs-aczel/" target="_blank"><img src="/assets/img/aczel_headshot.jpg" alt="Balazs Aczel"></a>
       </div>
       <div class="col-sm-9">
         <h3>Conceptual treatment of Analytical Variability</h3>
-        <h4>Balazs Aczel</h4>
+        <h4><a href="https://metasciencelab.elte.hu/members/balazs-aczel/" target="_blank">Balazs Aczel</a></h4>
         <i>Institute of Psychology, ELTE Eötvös Loránd University, Budapest, Hungary</i>
         <hr>
       </div>
@@ -106,11 +106,11 @@ layout: page
       </div>
       <div class="col-sm-2">
         <br>
-        <a href="" target="_blank"><img src="/assets/img/sarafoglou_headshot.jpg" alt="Alexandra Sarafoglou"></a>
+        <a href="https://www.uva.nl/en/profile/s/a/a.s.g.sarafoglou/a.s.g.sarafoglou.html?cb" target="_blank"><img src="/assets/img/sarafoglou_headshot.jpg" alt="Alexandra Sarafoglou"></a>
       </div>
       <div class="col-sm-9">
         <h3>Statistical Treatment of Analytical Variability</h3>
-        <h4>Alexandra Sarafoglou</h4>
+        <h4><a href="https://www.uva.nl/en/profile/s/a/a.s.g.sarafoglou/a.s.g.sarafoglou.html?cb" target="_blank">Alexandra Sarafoglou</a></h4>
         <i>Department of Psychology, University of Amsterdam, The Netherlands</i>
       </div>
     </div>
