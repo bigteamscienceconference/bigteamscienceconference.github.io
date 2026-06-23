@@ -77,7 +77,7 @@ layout: page
         <a href="" target="_blank"><img src="/assets/img/aczel_headshot.jpg" alt="Balazs Aczel"></a>
       </div>
       <div class="col-sm-9">
-        <h3>Balazs Aczel</h3><br>
+        <h3>Balazs Aczel</h3>
         <i>Institute of Psychology, ELTE Eötvös Loránd University, Budapest, Hungary</i>
         <h4>Conceptual treatment of Analytical Variability</h4>
       </div>
@@ -88,7 +88,7 @@ layout: page
         <a href="" target="_blank"><img src="/assets/img/sarafoglou_headshot.jpg" alt="Alexandra Sarafoglou"></a>
       </div>
       <div class="col-sm-9">
-        <h3>Alexandra Sarafoglou</h3><br>
+        <h3>Alexandra Sarafoglou</h3>
         <i>Department of Psychology, University of Amsterdam, The Netherlands</i>
         <h4>Statistical Treatment of Analytical Variability</h4>
       </div>
