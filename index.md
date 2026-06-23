@@ -63,10 +63,11 @@ layout: page
   <div class="container">
     <div class="row">
       <div class="col-sm-4">
-        <a href="https://www.cos.io/score" target="_blank"><img src="/assets/img/score.png" alt="Lessons learned from SCORE: Systemetizing Confidence in Open Research and Evidence"></a>
+        <br>
+        <a href="https://www.cos.io/score" target="_blank"><img src="/assets/img/score.png" alt="Lessons learned from SCORE: Systematizing Confidence in Open Research and Evidence"></a>
       </div>
       <div class="col-sm-8">
-        <h3>Big Questions about Analytical Robustness</h3><br>
+        <h2>Big Questions about Analytical Robustness</h2><br>
       </div>
     </div>
   </div>
