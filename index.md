@@ -116,11 +116,11 @@ layout: page
     </div>
     <hr>
     <div class="row">
-      <div class="col-sm-9">
+      <div class="col-sm-8">
         <h4><i>Talk:</i></h4>
         <h2 style="color:#203664;">CREP: The Collaborative Replication and Education Project</h2>
       </div>
-      <div class="col-sm-3">
+      <div class="col-sm-4">
         <br>
         <a href="https://www.crep-psych.org/" target="_blank"><img src="/assets/img/crep-logo.png" alt="The Collaborative Replication and Education Project"></a>
       </div>
