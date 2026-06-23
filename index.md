@@ -63,12 +63,11 @@ layout: page
   <div class="container">
     <div class="row">
       <div class="col-sm-5">
-        <h4><i>Symposium:</i></h4>
         <a href="https://www.cos.io/score" target="_blank"><img src="/assets/img/score.png" alt="Lessons learned from SCORE: Systematizing Confidence in Open Research and Evidence"></a>
       </div>
       <div class="col-sm-7">
         <br>
-        <br>
+        <h4><i>Symposium:</i></h4>
         <h2 style="color:#203664;">Big Questions about Analytical Robustness</h2>
       </div>
     </div>
@@ -121,6 +120,7 @@ layout: page
         <a href="https://www.crep-psych.org/" target="_blank"><img src="https://www.crep-psych.org/wp-content/uploads/2023/03/CREP-Logo-3.png" alt="The Collaborative Replication and Education Project"></a>
       </div>
       <div class="col-sm-8">
+        <h4><i>Talk:</i></h4>
         <h2 style="color:#203664;">CREP: The Collaborative Replication and Education Project</h2>
       </div>
     </div>
