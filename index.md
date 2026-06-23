@@ -122,7 +122,7 @@ layout: page
       </div>
       <div class="col-sm-4">
         <br>
-        <a href="https://www.crep-psych.org/" target="_blank"><img src="/assets/img/crep-logo.png" alt="The Collaborative Replication and Education Project"></a>
+        <a href="https://www.crep-psych.org/" target="_blank"><img src="/assets/img/crep-logo.png" alt="The Collaborative Replication and Education Project" height="150"></a>
       </div>
     </div>
     <div class="row">
