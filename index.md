@@ -71,7 +71,10 @@ layout: page
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-3">
+      <div class="col-sm-1">
+        <p> </p>
+      </div>
+      <div class="col-sm-2">
         <br>
         <a href="" target="_blank"><img src="/assets/img/aczel_headshot.jpg" alt="Balazs Aczel"></a>
       </div>
@@ -82,7 +85,10 @@ layout: page
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-3">
+      <div class="col-sm-1">
+        <p> </p>
+      </div>
+      <div class="col-sm-2">
         <br>
         <a href="" target="_blank"><img src="/assets/img/sarafoglou_headshot.jpg" alt="Alexandra Sarafoglou"></a>
       </div>
