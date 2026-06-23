@@ -63,9 +63,11 @@ layout: page
   <div class="container">
     <div class="row">
       <div class="col-sm-6">
+        <br>
         <h3>Big Questions about Analytical Robustness</h3>
       </div>
       <div class="col-sm-6">
+        <br>
         <a href="https://www.cos.io/score" target="_blank"><img src="/assets/img/score.png" alt="Lessons learned from SCORE: Systematizing Confidence in Open Research and Evidence"></a>
       </div>
     </div>
