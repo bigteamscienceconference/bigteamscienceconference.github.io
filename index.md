@@ -57,7 +57,7 @@ layout: page
 
 
 ***
-### 2026 Featured Presentations
+## 2026 Featured Presentations
 
 <section>
   <div class="container">
@@ -120,7 +120,7 @@ layout: page
 
 ***
 
-<h3 id="sponsors">2026 Sponsor Organizations</h3>
+<h2 id="sponsors">2026 Sponsor Organizations</h2>
 
 <section>
 	<div class="container">
