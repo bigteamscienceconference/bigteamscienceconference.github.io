@@ -67,7 +67,6 @@ layout: page
         <a href="https://www.cos.io/score" target="_blank"><img src="/assets/img/score.png" alt="Lessons learned from SCORE: Systematizing Confidence in Open Research and Evidence"></a>
       </div>
       <div class="col-sm-7">
-        <br>
         <h4><i>Symposium:</i></h4>
         <h2 style="color:#203664;">Big Questions about Analytical Robustness</h2>
       </div>
