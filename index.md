@@ -62,22 +62,29 @@ layout: page
 <section>
   <div class="container">
     <div class="row">
+      <div class="col-sm-8">
+        <h2>Big Questions about Analytical Robustness</h2><br>
+      </div>
       <div class="col-sm-4">
         <br>
         <a href="https://www.cos.io/score" target="_blank"><img src="/assets/img/score.png" alt="Lessons learned from SCORE: Systematizing Confidence in Open Research and Evidence"></a>
       </div>
-      <div class="col-sm-8">
-        <h2>Big Questions about Analytical Robustness</h2><br>
+    </div>
+    <div class="row">
+      <div class="col-sm-3">
+        <a href="" target="_blank"><img src="/assets/img/aczel_headshot.jpg" alt="Balazs Aczel"></a>
+      </div>
+      <div class="col-sm-9">
+        <h3>Balazs Aczel</h3><br>
+        <i>Institute of Psychology, ELTE Eötvös Loránd University, Budapest, Hungary</i>
+        <h4>Conceptual treatment of Analytical Variability</h4>
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-2">
-        <p>  </p>
-      </div>
-      <div class="col-sm-2">
+      <div class="col-sm-3">
         <a href="" target="_blank"><img src="/assets/img/sarafoglou_headshot.jpg" alt="Alexandra Sarafoglou"></a>
       </div>
-      <div class="col-sm-8">
+      <div class="col-sm-9">
         <h3>Alexandra Sarafoglou</h3><br>
         <i>Department of Psychology, University of Amsterdam, The Netherlands</i>
         <h4>Statistical Treatment of Analytical Variability</h4>
