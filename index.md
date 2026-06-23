@@ -114,8 +114,22 @@ layout: page
         <i>Department of Psychology, University of Amsterdam, The Netherlands</i>
       </div>
     </div>
-    <hr>
-    <br>
+    <div class="row">
+      <hr>
+      <br>
+      <div class="col-sm-5">
+        <a href="https://www.cos.io/score" target="_blank"><img src="/assets/img/score.png" alt="Lessons learned from SCORE: Systematizing Confidence in Open Research and Evidence"></a>
+      </div>
+      <div class="col-sm-7">
+        <br>
+        <h2 style="color:#203664;">Big Questions about Analytical Robustness</h2>
+      </div>
+  </div>
+</section>
+<br>
+
+
+<!--
     <div class "row">
       <div class="col-sm-5">
         <a href="https://www.crep-psych.org/" target="_blank"><img src="https://www.crep-psych.org/wp-content/uploads/2023/03/CREP-Logo-3.png" alt="The Collaborative Replication and Education Project"></a>
@@ -124,13 +138,6 @@ layout: page
         <br>
         <h2 style="color:#203664;">The Collaborative Replication and Education Project</h2>
       </div>
-    </div>
-  </div>
-</section>
-<br>
-
-
-<!--
     </div>
     <div class="row">
       <div class="col-sm-1">
