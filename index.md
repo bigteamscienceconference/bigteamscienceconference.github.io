@@ -76,12 +76,28 @@ layout: page
       </div>
       <div class="col-sm-2">
         <br>
+        <a href="" target="_blank"><img src="/assets/img/szaszi_headshot.jpg" alt="Barnabas Szaszi"></a>
+      </div>
+      <div class="col-sm-9">
+        <h3>Empirical Results on Analytical Variability</h3>
+        <h4>Barnabas Szaszi</h4>
+        <i>Institute of Operations and Decision Sciences, Corvinus Institute for Advanced Studies, Corvinus University of Budapest; Institute of Psychology, ELTE Eötvös Loránd University, Budapest, Hungary</i>
+        <hr>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-1">
+        <p> </p>
+      </div>
+      <div class="col-sm-2">
+        <br>
         <a href="" target="_blank"><img src="/assets/img/aczel_headshot.jpg" alt="Balazs Aczel"></a>
       </div>
       <div class="col-sm-9">
         <h3>Conceptual treatment of Analytical Variability</h3>
         <h4>Balazs Aczel</h4>
         <i>Institute of Psychology, ELTE Eötvös Loránd University, Budapest, Hungary</i>
+        <hr>
       </div>
     </div>
     <div class="row">
