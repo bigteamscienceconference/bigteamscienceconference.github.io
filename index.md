@@ -64,7 +64,7 @@ layout: page
     <div class="row">
       <div class="col-sm-6">
         <br>
-        <h3>Big Questions about Analytical Robustness</h3>
+        <h2 style="color:#203664;">Big Questions about Analytical Robustness</h2>
       </div>
       <div class="col-sm-6">
         <br>
