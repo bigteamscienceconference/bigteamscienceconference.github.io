@@ -57,13 +57,25 @@ layout: page
 
 
 ***
-### 2026 Keynote Presentations
+### 2026 Featured Presentations
 
-> Coming soon!
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-4">
+        <a href="https://www.cos.io/score" target="_blank"><img src="/assets/img/score.png" alt="Lessons learned from SCORE: Systemetizing Confidence in Open Research and Evidence"></a>
+      </div>
+      <div class="col-sm-8">
+        <h3>Big Questions about Analytical Robustness</h3><br>
+      </div>
+    </div>
+  </div>
+</section>
+<br>
 
 ***
 
-<h2 id="sponsors">2026 Sponsor Organizations</h2>
+<h3 id="sponsors">2026 Sponsor Organizations</h3>
 
 <section>
 	<div class="container">
