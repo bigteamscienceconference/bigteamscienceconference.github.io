@@ -129,7 +129,7 @@ layout: page
       </div>
       <div class="col-sm-2">
         <br>
-        <a href="https://lira.f.bg.ac.rs/ljiljana-lazarevic-en/" target="_blank"><img src="/assets/img/lazarevic_headshot.jpg" alt=""></a>
+        <a href="https://lira.f.bg.ac.rs/ljiljana-lazarevic-en/" target="_blank"><img src="/assets/img/lazarevic_headshot.png" alt=""></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="https://lira.f.bg.ac.rs/ljiljana-lazarevic-en/" target="_blank">Ljiljana Lazarević</a></h4>
