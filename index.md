@@ -119,13 +119,19 @@ layout: page
     <br>
     <div class "row">
       <div class="col-sm-5">
-        <h4><i>Talk:</i></h4>
         <a href="https://www.crep-psych.org/" target="_blank"><img src="https://www.crep-psych.org/wp-content/uploads/2023/03/CREP-Logo-3.png" alt="The Collaborative Replication and Education Project"></a>
       </div>
       <div class="col-sm-7">
         <br>
         <h2 style="color:#203664;">The Collaborative Replication and Education Project</h2>
       </div>
+    </div>
+  </div>
+</section>
+<br>
+
+
+<!--
     </div>
     <div class="row">
       <div class="col-sm-1">
@@ -141,10 +147,7 @@ layout: page
         <hr>
       </div>
     </div>
-  </div>
-</section>
-<br>
-
+-->
 ***
 
 <h2 id="sponsors">2026 Sponsor Organizations</h2>
