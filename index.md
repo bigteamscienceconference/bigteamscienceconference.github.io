@@ -118,7 +118,7 @@ layout: page
     <div class="row">
       <div class="col-sm-3">
         <br>
-        <a href="https://www.crep-psych.org/" target="_blank"><img src="https://www.crep-psych.org/wp-content/uploads/2023/03/CREP-Logo-3.png" alt="The Collaborative Replication and Education Project"></a>
+        <a href="https://www.crep-psych.org/" target="_blank"><img src="/assets/img/crep-logo.png" alt="The Collaborative Replication and Education Project"></a>
       </div>
       <div class="col-sm-9">
         <h4><i>Talk:</i></h4>
@@ -135,8 +135,7 @@ layout: page
       </div>
       <div class="col-sm-9">
         <h4><a href="https://lira.f.bg.ac.rs/ljiljana-lazarevic-en/" target="_blank">Ljiljana Lazarević</a></h4>
-        <i>Institute of Psychology, Faculty of Philosophy, University of Belgrade, Serbia</i>
-        <hr>
+        <i>Institute of Psychology, Faculty of Philosophy, University of Belgrade, Serbia</i>      
       </div>
     </div>
   </div>
