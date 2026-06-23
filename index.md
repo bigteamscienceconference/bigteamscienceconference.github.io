@@ -106,6 +106,7 @@ layout: page
         <p> </p>
       </div>
       <div class="col-sm-2">
+        <br>
         <a href="https://www.uva.nl/en/profile/s/a/a.s.g.sarafoglou/a.s.g.sarafoglou.html?cb" target="_blank"><img src="/assets/img/sarafoglou_headshot.jpg" alt="Alexandra Sarafoglou"></a>
       </div>
       <div class="col-sm-9">
