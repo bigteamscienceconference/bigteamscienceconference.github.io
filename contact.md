@@ -11,6 +11,7 @@ Send questions about BTSCON to our [**Conference Email**](mailto:bigteamsciencec
 * [**Erin Buchanan**](https://www.aggieerin.com/), *Psychological Science Accelerator & Harrisburg University of Science and Technology, USA* [[email]](mailto:buchananlab@gmail.com)
 * [**Nadia Corral-Frías**](https://investigadores.unison.mx/en/persons/nadia-sarai-corral-frias), *ABRIR & Universidad de Sonora, México* [[email]](mailto:nadia.corral@unison.mx)
 * [**Savannah Lewis**](https://savannahclewis.wordpress.com/), *Psychological Science Accelerator & University of Alabama, USA* [[email]](mailto:slewis20@crimson.ua.edu)
+* [**Brittany Tsang**](https://connect-btss.github.io/), *CONNECT & University of British Columbia, Canada* [[email]](mailto:connect-admin@manybabies.org)
 * [**Steven Verheyen**](https://www.eur.nl/en/people/steven-verheyen), *FORRT & Erasmus University Rotterdam, Netherlands* [[email]](mailto:verheyen@essb.eur.nl)
 
 <!--
