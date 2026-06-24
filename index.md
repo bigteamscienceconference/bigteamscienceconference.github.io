@@ -132,7 +132,7 @@ layout: page
       </div>
       <div class="col-sm-2">
         <br>
-        <a href="https://www.eur.nl/people/rolf-zwaan" target="_blank"><img src="https://www.boom.nl/media/28/_resized/boom_rolf_zwaan-3952_w650.jpg" alt=""></a>
+        <a href="https://www.eur.nl/people/rolf-zwaan" target="_blank"><img src="/assets/img/zwaan_headshot.jpg" alt=""></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="https://www.eur.nl/people/rolf-zwaan" target="_blank">Rolf Zwaan</a></h4>
