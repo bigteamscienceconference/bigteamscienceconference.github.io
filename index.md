@@ -118,6 +118,7 @@ layout: page
     <hr>
     <div class="row">
       <div class="col-sm-7">
+        <br>
         <h4><i>Live Podcast Recording:</i></h4>
         <h2 style="color:#203664;">Research as it Happens</h2>
       </div>
