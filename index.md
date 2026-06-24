@@ -98,9 +98,9 @@ layout: page
         <h3>Conceptual treatment of Analytical Variability</h3>
         <h4><a href="https://metasciencelab.elte.hu/members/balazs-aczel/" target="_blank">Balazs Aczel</a></h4>
         <i>Institute of Psychology, ELTE Eötvös Loránd University, Budapest, Hungary</i>
-        <hr>
       </div>
     </div>
+    <hr>
     <div class="row">
       <div class="col-sm-1">
         <p> </p>
@@ -137,9 +137,9 @@ layout: page
       <div class="col-sm-9">
         <h4><a href="https://www.eur.nl/people/rolf-zwaan" target="_blank">Rolf Zwaan</a></h4>
         <i>Biological and Cognitive Psychology, Institute of Psychology, Erasmus University Rotterdam, The Netherlands</i>
-        <hr>
       </div>
     </div>
+    <hr>
     <div class="row">
       <div class="col-sm-8">
         <h4><i>Talk:</i></h4>
