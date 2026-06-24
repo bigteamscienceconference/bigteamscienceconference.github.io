@@ -113,9 +113,9 @@ layout: page
         <h3>Statistical Treatment of Analytical Variability</h3>
         <h4><a href="https://www.uva.nl/en/profile/s/a/a.s.g.sarafoglou/a.s.g.sarafoglou.html?cb" target="_blank">Alexandra Sarafoglou</a></h4>
         <i>Department of Psychology, University of Amsterdam, The Netherlands</i><br>
-        <hr>
       </div>
     </div>
+    <hr>
     <div class="row">
       <div class="col-sm-7">
         <h4><i>Live Podcast Recording:</i></h4>
