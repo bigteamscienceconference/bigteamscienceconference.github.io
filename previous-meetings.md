@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Previous meetings
+title: previous meetings
 <!--cover-img: /assets/img/events_blank.png-->
 ---
 
