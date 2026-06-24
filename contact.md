@@ -21,7 +21,7 @@ Send questions about BTSCON to our [**Conference Email**](mailto:bigteamsciencec
 * [**Liz Hare**](http://www.doggenetics.com/), *ManyDogs, USA* [[email]](mailto:LizHare@DogGenetics.com)
 
 
-### 2025 Program Committee
+### 2026 Program Committee
 * 
 -->
 
