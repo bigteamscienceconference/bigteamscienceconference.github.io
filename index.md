@@ -72,10 +72,7 @@ layout: page
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-1">
-        <p> </p>
-      </div>
-      <div class="col-sm-2">
+      <div class="col-sm-3">
         <br>
         <a href="https://www.barnabasszaszi.com/" target="_blank"><img src="/assets/img/szaszi_headshot.jpg" alt="Barnabas Szaszi"></a>
       </div>
