@@ -118,6 +118,29 @@ layout: page
     </div>
     <div class="row">
       <div class="col-sm-8">
+        <h4><i>Live Podcast:</i></h4>
+        <h2 style="color:#203664;">Research as it Happens</h2>
+      </div>
+      <div class="col-sm-4">
+        <br>
+        <a href="https://www.eur.nl/en/podcasts/research-it-happens" target="_blank"><img src="https://www.eur.nl/sites/corporate/files/styles/responsive_w1650_r16_9/public/2026-04/research-as-it-happens_final_logo-copy.jpg.avif?h=852e7b0b&itok=1i9U87xK" alt="Research as it happens" height="150"></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-1">
+        <p> </p>
+      </div>
+      <div class="col-sm-2">
+        <br>
+        <a href="https://www.eur.nl/people/rolf-zwaan" target="_blank"><img src="https://www.boom.nl/media/28/_resized/boom_rolf_zwaan-3952_w650.jpg" alt=""></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="https://www.eur.nl/people/rolf-zwaan" target="_blank">Rolf Zwaan</a></h4>
+        <i>Biological and Cognitive Psychology, Institute of Psychology, Erasmus University Rotterdam, The Netherlands</i>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-8">
         <h4><i>Talk:</i></h4>
         <h2 style="color:#203664;">CREP: The Collaborative Replication and Education Project</h2>
       </div>
