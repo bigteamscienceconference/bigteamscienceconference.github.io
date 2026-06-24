@@ -117,11 +117,11 @@ layout: page
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-8">
+      <div class="col-sm-7">
         <h4><i>Live Podcast:</i></h4>
         <h2 style="color:#203664;">Research as it Happens</h2>
       </div>
-      <div class="col-sm-4">
+      <div class="col-sm-5">
         <br>
         <a href="https://www.eur.nl/en/podcasts/research-it-happens" target="_blank"><img src="https://www.eur.nl/sites/corporate/files/styles/responsive_w1650_r16_9/public/2026-04/research-as-it-happens_final_logo-copy.jpg.avif?h=852e7b0b&itok=1i9U87xK" alt="Research as it happens" height="150"></a>
       </div>
