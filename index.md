@@ -84,10 +84,7 @@ layout: page
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-1">
-        <p> </p>
-      </div>
-      <div class="col-sm-2">
+      <div class="col-sm-3">
         <br>
         <a href="https://metasciencelab.elte.hu/members/balazs-aczel/" target="_blank"><img src="/assets/img/aczel_headshot.jpg" alt="Balazs Aczel"></a>
       </div>
@@ -99,10 +96,7 @@ layout: page
     </div>
     <hr>
     <div class="row">
-      <div class="col-sm-1">
-        <p> </p>
-      </div>
-      <div class="col-sm-2">
+      <div class="col-sm-3">
         <br>
         <a href="https://www.uva.nl/en/profile/s/a/a.s.g.sarafoglou/a.s.g.sarafoglou.html?cb" target="_blank"><img src="/assets/img/sarafoglou_headshot.jpg" alt="Alexandra Sarafoglou"></a>
       </div>
@@ -125,10 +119,7 @@ layout: page
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-1">
-        <p> </p>
-      </div>
-      <div class="col-sm-2">
+      <div class="col-sm-3">
         <br>
         <a href="https://www.eur.nl/people/rolf-zwaan" target="_blank"><img src="/assets/img/zwaan_headshot.jpg" alt=""></a>
       </div>
@@ -149,10 +140,7 @@ layout: page
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-1">
-        <p> </p>
-      </div>
-      <div class="col-sm-2">
+      <div class="col-sm-3">
         <br>
         <a href="https://lira.f.bg.ac.rs/ljiljana-lazarevic-en/" target="_blank"><img src="/assets/img/lazarevic_headshot.png" alt=""></a>
       </div>
