@@ -126,7 +126,7 @@ layout: page
       <div class="col-sm-9">
         <br>
         <h4><a href="https://www.eur.nl/people/rolf-zwaan" target="_blank">Rolf Zwaan</a></h4>
-        <i>Biological and Cognitive Psychology, Institute of Psychology, Erasmus University Rotterdam, The Netherlands</i>
+        <i>Department of Psychology, Child and Education Studies, Erasmus University Rotterdam, The Netherlands</i>
       </div>
     </div>
     <hr>
