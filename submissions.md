@@ -6,7 +6,7 @@ title: submissions
 
 <h2 align="center"> >>> <a href="https://docs.google.com/forms/d/e/1FAIpQLSczrognsXpKF4Ry6pvdpr7RJ2gkMQDy-AfipdOmMC-HBlo-Yg/viewform?usp=publish-editor" target="_blank">Submit your abstract here!</a> <<< </h2> 
 
-<h3 align="center">Deadline: July 24, 2026</h3>
+<h3 align="center">Deadline: <s>July 24, 2026</s> August 1, 2026</h3>
 
 
 <br>
