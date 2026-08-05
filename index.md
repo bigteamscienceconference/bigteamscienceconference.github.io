@@ -21,15 +21,6 @@ layout: page
 <section>
   <div class="container">
     <div class="row">
-      <div class="col-sm-3" align="center">
-        <a href="{{site.baseurl}}/submissions/"><img src="/assets/img/submit.png" alt="submission icon, with an arrow pointing up" height="100"></a>
-      </div>
-      <div class="col-sm-9">
-        <h2><a href="{{site.baseurl}}/submissions/">Submit an abstract</a></h2>
-      </div>
-    </div>
-    <hr>
-    <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <a href="{{site.baseurl}}/registration/"><img src="/assets/img/register.png" alt="" height="100"></a>
       </div>
@@ -40,6 +31,18 @@ layout: page
     </div>
   </div>
 </section>
+
+<!--
+    <div class="row">
+      <div class="col-sm-3" align="center">
+        <a href="{{site.baseurl}}/submissions/"><img src="/assets/img/submit.png" alt="submission icon, with an arrow pointing up" height="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h2><a href="{{site.baseurl}}/submissions/">Submit an abstract</a></h2>
+      </div>
+    </div>
+    <hr>
+-->
 
 ***
 
