@@ -21,12 +21,10 @@ layout: page
 <section>
   <div class="container">
     <div class="row">
-      <div class="col-sm-1" align="center">
-      </div>
       <div class="col-sm-3 col-xs-6" align="center">
         <a href="{{site.baseurl}}/registration/"><img src="/assets/img/register.png" alt="registration icon" height="100"></a>
       </div>
-      <div class="col-sm-8">
+      <div class="col-sm-9">
         <h2><a href="{{site.baseurl}}/registration/">Register</a></h2>
         <h3><i>(all fees are optional!)</i></h3>
       </div>
