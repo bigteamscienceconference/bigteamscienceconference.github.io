@@ -13,7 +13,7 @@ title: program
 
 ***
 
-<iframe src="<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR5KBtnm9pMeKdvSPNoIURu09GX-JjMtgC8Kb8rd10cnsBLp9Ro2d1CwjhvFdwpY_AOG5OsOuu3oYeM/pubhtml?gid=1014562965&amp;single=true&amp;widget=true&amp;headers=false"></iframe>" width="750" height="500"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR5KBtnm9pMeKdvSPNoIURu09GX-JjMtgC8Kb8rd10cnsBLp9Ro2d1CwjhvFdwpY_AOG5OsOuu3oYeM/pubhtml?gid=1014562965&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 > Note: Session times subject to change
 
