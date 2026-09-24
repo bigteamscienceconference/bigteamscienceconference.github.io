@@ -29,6 +29,14 @@ layout: page
         <h3><i>(all fees are optional!)</i></h3>
       </div>
     </div>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <a href="{{site.baseurl}}/program/"><img src="/assets/img/program.png" alt="" height="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h2><a href="{{site.baseurl}}/program/">Program & Schedule</a></h2>
+      </div>
+    </div>
   </div>
 </section>
 
