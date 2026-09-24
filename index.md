@@ -32,7 +32,7 @@ layout: page
     <br>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}/program/"><img src="/assets/img/program.png" alt="program icon" height="100"></a>
+        <a href="{{site.baseurl}}/program/"><img src="/assets/img/program.png" alt="program icon" height="90"></a>
       </div>
       <div class="col-sm-9">
         <h2><a href="{{site.baseurl}}/program/">Program & Schedule</a></h2>
