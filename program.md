@@ -35,7 +35,10 @@ title: program
 
 ## 2026 Program Committee
 
-> Coming soon
+* **Alma Jeftic**, *Advancing Big-team Reproducible Science through Increased Representation (ABRIR); University of Geneva, Switzerland; & Peace Research Institute at International Christian University, Japan* 
+* **Marine Joly**, *ManyPrimates & University of Portsmouth, UK*
+* **Mahmoud Elsherif**, *Psychological Science Accelerator, FORRT, ManyEyes, & University of Birmingham, UK*
+* **Losia Lagisz**, *Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (SORTEE); Canadian Reproducibility Network (CaRN) & University of Alberta, Canada*
 
 <br>
 
