@@ -47,9 +47,7 @@ layout: page
 ***
 
 ### Quick Links:
-<!--
 * <b><a href="{{site.baseurl}}/program/">2026 Program & schedule</a></b>
--->
 * <b><a href="{{site.baseurl}}/codeofconduct/">Code of conduct & meeting rules</a></b>
 * <b><a href="{{site.baseurl}}/access/">Accessibility information</a></b>
 * <b><a href="#sponsors">Sponsor organizations</a></b>
