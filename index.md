@@ -155,18 +155,16 @@ layout: page
         <a href="https://lira.f.bg.ac.rs/ljiljana-lazarevic-en/" target="_blank"><img src="/assets/img/lazarevic_headshot.png" alt=""></a>
       </div>
       <div class="col-sm-9">
+        <br>
         <h4><a href="https://lira.f.bg.ac.rs/ljiljana-lazarevic-en/" target="_blank">Ljiljana Lazarević</a></h4>
         <i>Institute of Psychology, Faculty of Philosophy, University of Belgrade, Serbia</i>
       </div>
     </div>
     <hr>
     <div class="row">
-      <div class="col-sm-8">
+      <div class="col-sm-12">
         <h4><i>Pre-Conference Workshop (October 1):</i></h4>
         <h2 style="color:#203664;">What is GitHub? A Brief Introduction</h2>
-      </div>
-      <div class="col-sm-4">
-        <br>
       </div>
     </div>
     <div class="row">
