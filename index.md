@@ -124,7 +124,7 @@ layout: page
       </div>
       <div class="col-sm-5">
         <br>
-        <a href="https://www.eur.nl/en/podcasts/research-it-happens" target="_blank"><img src="https://www.eur.nl/sites/corporate/files/styles/responsive_w1650_r16_9/public/2026-04/research-as-it-happens_final_logo-copy.jpg.avif?h=852e7b0b&itok=1i9U87xK" alt="Research as it happens" height="125"></a>
+        <a href="https://www.eur.nl/en/podcasts/research-it-happens" target="_blank"><img src="https://www.eur.nl/sites/corporate/files/styles/responsive_w1650_r16_9/public/2026-04/research-as-it-happens_final_logo-copy.jpg.avif?h=852e7b0b&itok=1i9U87xK" alt="Research as it happens" height="100"></a>
       </div>
     </div>
     <div class="row">
