@@ -159,9 +159,30 @@ layout: page
         <i>Institute of Psychology, Faculty of Philosophy, University of Belgrade, Serbia</i>
       </div>
     </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-8">
+        <h4><i>Pre-Conference Workshop (October 1):</i></h4>
+        <h2 style="color:#203664;">What is GitHub? A Brief Introduction</h2>
+      </div>
+      <div class="col-sm-4">
+        <br>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-3">
+        <br>
+        <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagmxxD0uU987yIRO/form" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/25/25231.png" alt="Github logo"></a>
+      </div>
+      <div class="col-sm-9">
+        In this webinar, we will introduce GitHub as a resource for sharing project files and building research portfolios. This webinar is ideal for those who have heard of GitHub, but have never used it before. We will cover navigating and creating repositories, downloading files, creating a research portfolio, and releases.
+        <h4><a href="https://airtable.com/appRoqMKzcK3NsXt4/pagmxxD0uU987yIRO/form" target="_blank">Register now</a></h4>
+      </div>
+    </div>
   </div>
 </section>
 <br>
+
 
 ***
 
