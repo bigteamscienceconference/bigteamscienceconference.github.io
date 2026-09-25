@@ -169,7 +169,6 @@ layout: page
     </div>
     <div class="row">
       <div class="col-sm-3">
-        <br>
         <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagmxxD0uU987yIRO/form" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/25/25231.png" alt="Github logo"></a>
       </div>
       <div class="col-sm-9">
