@@ -190,7 +190,7 @@ layout: page
         <a href="https://ua-edu.zoom.us/j/86723730580?pwd=qqJcE8aF7rIbhgDby1NOi3Od5wAxxN.1&jst=3" target="_blank"><img src="/assets/img/accessibility.png" alt="icon of a person with outstretched arms inside a circle" style="margin-top:10px;"></a>
       </div>
       <div class="col-sm-9">
-        <p style="margin-top:10px; margin-bottom:10px;>In this webinar, we'll go over the basics of making accessible presentations.</p>
+        <p style="margin-top:10px; margin-bottom:10px;">In this webinar, we'll go over the basics of making accessible presentations.</p>
         <h4><a href="https://ua-edu.zoom.us/j/86723730580?pwd=qqJcE8aF7rIbhgDby1NOi3Od5wAxxN.1&jst=3" target="_blank">Join via Zoom</a></h4>
         <a href="https://calendar.google.com/calendar/u/0/r/eventedit/copy/Mzk3dDltMjF1aGdhMTl0ZjBna2RhbHYxanIgYmlndGVhbXNjaWVuY2Vjb25mZXJlbmNlQG0" target="_blank"><b>Add to calendar</b></a>
       </div>
