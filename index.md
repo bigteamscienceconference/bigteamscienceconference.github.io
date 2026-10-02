@@ -170,10 +170,10 @@ layout: page
     </div>
     <div class="row">
       <div class="col-sm-3">
-        <img src="https://cdn-icons-png.flaticon.com/256/25/25231.png" alt="Github logo">
+        <img src="https://cdn-icons-png.flaticon.com/256/25/25231.png" alt="Github logo" style="margin-top:10px;">
       </div>
       <div class="col-sm-9">
-        In this webinar, we will introduce GitHub as a resource for sharing project files and building research portfolios. This webinar is ideal for those who have heard of GitHub, but have never used it before. We will cover navigating and creating repositories, downloading files, creating a research portfolio, and releases.
+        <p>In this webinar, we will introduce GitHub as a resource for sharing project files and building research portfolios. This webinar is ideal for those who have heard of GitHub, but have never used it before. We will cover navigating and creating repositories, downloading files, creating a research portfolio, and releases.</p>
         <h4><a href="https://youtu.be/GCKf3qF0a_0" target="_blank">Watch the recording</a></h4>
       </div>
     </div>
@@ -187,10 +187,10 @@ layout: page
     </div>
     <div class="row">
       <div class="col-sm-3">
-        <a href="https://ua-edu.zoom.us/j/86723730580?pwd=qqJcE8aF7rIbhgDby1NOi3Od5wAxxN.1&jst=3" target="_blank"><img src="/assets/img/accessibility.png" alt="icon of a person with outstretched arms inside a circle"></a>
+        <a href="https://ua-edu.zoom.us/j/86723730580?pwd=qqJcE8aF7rIbhgDby1NOi3Od5wAxxN.1&jst=3" target="_blank"><img src="/assets/img/accessibility.png" alt="icon of a person with outstretched arms inside a circle" style="margin-top:10px;"></a>
       </div>
       <div class="col-sm-9">
-        In this webinar, we'll go over the basics of making accessible presentations.
+        <p>In this webinar, we'll go over the basics of making accessible presentations.</p>
         <h4><a href="https://ua-edu.zoom.us/j/86723730580?pwd=qqJcE8aF7rIbhgDby1NOi3Od5wAxxN.1&jst=3" target="_blank">Join via Zoom</a></h4>
         <a href="https://calendar.google.com/calendar/u/0/r/eventedit/copy/Mzk3dDltMjF1aGdhMTl0ZjBna2RhbHYxanIgYmlndGVhbXNjaWVuY2Vjb25mZXJlbmNlQG0" target="_blank"><b>Add to calendar</b></a>
       </div>
