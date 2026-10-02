@@ -163,17 +163,36 @@ layout: page
     <hr>
     <div class="row">
       <div class="col-sm-12">
-        <h4><i>Pre-Conference Workshop (October 1):</i></h4>
+        <h4><i>Pre-Conference Workshop:</i></h4>
         <h2 style="color:#203664;">What is GitHub? A Brief Introduction</h2>
+        <b>October 1, 15:30-16:30 UTC</b>
       </div>
     </div>
     <div class="row">
       <div class="col-sm-3">
-        <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagmxxD0uU987yIRO/form" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/25/25231.png" alt="Github logo"></a>
+        <img src="https://cdn-icons-png.flaticon.com/256/25/25231.png" alt="Github logo">
       </div>
       <div class="col-sm-9">
         In this webinar, we will introduce GitHub as a resource for sharing project files and building research portfolios. This webinar is ideal for those who have heard of GitHub, but have never used it before. We will cover navigating and creating repositories, downloading files, creating a research portfolio, and releases.
-        <h4><a href="https://airtable.com/appRoqMKzcK3NsXt4/pagmxxD0uU987yIRO/form" target="_blank">Register now</a></h4>
+        <h4><a href="https://youtu.be/GCKf3qF0a_0" target="_blank">Watch the recording</a></h4>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-12">
+        <h4><i>Pre-Conference Workshop:</i></h4>
+        <h2 style="color:#203664;">Accessible Presentations</h2>
+        <b>October 5, 13:00-14:00 UTC</b>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-3">
+        <a href="https://ua-edu.zoom.us/j/86723730580?pwd=qqJcE8aF7rIbhgDby1NOi3Od5wAxxN.1&jst=3" target="_blank"><img src="/assets/img/accessibility.png" alt="icon of a person with outstretched arms inside a circle"></a>
+      </div>
+      <div class="col-sm-9">
+        In this webinar, we'll go over the basics of making accessible presentations.
+        <h4><a href="https://ua-edu.zoom.us/j/86723730580?pwd=qqJcE8aF7rIbhgDby1NOi3Od5wAxxN.1&jst=3" target="_blank">Join via Zoom</a></h4>
+        <a href="https://calendar.google.com/calendar/u/0/r/eventedit/copy/Mzk3dDltMjF1aGdhMTl0ZjBna2RhbHYxanIgYmlndGVhbXNjaWVuY2Vjb25mZXJlbmNlQG0" target="_blank"><b>Add to calendar</b></a>
       </div>
     </div>
   </div>
