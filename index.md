@@ -3,10 +3,10 @@ layout: page
 ---
 
 
-<img src="/assets/img/BTSCon2026_logo.png" alt="2026 Big Team Science Conference; hosted virtually" />
+<img src="/assets/img/btscon-no-year.png" alt="the Big Team Science Conference; hosted virtually, on Zoom" />
 
 
-<p>The goal of the <b>Big Team Science Conference</b> is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to large scientific collaborations. The fifth annual <b>Big Team Science Conference</b> will be held virtually via Zoom, October 6-8, 2026.</p>
+<p>The goal of the <b>Big Team Science Conference</b> is to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to large scientific collaborations. The fifth annual <b>Big Team Science Conference</b> was held virtually via Zoom, October 6-8, 2026. Information about the 2027 BTSCON is coming soon.</p>
 
 <p>We loosely define <i>Big Team Science</i> as collaborations wherein a comparatively large number of researchers pool their intellectual and/or material resources to pursue a common goal. If your work fits under this definition, we want to hear about it! And if you're curious about large collaborative science and want to learn more, join us at our next conference!</p>
 
@@ -18,6 +18,7 @@ layout: page
 
 ***
 
+<!--
 <section>
   <div class="container">
     <div class="row">
@@ -40,6 +41,7 @@ layout: page
     </div>
   </div>
 </section>
+-->
 
 <!--
     <div class="row">
