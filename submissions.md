@@ -10,7 +10,10 @@ title: submissions
 -->
 
 <h2 align="center">Submissions for the 2026 BTSCON are closed</h2>
+
+<!--
 <h3 align="center">Decision notifications will be sent out in late August/early September</h3>
+-->
 
 <br>
 
