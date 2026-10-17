@@ -7,7 +7,7 @@ title: 2026 BTSCON
 The 5th annual BTSCON was held virtually on October 6-8, 2026. The goal of this three-day virtual conference was to bring together a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. 
 
 ***
-### Program
+## Program
 
 The 2026 BTSCON program consisted of amazing keynotes, hackathons, panels, and talks from BTS experts and contributors from around the world. 
 
@@ -16,7 +16,7 @@ The 2026 BTSCON program consisted of amazing keynotes, hackathons, panels, and t
 <br>
 
 ***
-### 2026 Featured Sessions
+## 2026 Featured Sessions
 
 <section>
   <div class="container">
@@ -155,7 +155,7 @@ The 2026 BTSCON program consisted of amazing keynotes, hackathons, panels, and t
 
 ***
 
-### 2026 BTSCON Organizers
+## 2026 BTSCON Organizers
 
 * [**Heidi Baumgartner**](https://profiles.stanford.edu/heidi-baumgartner), *ManyBabies & Stanford University, USA* [[email]](mailto:heidib@stanford.edu)
 * [**Erin Buchanan**](https://www.aggieerin.com/), *Psychological Science Accelerator & Harrisburg University of Science and Technology, USA* [[email]](mailto:buchananlab@gmail.com)
