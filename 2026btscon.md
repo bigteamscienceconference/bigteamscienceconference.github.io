@@ -149,10 +149,6 @@ The 2026 BTSCON program consisted of amazing keynotes, hackathons, panels, and t
 </section>
 <br>
 
-
-<br>
-
-
 ***
 
 ## 2026 BTSCON Organizers
