@@ -202,7 +202,7 @@ layout: page
 
 ***
 
-<h2 id="sponsors">2026 Sponsor Organizations</h2>
+<h2 id="sponsors">Sponsor Organizations</h2>
 
 <section>
 	<div class="container">
@@ -222,7 +222,7 @@ layout: page
   <br>
   <div class="container">
 	  <div class="row justify-content-around" align="center">
-	    <p>This year's conference is organized by members of:</p>
+	    <p>The 2026 conference was organized by members of:</p>
 	  </div>
 		<div class="row justify-content-around">
 		  <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2" align="center">
