@@ -165,7 +165,6 @@ layout: page
       <div class="col-sm-12">
         <h4><i>Pre-Conference Workshop:</i></h4>
         <h2 style="color:#203664;">What is GitHub? A Brief Introduction</h2>
-        <b>October 1, 15:30-16:30 UTC</b>
       </div>
     </div>
     <div class="row">
@@ -182,7 +181,6 @@ layout: page
       <div class="col-sm-12">
         <h4><i>Pre-Conference Workshop:</i></h4>
         <h2 style="color:#203664;">Accessible Presentations</h2>
-        <b>October 5, 13:00-14:00 UTC</b>
       </div>
     </div>
     <div class="row">
